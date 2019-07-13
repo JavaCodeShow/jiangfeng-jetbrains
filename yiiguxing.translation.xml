@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Controls the class files eligible for component detection. * &lt;p&gt;Consider use of {@link #includeFilters} and {@link #excludeFilters} * for a more flexible approach." />
+      <item value="Specifies which types are not eligible for component scanning." />
       <item value="Note: You may use placeholders in package paths, but only resolved against system properties (analogous to resource paths). A component scan results in new bean definitions being registered; Spring's PropertySourcesPlaceholderConfigurer will apply to those bean definitions just like to regular bean definitions, but it won't apply to the component scan settings themselves." />
       <item value="Note: This tag implies the effects of the 'annotation-config' tag, activating @Required, @Autowired, @PostConstruct, @PreDestroy, @Resource, @PersistenceContext and @PersistenceUnit annotations in the component classes, which is usually desired for autodetected components (without external configuration). Turn off the 'annotation-config' attribute to deactivate this default behavior, for example in order to use custom BeanPostProcessor definitions for handling those annotations." />
       <item value="external" />
@@ -13,7 +15,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
