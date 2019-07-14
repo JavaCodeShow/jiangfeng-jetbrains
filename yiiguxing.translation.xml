@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="value" />
       <item value="resource Pattern" />
       <item value="scoped Proxy" />
       <item value="Indicates whether automatic detection of classes annotated with {@code @Component} * {@code @Repository}, {@code @Service}, or {@code @Controller} should be enabled." />
