@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal State Exception" />
       <item value="superfluous" />
       <item value="redundant" />
       <item value="a factory for obtaining metadata readers * for other classes (such as superclasses and interfaces)" />
