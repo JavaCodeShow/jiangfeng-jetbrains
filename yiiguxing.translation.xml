@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resource Pattern" />
+      <item value="scoped Proxy" />
+      <item value="Indicates whether automatic detection of classes annotated with {@code @Component} * {@code @Repository}, {@code @Service}, or {@code @Controller} should be enabled." />
       <item value="Controls the class files eligible for component detection. * &lt;p&gt;Consider use of {@link #includeFilters} and {@link #excludeFilters} * for a more flexible approach." />
       <item value="Specifies which types are not eligible for component scanning." />
       <item value="Note: You may use placeholders in package paths, but only resolved against system properties (analogous to resource paths). A component scan results in new bean definitions being registered; Spring's PropertySourcesPlaceholderConfigurer will apply to those bean definitions just like to regular bean definitions, but it won't apply to the component scan settings themselves." />
@@ -18,5 +21,8 @@
         <entry key="ENGLISH" value="5" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
