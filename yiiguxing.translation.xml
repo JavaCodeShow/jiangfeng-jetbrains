@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="superfluous" />
+      <item value="redundant" />
       <item value="a factory for obtaining metadata readers * for other classes (such as superclasses and interfaces)" />
       <item value="the metadata reader for the target class" />
       <item value="ASSIGNABLE TYPE" />
@@ -27,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
