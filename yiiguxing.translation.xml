@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execution" />
       <item value="事务" />
       <item value="Note that this name is the actual bean name used in the factory, which may * differ from the originally specified name: in particular for inner bean * names, the actual bean name might have been made unique through appending * &quot;#...&quot; suffixes. Use the {@link BeanFactoryUtils#originalBeanName(String)} * method to extract the original bean name (without suffix), if desired." />
       <item value="Set the name of the bean in the bean factory that created this bean. * &lt;p&gt;Invoked after population of normal bean properties but before an * init callback such as {@link InitializingBean#afterPropertiesSet()} * or a custom init-method." />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
