@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拓展" />
       <item value="execution" />
       <item value="事务" />
       <item value="Note that this name is the actual bean name used in the factory, which may * differ from the originally specified name: in particular for inner bean * names, the actual bean name might have been made unique through appending * &quot;#...&quot; suffixes. Use the {@link BeanFactoryUtils#originalBeanName(String)} * method to extract the original bean name (without suffix), if desired." />
