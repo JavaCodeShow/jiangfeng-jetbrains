@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delegates" />
       <item value="Exceptions handled by the annotated method. If empty, will default to any * exceptions listed in the method argument list." />
       <item value="Return the list of statically specified ApplicationListeners." />
       <item value="拓展" />
@@ -43,7 +44,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
+        <entry key="CHINESE" value="27" />
         <entry key="ENGLISH" value="27" />
       </map>
     </option>
