@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alias for the {@link #basePackages()} attribute. Allows for more concise annotation declarations e.g.: * {@code @MapperScan(&quot;org.my.pkg&quot;)} instead of {@code @MapperScan(basePackages = &quot;org.my.pkg&quot;})}." />
       <item value="delegates" />
       <item value="Exceptions handled by the annotated method. If empty, will default to any * exceptions listed in the method argument list." />
       <item value="Return the list of statically specified ApplicationListeners." />
@@ -45,7 +46,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
