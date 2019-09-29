@@ -10,6 +10,7 @@
       <mapping pattern="application-druid" type="PLAIN_TEXT" />
       <mapping pattern="看JVM视频做的笔记" type="PLAIN_TEXT" />
       <mapping pattern="keyMap" type="PLAIN_TEXT" />
+      <mapping pattern="fd" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="keymap" type="PLAIN_TEXT" />
