@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spring Expression Language (SpEL) expression used to veto method caching. * &lt;p&gt;Unlike {@link #condition}, this expression is evaluated after the method * has been called and can therefore refer to the {@code result}. * &lt;p&gt;Default is {@code &quot;&quot;}, meaning that caching is never vetoed. * &lt;p&gt;The SpEL expression evaluates against a dedicated context that provides the * following meta-data: * &lt;ul&gt; * &lt;li&gt;{@code #result} for a reference to the result of the method invocation. For * supported wrappers such as {@code Optional}, {@code #result} refers to the actual * object, not the wrapper&lt;/li&gt; * &lt;li&gt;{@code #root.method}, {@code #root.target}, and {@code #root.caches} for * references to the {@link java.lang.reflect.Method method}, target object, and * affected cache(s) respectively.&lt;/li&gt; * &lt;li&gt;Shortcuts for the method name ({@code #root.methodName}) and target class * ({@code #root.targetClass}) are also available. * &lt;li&gt;Method arguments can be accessed by index. For instance the second argument * can be accessed via {@code #root.args[1]}, {@code #p1} or {@code #a1}. Arguments * can also be accessed by name if that information is available.&lt;/li&gt; * &lt;/ul&gt;" />
+      <item value="The bean name of the custom {@link org.springframework.cache.interceptor.KeyGenerator} * to use. * &lt;p&gt;Mutually exclusive with the {@link #key} attribute." />
+      <item value="Names of the caches in which method invocation results are stored." />
+      <item value="caching behavior will be applied" />
+      <item value="&gt;Each time an advised method is invoked," />
+      <item value="indicating" />
       <item value="Alias for the {@link #basePackages()} attribute. Allows for more concise annotation declarations e.g.: * {@code @MapperScan(&quot;org.my.pkg&quot;)} instead of {@code @MapperScan(basePackages = &quot;org.my.pkg&quot;})}." />
       <item value="delegates" />
       <item value="Exceptions handled by the annotated method. If empty, will default to any * exceptions listed in the method argument list." />
@@ -45,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
