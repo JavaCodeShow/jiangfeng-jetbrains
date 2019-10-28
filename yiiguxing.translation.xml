@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expected alphabetic or numeric character" />
       <item value="eviction" />
       <item value="authority" />
       <item value="Annotation to activate Eureka Server related configuration" />
@@ -50,12 +51,11 @@
       <item value="implies" />
       <item value="Scans the classpath for annotated components that will be auto-registered as Spring beans. By default, the Spring-provided @Component, @Repository, @Service, @Controller, @RestController, @ControllerAdvice, and @Configuration stereotypes will be detected." />
       <item value="Rest Controller" />
-      <item value="Description : A set of build extensions to use from this project." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
