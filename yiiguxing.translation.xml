@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eliminate obsolete reference" />
       <item value="a copy of the original array, truncated or padded with nulls * to obtain the specified length" />
       <item value="Copies the specified array, truncating or padding with nulls (if necessary) * so the copy has the specified length. For all indices that are * valid in both the original array and the copy, the two arrays will * contain identical values. For any indices that are valid in the * copy but not the original, the copy will contain &lt;tt&gt;null&lt;/tt&gt;. * Such indices will exist if and only if the specified length * is greater than that of the original array. * The resulting array is of exactly the same class as the original array." />
       <item value="expected alphabetic or numeric character" />
@@ -50,12 +51,11 @@
       <item value="Note: This tag implies the effects of the 'annotation-config' tag, activating @Required, @Autowired, @PostConstruct, @PreDestroy, @Resource, @PersistenceContext and @PersistenceUnit annotations in the component classes, which is usually desired for autodetected components (without external configuration). Turn off the 'annotation-config' attribute to deactivate this default behavior, for example in order to use custom BeanPostProcessor definitions for handling those annotations." />
       <item value="external" />
       <item value="activating" />
-      <item value="implies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
