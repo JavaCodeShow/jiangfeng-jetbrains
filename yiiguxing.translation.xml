@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the estimated number of concurrently * updating threads. The implementation may use this value as" />
       <item value="Initializes or doubles table size. If null, allocates in * accord with initial capacity target held in field threshold. * Otherwise, because we are using power-of-two expansion, the * elements from each bin must either stay at same index, or move * with a power of two offset in the new table." />
       <item value="only If Absent" />
       <item value="Returns a power of two size for the given target capacity." />
@@ -50,12 +51,11 @@
       <item value="Specify whether scanned beans should be registered for lazy initialization." />
       <item value="The class or classes to use as the filter. * &lt;p&gt;The following table explains how the classes will be interpreted * based on the configured value of the {@link #type} attribute. * &lt;table border=&quot;1&quot;&gt; * &lt;tr&gt;&lt;th&gt;{@code FilterType}&lt;/th&gt;&lt;th&gt;Class Interpreted As&lt;/th&gt;&lt;/tr&gt; * &lt;tr&gt;&lt;td&gt;{@link FilterType#ANNOTATION ANNOTATION}&lt;/td&gt; * &lt;td&gt;the annotation itself&lt;/td&gt;&lt;/tr&gt; * &lt;tr&gt;&lt;td&gt;{@link FilterType#ASSIGNABLE_TYPE ASSIGNABLE_TYPE}&lt;/td&gt; * &lt;td&gt;the type that detected components should be assignable to&lt;/td&gt;&lt;/tr&gt; * &lt;tr&gt;&lt;td&gt;{@link FilterType#CUSTOM CUSTOM}&lt;/td&gt; * &lt;td&gt;an implementation of {@link TypeFilter}&lt;/td&gt;&lt;/tr&gt; * &lt;/table&gt; * &lt;p&gt;When multiple classes are specified, &lt;em&gt;OR&lt;/em&gt; logic is applied * &amp;mdash; for example, &quot;include types annotated with {@code @Foo} OR {@code @Bar}&quot;. * &lt;p&gt;Custom {@link TypeFilter TypeFilters} may optionally implement any of the * following {@link org.springframework.beans.factory.Aware Aware} interfaces, and * their respective methods will be called prior to {@link TypeFilter#match match}: * &lt;ul&gt; * &lt;li&gt;{@link org.springframework.context.EnvironmentAware EnvironmentAware}&lt;/li&gt; * &lt;li&gt;{@link org.springframework.beans.factory.BeanFactoryAware BeanFactoryAware} * &lt;li&gt;{@link org.springframework.beans.factory.BeanClassLoaderAware BeanClassLoaderAware} * &lt;li&gt;{@link org.springframework.context.ResourceLoaderAware ResourceLoaderAware} * &lt;/ul&gt; * &lt;p&gt;Specifying zero classes is permitted but will have no effect on component * scanning. * @since 4.2 * @see #value * @see #type" />
       <item value="value" />
-      <item value="resource Pattern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
