@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/1546844168/microservicecloud-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1546844168/lintCode.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\code\IntelliJ-IDEA" />
