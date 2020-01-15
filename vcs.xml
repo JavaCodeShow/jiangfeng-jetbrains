@@ -110,9 +110,13 @@
           <option name="url" value="http://192.168.21.122" />
           <option name="userName" value="jiangfeng@smarchit.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1546844168/mongo_showdoc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Administrator\Desktop" />
+    <option name="cloneParentDir" value="H:\code\IntelliJ-IDEA" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
