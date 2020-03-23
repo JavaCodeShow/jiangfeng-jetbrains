@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dubbo" />
       <item value="absent" />
       <item value="Executes the given task sometime in the future. The task * may execute in a new thread or in an existing pooled thread. * * If the task cannot be submitted for execution, either because this * executor has been shutdown or because its capacity has been reached, * the task is handled by the current {@code RejectedExecutionHandler}." />
       <item value="approximation" />
@@ -50,12 +51,11 @@
       <item value="redundant" />
       <item value="a factory for obtaining metadata readers * for other classes (such as superclasses and interfaces)" />
       <item value="the metadata reader for the target class" />
-      <item value="ASSIGNABLE TYPE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
