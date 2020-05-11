@@ -126,9 +126,17 @@
           <option name="url" value="https://github.com/litten/hexo-theme-yilia.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.8.149:8081/fengyu/fy-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.8.149:8081" />
+          <option name="userName" value="jiangfeng" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\blog\jiangfeng-blog\themes" />
+    <option name="cloneParentDir" value="F:\idea" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
