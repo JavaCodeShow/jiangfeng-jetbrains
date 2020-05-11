@@ -134,6 +134,10 @@
           <option name="url" value="http://192.168.8.149:8081" />
           <option name="userName" value="jiangfeng" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.8.149:8081/fengyu/fy-core-front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\idea" />
