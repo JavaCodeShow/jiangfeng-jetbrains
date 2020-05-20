@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="自定义款支付状态" />
+      <item value="自定义款" />
+      <item value="异常款支付状态" />
+      <item value="Equivalent" />
+      <item value="ORDINARY" />
       <item value="dubbo" />
       <item value="absent" />
       <item value="Executes the given task sometime in the future. The task * may execute in a new thread or in an existing pooled thread. * * If the task cannot be submitted for execution, either because this * executor has been shutdown or because its capacity has been reached, * the task is handled by the current {@code RejectedExecutionHandler}." />
@@ -46,16 +51,11 @@
       <item value="* Register bean definitions as necessary based on the given annotation metadata of * the importing {@code @Configuration} class. * &lt;p&gt;Note that {@link BeanDefinitionRegistryPostProcessor} types may &lt;em&gt;not&lt;/em&gt; be * registered here, due to lifecycle constraints related to {@code @Configuration} * class processing. * @param importingClassMetadata annotation metadata of the importing class * @param registry current bean definition registry */" />
       <item value="Select and return the names of which class(es) should be imported based on * the {@link AnnotationMetadata} of the importing @{@link Configuration} class. */" />
       <item value="equivalent" />
-      <item value="Illegal State Exception" />
-      <item value="superfluous" />
-      <item value="redundant" />
-      <item value="a factory for obtaining metadata readers * for other classes (such as superclasses and interfaces)" />
-      <item value="the metadata reader for the target class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
