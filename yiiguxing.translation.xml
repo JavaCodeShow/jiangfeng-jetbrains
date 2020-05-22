@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="记录修改客户名称日志" />
       <item value="Parameter index out of range (2 &gt; number of parameters, which is 1)" />
       <item value="自定义款支付状态" />
       <item value="自定义款" />
@@ -50,11 +51,10 @@
       <item value="Standalone application context, accepting annotated classes as input - in particular" />
       <item value="Import Selector" />
       <item value="* Register bean definitions as necessary based on the given annotation metadata of * the importing {@code @Configuration} class. * &lt;p&gt;Note that {@link BeanDefinitionRegistryPostProcessor} types may &lt;em&gt;not&lt;/em&gt; be * registered here, due to lifecycle constraints related to {@code @Configuration} * class processing. * @param importingClassMetadata annotation metadata of the importing class * @param registry current bean definition registry */" />
-      <item value="Select and return the names of which class(es) should be imported based on * the {@link AnnotationMetadata} of the importing @{@link Configuration} class. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
       </map>
     </option>
