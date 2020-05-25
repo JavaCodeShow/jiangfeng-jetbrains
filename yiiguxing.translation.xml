@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="零担订单取消签收" />
       <item value="记录修改客户名称日志" />
       <item value="Parameter index out of range (2 &gt; number of parameters, which is 1)" />
       <item value="自定义款支付状态" />
@@ -50,12 +51,11 @@
       <item value="* * Return an instance (possibly shared or independent) of the object * managed by this factory. * &lt;p&gt;As with a {@link BeanFactory}, this allows support for both the * Singleton and Prototype design pattern. * &lt;p&gt;If this FactoryBean is not fully initialized yet at the time of * the call (for example because it is involved in a circular reference), * throw a corresponding {@link FactoryBeanNotInitializedException}. * &lt;p&gt;As of Spring 2.0, FactoryBeans are allowed to return {@code null} * objects. The factory will consider this as normal value to be used; it * will not throw a FactoryBeanNotInitializedException in this case anymore. * FactoryBean implementations are encouraged to throw * FactoryBeanNotInitializedException themselves now, as appropriate. * @return an instance of the bean (can be {@code null}) * @throws Exception in case of creation errors * @see FactoryBeanNotInitializedException" />
       <item value="Standalone application context, accepting annotated classes as input - in particular" />
       <item value="Import Selector" />
-      <item value="* Register bean definitions as necessary based on the given annotation metadata of * the importing {@code @Configuration} class. * &lt;p&gt;Note that {@link BeanDefinitionRegistryPostProcessor} types may &lt;em&gt;not&lt;/em&gt; be * registered here, due to lifecycle constraints related to {@code @Configuration} * class processing. * @param importingClassMetadata annotation metadata of the importing class * @param registry current bean definition registry */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
