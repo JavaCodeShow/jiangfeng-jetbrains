@@ -34,6 +34,10 @@
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
@@ -62,6 +66,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="RecentFiles" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
@@ -78,11 +83,10 @@
   <action id="ShowUmlDiagram">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Unwrap" />
   <action id="Vcs.Log.ShowAllAffected" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
+  <action id="Vcs.ShowMessageHistory" />
   <action id="VcsHistory.ShowAllAffected" />
   <action id="context.save" />
 </keymap>
