@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bulk Cargo" />
+      <item value="Cargo" />
+      <item value="Bulk" />
       <item value="Carrier Organ Model" />
       <item value="Carrier" />
       <item value="Organ" />
@@ -48,14 +51,12 @@
       <item value="Return the list of statically specified ApplicationListeners." />
       <item value="拓展" />
       <item value="execution" />
-      <item value="事务" />
-      <item value="Note that this name is the actual bean name used in the factory, which may * differ from the originally specified name: in particular for inner bean * names, the actual bean name might have been made unique through appending * &quot;#...&quot; suffixes. Use the {@link BeanFactoryUtils#originalBeanName(String)} * method to extract the original bean name (without suffix), if desired." />
-      <item value="Set the name of the bean in the bean factory that created this bean. * &lt;p&gt;Invoked after population of normal bean properties but before an * init callback such as {@link InitializingBean#afterPropertiesSet()} * or a custom init-method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
