@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参数转换" />
       <item value="bulk Cargo" />
       <item value="Cargo" />
       <item value="Bulk" />
@@ -50,11 +51,10 @@
       <item value="Exceptions handled by the annotated method. If empty, will default to any * exceptions listed in the method argument list." />
       <item value="Return the list of statically specified ApplicationListeners." />
       <item value="拓展" />
-      <item value="execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
+        <entry key="CHINESE" value="69" />
         <entry key="ENGLISH" value="69" />
         <entry key="SPANISH" value="1" />
       </map>
