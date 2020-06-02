@@ -178,9 +178,13 @@
           <option name="url" value="https://github.com/twinformatics/eureka-consul-adapter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Mr-zhango/SpringClouldAlibaba-Nacos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\idea\jumen" />
+    <option name="cloneParentDir" value="F:\idea\myself\SpringCloud" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
