@@ -202,6 +202,10 @@
           <option name="url" value="https://github.com/1546844168/threadStudy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.8.149:8081/fengyu/slk-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\idea\myself" />
