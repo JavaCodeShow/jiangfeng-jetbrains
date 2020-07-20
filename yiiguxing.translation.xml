@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rounding mode to round towards zero. Never increments the digit * prior to a discarded fraction (i.e., truncates). Note that this * rounding mode never increases the magnitude of the calculated value." />
       <item value="减免金额" />
       <item value="Second" />
       <item value="Transit Track" />
@@ -50,12 +51,11 @@
       <item value="The bean name of the custom {@link org.springframework.cache.interceptor.KeyGenerator} * to use. * &lt;p&gt;Mutually exclusive with the {@link #key} attribute." />
       <item value="Names of the caches in which method invocation results are stored." />
       <item value="caching behavior will be applied" />
-      <item value="&gt;Each time an advised method is invoked," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
