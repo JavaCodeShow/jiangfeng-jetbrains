@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不限" />
       <item value="EMPLOYEE" />
       <item value="getOutputStream() has already been called for this response" />
       <item value="must be inconsistent" />
@@ -50,11 +51,10 @@
       <item value="expected alphabetic or numeric character" />
       <item value="eviction" />
       <item value="authority" />
-      <item value="Annotation to activate Eureka Server related configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="77" />
         <entry key="ENGLISH" value="77" />
         <entry key="SPANISH" value="1" />
       </map>
