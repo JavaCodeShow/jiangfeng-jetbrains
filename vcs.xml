@@ -214,6 +214,10 @@
           <option name="url" value="http://192.168.8.149:8081/fengyu/eas-ms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.8.149:8081/fengyu/ias-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\idea\jumen" />
