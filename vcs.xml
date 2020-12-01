@@ -234,6 +234,10 @@
           <option name="url" value="http://git.marketin.cn" />
           <option name="userName" value="jiang.feng" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.marketin.cn/ma/ma-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code\marketin" />
