@@ -227,7 +227,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.marketin.cn/ma/ma-core.git" />
+          <option name="url" value="https://git.marketin.cn/ma/ma-boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -239,7 +239,23 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://git.marketin.cn/ma/ma-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.marketin.cn/ma/ma-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://git.marketin.cn/ma/ma-module-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.marketin.cn/ma/ma-social.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.marketin.cn/ma/ma-points-action.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -252,7 +268,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\code\marketin" />
+    <option name="cloneParentDir" value="F:\code\marketin" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
