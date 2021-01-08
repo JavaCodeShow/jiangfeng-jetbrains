@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="最小支付金额" />
+      <item value="最小" />
       <item value="延时消息" />
       <item value="Banking Grant" />
       <item value="区域合伙人" />
@@ -49,8 +54,6 @@
       <item value="MILLISECONDS" />
       <item value="MICROSECONDS" />
       <item value="eliminate obsolete reference" />
-      <item value="a copy of the original array, truncated or padded with nulls * to obtain the specified length" />
-      <item value="Copies the specified array, truncating or padding with nulls (if necessary) * so the copy has the specified length. For all indices that are * valid in both the original array and the copy, the two arrays will * contain identical values. For any indices that are valid in the * copy but not the original, the copy will contain &lt;tt&gt;null&lt;/tt&gt;. * Such indices will exist if and only if the specified length * is greater than that of the original array. * The resulting array is of exactly the same class as the original array." />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,9 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608269951058" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="lastTrimTime" value="1610100442373" />
   </component>
 </application>
