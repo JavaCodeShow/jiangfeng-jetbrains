@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="card" />
       <item value="自定义" />
       <item value="Failed to introspect Class" />
       <item value="introspect" />
@@ -53,17 +54,16 @@
       <item value="the estimated number of concurrently * updating threads. The implementation may use this value as" />
       <item value="Initializes or doubles table size. If null, allocates in * accord with initial capacity target held in field threshold. * Otherwise, because we are using power-of-two expansion, the * elements from each bin must either stay at same index, or move * with a power of two offset in the new table." />
       <item value="only If Absent" />
-      <item value="Returns a power of two size for the given target capacity." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612428047740" />
+    <option name="lastTrimTime" value="1614758603328" />
   </component>
 </application>
