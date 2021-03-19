@@ -16,6 +16,7 @@
       <mapping pattern="f" type="PLAIN_TEXT" />
       <mapping pattern="lib" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping ext="mmap" type="PLAIN_TEXT" />
       <mapping pattern="mybatis-config" type="XML" />
       <mapping pattern="AccountMapper" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
