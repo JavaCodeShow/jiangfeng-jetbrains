@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="8081" />
       <item value="m lead points change log" />
       <item value="card" />
       <item value="自定义" />
@@ -53,17 +54,16 @@
       <item value="widget Key" />
       <item value="Sorts the specified range of the array using the given * workspace array slice if possible for merging" />
       <item value="the estimated number of concurrently * updating threads. The implementation may use this value as" />
-      <item value="Initializes or doubles table size. If null, allocates in * accord with initial capacity target held in field threshold. * Otherwise, because we are using power-of-two expansion, the * elements from each bin must either stay at same index, or move * with a power of two offset in the new table." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
+        <entry key="CHINESE" value="88" />
         <entry key="ENGLISH" value="87" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615363007738" />
+    <option name="lastTrimTime" value="1616731389942" />
   </component>
 </application>
