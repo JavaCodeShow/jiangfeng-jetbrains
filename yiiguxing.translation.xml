@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="# Max number of &quot;idle&quot; connections in the pool. Use a negative value to indicate an unlimited number of idle connections.&#10;" />
+      <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
+      <item value="# Maximum amount of time (in milliseconds) a connection allocation should block before throwing an exception when the pool is exhausted. Use a negative value to block indefinitely.&#10;" />
       <item value="8081" />
       <item value="m lead points change log" />
       <item value="card" />
@@ -51,9 +54,6 @@
       <item value="approximation" />
       <item value="Returns the amount of free memory in the Java Virtual Machine. * Calling the * &lt;code&gt;gc&lt;/code&gt; method may result in increasing the value returned * by &lt;code&gt;freeMemory.&lt;/code&gt; * * @return an approximation to the total amount of memory currently * available for future allocated objects, measured in bytes." />
       <item value="widget" />
-      <item value="widget Key" />
-      <item value="Sorts the specified range of the array using the given * workspace array slice if possible for merging" />
-      <item value="the estimated number of concurrently * updating threads. The implementation may use this value as" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616731389942" />
+    <option name="lastTrimTime" value="1620619110889" />
   </component>
 </application>
