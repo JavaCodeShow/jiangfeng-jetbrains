@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="create" />
       <item value="# Max number of &quot;idle&quot; connections in the pool. Use a negative value to indicate an unlimited number of idle connections.&#10;" />
       <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
       <item value="# Maximum amount of time (in milliseconds) a connection allocation should block before throwing an exception when the pool is exhausted. Use a negative value to block indefinitely.&#10;" />
@@ -53,7 +54,6 @@
       <item value="Executes the given task sometime in the future. The task * may execute in a new thread or in an existing pooled thread. * * If the task cannot be submitted for execution, either because this * executor has been shutdown or because its capacity has been reached, * the task is handled by the current {@code RejectedExecutionHandler}." />
       <item value="approximation" />
       <item value="Returns the amount of free memory in the Java Virtual Machine. * Calling the * &lt;code&gt;gc&lt;/code&gt; method may result in increasing the value returned * by &lt;code&gt;freeMemory.&lt;/code&gt; * * @return an approximation to the total amount of memory currently * available for future allocated objects, measured in bytes." />
-      <item value="widget" />
     </histories>
     <option name="languageScores">
       <map>
