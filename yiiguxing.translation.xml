@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="System" />
       <item value="create" />
       <item value="# Max number of &quot;idle&quot; connections in the pool. Use a negative value to indicate an unlimited number of idle connections.&#10;" />
       <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
@@ -53,17 +54,16 @@
       <item value="absent" />
       <item value="Executes the given task sometime in the future. The task * may execute in a new thread or in an existing pooled thread. * * If the task cannot be submitted for execution, either because this * executor has been shutdown or because its capacity has been reached, * the task is handled by the current {@code RejectedExecutionHandler}." />
       <item value="approximation" />
-      <item value="Returns the amount of free memory in the Java Virtual Machine. * Calling the * &lt;code&gt;gc&lt;/code&gt; method may result in increasing the value returned * by &lt;code&gt;freeMemory.&lt;/code&gt; * * @return an approximation to the total amount of memory currently * available for future allocated objects, measured in bytes." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620619110889" />
+    <option name="lastTrimTime" value="1621583742988" />
   </component>
 </application>
