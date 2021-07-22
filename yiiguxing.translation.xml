@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="你好" />
+      <item value="/seller/v1/stock_code_order/stock_code/download" />
       <item value="获取一定数量" />
       <item value="会哦去" />
       <item value="排行" />
@@ -52,18 +54,16 @@
       <item value="Parameter index out of range (2 &gt; number of parameters, which is 1)" />
       <item value="自定义款支付状态" />
       <item value="自定义款" />
-      <item value="异常款支付状态" />
-      <item value="Equivalent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="110" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623395406479" />
+    <option name="lastTrimTime" value="1626938115646" />
   </component>
 </application>
