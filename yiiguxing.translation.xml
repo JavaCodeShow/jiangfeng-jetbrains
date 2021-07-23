@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="格式有误" />
       <item value="Acquires a permit from this semaphore, only if one is available at the time of invocation. &lt;p&gt;Acquires a permit, if one is available and returns immediately, with the value {@code true}, reducing the number of available permits by one. &lt;p&gt;If no permit is available then this method will return immediately with the value {@code false}. &lt;p&gt;Even when this semaphore has been set to use a fair ordering policy, a call to {@code tryAcquire()} &lt;em&gt;will&lt;em&gt; immediately acquire a permit if one is available, whether or not other threads are currently waiting. This &amp;quot;barging&amp;quot; behavior can be useful in certain circumstances, even though it breaks fairness. If you want to honor the fairness setting, then use {@link tryAcquire(long, TimeUnit) tryAcquire(0, TimeUnit.SECONDS) } which is almost equivalent (it also detects interruption). @return {@code true} if a permit was acquired and {@code false} otherwise" />
       <item value="你好" />
       <item value="/seller/v1/stock_code_order/stock_code/download" />
@@ -53,12 +54,11 @@
       <item value="零担订单取消签收" />
       <item value="记录修改客户名称日志" />
       <item value="Parameter index out of range (2 &gt; number of parameters, which is 1)" />
-      <item value="自定义款支付状态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="112" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
