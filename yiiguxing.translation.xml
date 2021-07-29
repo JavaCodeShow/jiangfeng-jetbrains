@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
+      <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
+      <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
       <item value="MILLISECONDS" />
       <item value="java.util.HashSet cannot be cast to java.lang.String" />
       <item value="格式有误" />
@@ -51,14 +54,12 @@
       <item value="Cargo" />
       <item value="Bulk" />
       <item value="Carrier Organ Model" />
-      <item value="Carrier" />
-      <item value="Organ" />
-      <item value="零担订单取消签收" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="115" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
