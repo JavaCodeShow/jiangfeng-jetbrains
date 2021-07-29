@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc. &lt;p&gt; The simplest implementation of this interface is just: &lt;pre&gt; {@code class SimpleThreadFactory implements ThreadFactory { public Thread newThread(Runnable r) { return new Thread(r); } }}&lt;pre&gt; The {@link ExecutorsdefaultThreadFactory} method provides a more useful simple implementation, that sets the created thread context to known values before returning it. @since 1.5 @author Doug Lea" />
+      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc." />
+      <item value="Decorate the given {@code Runnable}, returning a potentially wrapped" />
       <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
       <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
       <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
@@ -51,14 +54,11 @@
       <item value="2020-05-28 16:52:49.084 INFO 13504 --- [nio-8002-exec-4] c.j.o.s.zy.impl.BulkCargoServiceImpl : 开始调用fy-core大宗货源运单签收接口,WayBillModel(companyCode=156100449, orderNumbers=000) 2020-05-28 16:53:07.931 ERROR 13504 --- [ystrix-oas-ms-3] c.j.o.c.h.FyBulkCargoFeignClientFallback : 调用fy-core车辆轨迹查询接口失败---服务异常,请联系工作人员!接口，status 404 reading FyBulkFeignClient#trackWaybill(WayBillModel)" />
       <item value="参数转换" />
       <item value="bulk Cargo" />
-      <item value="Cargo" />
-      <item value="Bulk" />
-      <item value="Carrier Organ Model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
