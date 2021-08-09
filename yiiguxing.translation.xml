@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="封顶" />
+      <item value="不封顶" />
       <item value="Sync Admission Item Job" />
       <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc. &lt;p&gt; The simplest implementation of this interface is just: &lt;pre&gt; {@code class SimpleThreadFactory implements ThreadFactory { public Thread newThread(Runnable r) { return new Thread(r); } }}&lt;pre&gt; The {@link ExecutorsdefaultThreadFactory} method provides a more useful simple implementation, that sets the created thread context to known values before returning it. @since 1.5 @author Doug Lea" />
       <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc." />
@@ -52,19 +54,17 @@
       <item value="Second" />
       <item value="Transit Track" />
       <item value="Returns a string whose value is this string, with any leading and trailing * whitespace removed." />
-      <item value="2020-05-28 16:52:49.084 INFO 13504 --- [nio-8002-exec-4] c.j.o.s.zy.impl.BulkCargoServiceImpl : 开始调用fy-core大宗货源运单签收接口,WayBillModel(companyCode=156100449, orderNumbers=000) 2020-05-28 16:53:07.931 ERROR 13504 --- [ystrix-oas-ms-3] c.j.o.c.h.FyBulkCargoFeignClientFallback : 调用fy-core车辆轨迹查询接口失败---服务异常,请联系工作人员!接口，status 404 reading FyBulkFeignClient#trackWaybill(WayBillModel)" />
-      <item value="参数转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="120" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627874652579" />
+    <option name="lastTrimTime" value="1628497884621" />
   </component>
 </application>
