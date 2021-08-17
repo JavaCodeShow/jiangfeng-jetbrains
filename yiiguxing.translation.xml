@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="normal" />
+      <item value="正常" />
       <item value="文案" />
       <item value="prepare" />
       <item value="是否可以下单" />
@@ -52,19 +54,17 @@
       <item value="不限" />
       <item value="EMPLOYEE" />
       <item value="getOutputStream() has already been called for this response" />
-      <item value="must be inconsistent" />
-      <item value="折扣额度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="127" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628497884621" />
+    <option name="lastTrimTime" value="1629168870886" />
   </component>
 </application>
