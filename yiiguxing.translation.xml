@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="constitute" />
       <item value="超出限购的数量" />
       <item value="normal" />
       <item value="正常" />
@@ -53,12 +54,11 @@
       <item value="Banking Grant" />
       <item value="区域合伙人" />
       <item value="不限" />
-      <item value="EMPLOYEE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
