@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="remainder" />
+      <item value="余数" />
       <item value="优惠" />
       <item value="选中的票面" />
       <item value="constitute" />
@@ -52,13 +54,11 @@
       <item value="进行中" />
       <item value="最小支付金额" />
       <item value="最小" />
-      <item value="延时消息" />
-      <item value="Banking Grant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="132" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
