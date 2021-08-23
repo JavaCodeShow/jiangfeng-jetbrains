@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} for retrieval via the {@link org.springframework.aop.framework.AopContext} class. Off by default, i.e. no guarantees that {@code AopContext} access will work. @since 4.3.1" />
       <item value="Effective" />
       <item value="有效的" />
       <item value="满足" />
@@ -53,12 +54,11 @@
       <item value="Failed to introspect Class" />
       <item value="introspect" />
       <item value="User Admin Role Entity Mapper" />
-      <item value="执行失败" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
