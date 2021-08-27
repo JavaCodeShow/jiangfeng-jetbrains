@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Together" />
       <item value="折扣系数" />
       <item value="Actual" />
       <item value="实际" />
@@ -53,12 +54,11 @@
       <item value="8081" />
       <item value="m lead points change log" />
       <item value="card" />
-      <item value="自定义" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
