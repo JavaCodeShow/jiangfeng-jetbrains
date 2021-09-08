@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="包装" />
       <item value="忽略" />
       <item value="Together" />
       <item value="折扣系数" />
@@ -53,18 +54,17 @@
       <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
       <item value="# Maximum amount of time (in milliseconds) a connection allocation should block before throwing an exception when the pool is exhausted. Use a negative value to block indefinitely.&#10;" />
       <item value="8081" />
-      <item value="m lead points change log" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="141" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630314280093" />
+    <option name="lastTrimTime" value="1631089249570" />
   </component>
 </application>
