@@ -1,9 +1,50 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="包装" />
+      <item value="忽略" />
+      <item value="Together" />
+      <item value="折扣系数" />
+      <item value="Actual" />
+      <item value="实际" />
+      <item value="Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} for retrieval via the {@link org.springframework.aop.framework.AopContext} class. Off by default, i.e. no guarantees that {@code AopContext} access will work. @since 4.3.1" />
+      <item value="Effective" />
+      <item value="有效的" />
+      <item value="满足" />
+      <item value="命中" />
+      <item value="remainder" />
+      <item value="余数" />
+      <item value="优惠" />
+      <item value="选中的票面" />
+      <item value="constitute" />
+      <item value="超出限购的数量" />
+      <item value="normal" />
+      <item value="正常" />
+      <item value="文案" />
+      <item value="prepare" />
+      <item value="是否可以下单" />
+      <item value="Discounted" />
+      <item value="优惠后的价格" />
+      <item value="封顶" />
+      <item value="不封顶" />
+      <item value="Sync Admission Item Job" />
+      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc. &lt;p&gt; The simplest implementation of this interface is just: &lt;pre&gt; {@code class SimpleThreadFactory implements ThreadFactory { public Thread newThread(Runnable r) { return new Thread(r); } }}&lt;pre&gt; The {@link ExecutorsdefaultThreadFactory} method provides a more useful simple implementation, that sets the created thread context to known values before returning it. @since 1.5 @author Doug Lea" />
+      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc." />
+      <item value="Decorate the given {@code Runnable}, returning a potentially wrapped" />
+      <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
+      <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
+      <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
+      <item value="MILLISECONDS" />
+      <item value="java.util.HashSet cannot be cast to java.lang.String" />
+      <item value="格式有误" />
+      <item value="Acquires a permit from this semaphore, only if one is available at the time of invocation. &lt;p&gt;Acquires a permit, if one is available and returns immediately, with the value {@code true}, reducing the number of available permits by one. &lt;p&gt;If no permit is available then this method will return immediately with the value {@code false}. &lt;p&gt;Even when this semaphore has been set to use a fair ordering policy, a call to {@code tryAcquire()} &lt;em&gt;will&lt;em&gt; immediately acquire a permit if one is available, whether or not other threads are currently waiting. This &amp;quot;barging&amp;quot; behavior can be useful in certain circumstances, even though it breaks fairness. If you want to honor the fairness setting, then use {@link tryAcquire(long, TimeUnit) tryAcquire(0, TimeUnit.SECONDS) } which is almost equivalent (it also detects interruption). @return {@code true} if a permit was acquired and {@code false} otherwise" />
+      <item value="你好" />
+      <item value="/seller/v1/stock_code_order/stock_code/download" />
+      <item value="获取一定数量" />
+      <item value="会哦去" />
       <item value="排行" />
       <item value="pai" />
       <item value="fd " />
@@ -13,57 +54,17 @@
       <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
       <item value="# Maximum amount of time (in milliseconds) a connection allocation should block before throwing an exception when the pool is exhausted. Use a negative value to block indefinitely.&#10;" />
       <item value="8081" />
-      <item value="m lead points change log" />
-      <item value="card" />
-      <item value="自定义" />
-      <item value="Failed to introspect Class" />
-      <item value="introspect" />
-      <item value="User Admin Role Entity Mapper" />
-      <item value="执行失败" />
-      <item value="已完成" />
-      <item value="进行中" />
-      <item value="最小支付金额" />
-      <item value="最小" />
-      <item value="延时消息" />
-      <item value="Banking Grant" />
-      <item value="区域合伙人" />
-      <item value="不限" />
-      <item value="EMPLOYEE" />
-      <item value="getOutputStream() has already been called for this response" />
-      <item value="must be inconsistent" />
-      <item value="折扣额度" />
-      <item value="Rounding mode to round towards zero. Never increments the digit * prior to a discarded fraction (i.e., truncates). Note that this * rounding mode never increases the magnitude of the calculated value." />
-      <item value="减免金额" />
-      <item value="Second" />
-      <item value="Transit Track" />
-      <item value="Returns a string whose value is this string, with any leading and trailing * whitespace removed." />
-      <item value="2020-05-28 16:52:49.084 INFO 13504 --- [nio-8002-exec-4] c.j.o.s.zy.impl.BulkCargoServiceImpl : 开始调用fy-core大宗货源运单签收接口,WayBillModel(companyCode=156100449, orderNumbers=000) 2020-05-28 16:53:07.931 ERROR 13504 --- [ystrix-oas-ms-3] c.j.o.c.h.FyBulkCargoFeignClientFallback : 调用fy-core车辆轨迹查询接口失败---服务异常,请联系工作人员!接口，status 404 reading FyBulkFeignClient#trackWaybill(WayBillModel)" />
-      <item value="参数转换" />
-      <item value="bulk Cargo" />
-      <item value="Cargo" />
-      <item value="Bulk" />
-      <item value="Carrier Organ Model" />
-      <item value="Carrier" />
-      <item value="Organ" />
-      <item value="零担订单取消签收" />
-      <item value="记录修改客户名称日志" />
-      <item value="Parameter index out of range (2 &gt; number of parameters, which is 1)" />
-      <item value="自定义款支付状态" />
-      <item value="自定义款" />
-      <item value="异常款支付状态" />
-      <item value="Equivalent" />
-      <item value="ORDINARY" />
-      <item value="dubbo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="141" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622440708830" />
+    <option name="lastTrimTime" value="1631089249570" />
   </component>
 </application>
