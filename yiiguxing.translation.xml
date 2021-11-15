@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Effective" />
+      <item value="有效的" />
       <item value="Combo Combination" />
       <item value="get Available" />
       <item value="get Avaliable" />
@@ -18,8 +20,6 @@
       <item value="Actual" />
       <item value="实际" />
       <item value="Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} for retrieval via the {@link org.springframework.aop.framework.AopContext} class. Off by default, i.e. no guarantees that {@code AopContext} access will work. @since 4.3.1" />
-      <item value="Effective" />
-      <item value="有效的" />
       <item value="满足" />
       <item value="命中" />
       <item value="remainder" />
