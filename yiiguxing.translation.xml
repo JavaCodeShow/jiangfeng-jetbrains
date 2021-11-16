@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="has Filterd Goods Cart Infos" />
       <item value="Effective" />
       <item value="有效的" />
       <item value="Combo Combination" />
@@ -53,7 +54,6 @@
       <item value="获取一定数量" />
       <item value="会哦去" />
       <item value="排行" />
-      <item value="pai" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636613134962" />
+    <option name="lastTrimTime" value="1637051005889" />
   </component>
 </application>
