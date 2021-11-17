@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="一键添加" />
       <item value="来自立即下单接口" />
       <item value="has Filterd Goods Cart Infos" />
       <item value="Effective" />
@@ -53,7 +54,6 @@
       <item value="你好" />
       <item value="/seller/v1/stock_code_order/stock_code/download" />
       <item value="获取一定数量" />
-      <item value="会哦去" />
     </histories>
     <option name="languageScores">
       <map>
