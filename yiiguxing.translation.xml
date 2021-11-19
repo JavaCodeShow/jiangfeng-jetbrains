@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="逻辑过滤" />
+      <item value="物理删除" />
       <item value="combo Group Type Enum List" />
       <item value="Executor" />
       <item value="再次处理返回结果" />
@@ -52,8 +54,6 @@
       <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
       <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
       <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
-      <item value="MILLISECONDS" />
-      <item value="java.util.HashSet cannot be cast to java.lang.String" />
     </histories>
     <option name="languageScores">
       <map>
