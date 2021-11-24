@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="register" />
       <item value="逻辑过滤" />
       <item value="物理删除" />
       <item value="combo Group Type Enum List" />
@@ -53,7 +54,6 @@
       <item value="Decorate the given {@code Runnable}, returning a potentially wrapped" />
       <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
       <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
-      <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637051005889" />
+    <option name="lastTrimTime" value="1637726421650" />
   </component>
 </application>
