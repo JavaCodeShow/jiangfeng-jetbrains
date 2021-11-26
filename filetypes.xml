@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="测试" type="PLAIN_TEXT" />
       <mapping pattern="string字符串" type="PLAIN_TEXT" />
       <mapping pattern="toString" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
