@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Corresponds to the 'notes' field of the operation. &lt;p&gt; A verbose description of the operation." />
+      <item value="Corresponds to the `summary` field of the operation. &lt;p&gt; Provides a brief description of this operation. Should be 120 characters or less for proper visibility in Swagger-UI." />
       <item value="Integration" />
       <item value="统一以Integration结尾" />
       <item value="wait Time" />
@@ -52,8 +54,6 @@
       <item value="优惠后的价格" />
       <item value="封顶" />
       <item value="不封顶" />
-      <item value="Sync Admission Item Job" />
-      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc. &lt;p&gt; The simplest implementation of this interface is just: &lt;pre&gt; {@code class SimpleThreadFactory implements ThreadFactory { public Thread newThread(Runnable r) { return new Thread(r); } }}&lt;pre&gt; The {@link ExecutorsdefaultThreadFactory} method provides a more useful simple implementation, that sets the created thread context to known values before returning it. @since 1.5 @author Doug Lea" />
     </histories>
     <option name="languageScores">
       <map>
