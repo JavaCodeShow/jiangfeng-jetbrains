@@ -9,6 +9,7 @@
       <mapping pattern="测试" type="PLAIN_TEXT" />
       <mapping pattern="string字符串" type="PLAIN_TEXT" />
       <mapping pattern="toString" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="properties " type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
