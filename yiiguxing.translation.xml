@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Present" />
       <item value="待定" />
       <item value="Corresponds to the 'notes' field of the operation. &lt;p&gt; A verbose description of the operation." />
       <item value="Corresponds to the `summary` field of the operation. &lt;p&gt; Provides a brief description of this operation. Should be 120 characters or less for proper visibility in Swagger-UI." />
@@ -53,7 +54,6 @@
       <item value="是否可以下单" />
       <item value="Discounted" />
       <item value="优惠后的价格" />
-      <item value="封顶" />
     </histories>
     <option name="languageScores">
       <map>
