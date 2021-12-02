@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="自定义地址" />
       <item value="系统自建" />
       <item value="无效的" />
       <item value="Present" />
@@ -53,7 +54,6 @@
       <item value="正常" />
       <item value="文案" />
       <item value="prepare" />
-      <item value="是否可以下单" />
     </histories>
     <option name="languageScores">
       <map>
