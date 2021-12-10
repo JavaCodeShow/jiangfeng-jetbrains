@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="december" />
       <item value="Cyy Tour Show PO" />
       <item value="Ambiguous" />
       <item value="recommend" />
@@ -53,7 +54,6 @@
       <item value="命中" />
       <item value="remainder" />
       <item value="余数" />
-      <item value="优惠" />
     </histories>
     <option name="languageScores">
       <map>
