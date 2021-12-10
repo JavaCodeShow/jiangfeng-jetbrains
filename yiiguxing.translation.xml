@@ -1,46 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
-      <item value="december" />
-      <item value="Cyy Tour Show PO" />
-      <item value="Ambiguous" />
-      <item value="recommend" />
-      <item value="SEAT PICK" />
-      <item value="自产" />
-      <item value="Eticket" />
-      <item value="grantor" />
-      <item value="自定义地址" />
-      <item value="系统自建" />
-      <item value="无效的" />
-      <item value="Present" />
-      <item value="待定" />
-      <item value="Corresponds to the 'notes' field of the operation. &lt;p&gt; A verbose description of the operation." />
-      <item value="Corresponds to the `summary` field of the operation. &lt;p&gt; Provides a brief description of this operation. Should be 120 characters or less for proper visibility in Swagger-UI." />
-      <item value="Integration" />
-      <item value="统一以Integration结尾" />
-      <item value="wait Time" />
-      <item value="lease Time" />
-      <item value="register" />
-      <item value="逻辑过滤" />
-      <item value="物理删除" />
-      <item value="combo Group Type Enum List" />
-      <item value="Executor" />
-      <item value="再次处理返回结果" />
-      <item value="相关信息" />
-      <item value="DISTRIBUTION" />
-      <item value="一键添加" />
-      <item value="来自立即下单接口" />
-      <item value="has Filterd Goods Cart Infos" />
-      <item value="Effective" />
-      <item value="有效的" />
-      <item value="Combo Combination" />
-      <item value="get Available" />
-      <item value="get Avaliable" />
-      <item value="[User(id=1, name=江峰), User(id=1, name=江峰)]" />
-      <item value="Retains only the elements in this list that are contained in the specified collection (optional operation). In other words, removes from this list all of its elements that are not contained in the specified collection." />
       <item value="库存不足" />
       <item value="Property that defines whether it is ok to just ignore any unrecognized properties during deserialization. If true, all properties that are unrecognized -- that is, there are no setters or creators that accept them -- are ignored without warnings (although handlers for unknown properties, if any, will still be called) without exception." />
       <item value="包装" />
@@ -50,10 +13,47 @@
       <item value="Actual" />
       <item value="实际" />
       <item value="Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} for retrieval via the {@link org.springframework.aop.framework.AopContext} class. Off by default, i.e. no guarantees that {@code AopContext} access will work. @since 4.3.1" />
+      <item value="Effective" />
+      <item value="有效的" />
       <item value="满足" />
       <item value="命中" />
       <item value="remainder" />
       <item value="余数" />
+      <item value="优惠" />
+      <item value="选中的票面" />
+      <item value="constitute" />
+      <item value="超出限购的数量" />
+      <item value="normal" />
+      <item value="正常" />
+      <item value="文案" />
+      <item value="prepare" />
+      <item value="是否可以下单" />
+      <item value="Discounted" />
+      <item value="优惠后的价格" />
+      <item value="封顶" />
+      <item value="不封顶" />
+      <item value="Sync Admission Item Job" />
+      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc. &lt;p&gt; The simplest implementation of this interface is just: &lt;pre&gt; {@code class SimpleThreadFactory implements ThreadFactory { public Thread newThread(Runnable r) { return new Thread(r); } }}&lt;pre&gt; The {@link ExecutorsdefaultThreadFactory} method provides a more useful simple implementation, that sets the created thread context to known values before returning it. @since 1.5 @author Doug Lea" />
+      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc." />
+      <item value="Decorate the given {@code Runnable}, returning a potentially wrapped" />
+      <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
+      <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
+      <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
+      <item value="MILLISECONDS" />
+      <item value="java.util.HashSet cannot be cast to java.lang.String" />
+      <item value="格式有误" />
+      <item value="Acquires a permit from this semaphore, only if one is available at the time of invocation. &lt;p&gt;Acquires a permit, if one is available and returns immediately, with the value {@code true}, reducing the number of available permits by one. &lt;p&gt;If no permit is available then this method will return immediately with the value {@code false}. &lt;p&gt;Even when this semaphore has been set to use a fair ordering policy, a call to {@code tryAcquire()} &lt;em&gt;will&lt;em&gt; immediately acquire a permit if one is available, whether or not other threads are currently waiting. This &amp;quot;barging&amp;quot; behavior can be useful in certain circumstances, even though it breaks fairness. If you want to honor the fairness setting, then use {@link tryAcquire(long, TimeUnit) tryAcquire(0, TimeUnit.SECONDS) } which is almost equivalent (it also detects interruption). @return {@code true} if a permit was acquired and {@code false} otherwise" />
+      <item value="你好" />
+      <item value="/seller/v1/stock_code_order/stock_code/download" />
+      <item value="获取一定数量" />
+      <item value="会哦去" />
+      <item value="排行" />
+      <item value="pai" />
+      <item value="fd " />
+      <item value="System" />
+      <item value="create" />
+      <item value="# Max number of &quot;idle&quot; connections in the pool. Use a negative value to indicate an unlimited number of idle connections.&#10;" />
+      <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638685925229" />
+    <option name="lastTrimTime" value="1631089249570" />
   </component>
 </application>

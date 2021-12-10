@@ -1,21 +1,15 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.gitignore;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.gitignore;*.idea;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping pattern="测试" type="PLAIN_TEXT" />
-      <mapping pattern="string字符串" type="PLAIN_TEXT" />
-      <mapping pattern="toString" type="PLAIN_TEXT" />
-      <mapping ext="properties " type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <mapping pattern="pg" type="AUTO_DETECTED" />
       <mapping pattern="pro_mysql" type="AUTO_DETECTED" />
+      <mapping pattern="pg" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
