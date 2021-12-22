@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="第一次需要" />
       <item value="其他活动" />
       <item value="派对" />
       <item value="演讲" />
@@ -53,7 +54,6 @@
       <item value="Discounted" />
       <item value="优惠后的价格" />
       <item value="封顶" />
-      <item value="不封顶" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639110829901" />
+    <option name="lastTrimTime" value="1640162985895" />
   </component>
 </application>
