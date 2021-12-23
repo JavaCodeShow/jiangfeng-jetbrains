@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="实际" />
       <item value="第一次需要" />
       <item value="其他活动" />
       <item value="派对" />
@@ -34,7 +35,6 @@
       <item value="Together" />
       <item value="折扣系数" />
       <item value="Actual" />
-      <item value="实际" />
       <item value="Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} for retrieval via the {@link org.springframework.aop.framework.AopContext} class. Off by default, i.e. no guarantees that {@code AopContext} access will work. @since 4.3.1" />
       <item value="Effective" />
       <item value="有效的" />
