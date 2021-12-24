@@ -65,6 +65,7 @@
   </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt l" />
+    <keyboard-shortcut first-keystroke="shift alt l" second-keystroke="shift alt l" />
   </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
