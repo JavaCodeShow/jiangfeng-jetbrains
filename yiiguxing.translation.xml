@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="库存不足" />
+      <item value="Property that defines whether it is ok to just ignore any unrecognized properties during deserialization. If true, all properties that are unrecognized -- that is, there are no setters or creators that accept them -- are ignored without warnings (although handlers for unknown properties, if any, will still be called) without exception." />
       <item value="包装" />
       <item value="忽略" />
       <item value="Together" />
@@ -52,8 +54,6 @@
       <item value="create" />
       <item value="# Max number of &quot;idle&quot; connections in the pool. Use a negative value to indicate an unlimited number of idle connections.&#10;" />
       <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
-      <item value="# Maximum amount of time (in milliseconds) a connection allocation should block before throwing an exception when the pool is exhausted. Use a negative value to block indefinitely.&#10;" />
-      <item value="8081" />
     </histories>
     <option name="languageScores">
       <map>
