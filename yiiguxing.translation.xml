@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Retains only the elements in this list that are contained in the specified collection (optional operation). In other words, removes from this list all of its elements that are not contained in the specified collection. @param c collection containing elements to be retained in this list @return &lt;tt&gt;true&lt;tt&gt; if this list changed as a result of the call @throws UnsupportedOperationException if the &lt;tt&gt;retainAll&lt;tt&gt; operation is not supported by this list @throws ClassCastException if the class of an element of this list is incompatible with the specified collection (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws NullPointerException if this list contains a null element and the specified collection does not permit null elements (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;), or if the specified collection is null @see remove(Object)" />
       <item value="其他玩乐" />
       <item value="Schema" />
       <item value="实际" />
@@ -53,7 +54,6 @@
       <item value="文案" />
       <item value="prepare" />
       <item value="是否可以下单" />
-      <item value="Discounted" />
     </histories>
     <option name="languageScores">
       <map>
