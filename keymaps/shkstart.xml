@@ -21,9 +21,6 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CloudConfigAction">
-    <keyboard-shortcut first-keystroke="shift p" />
-  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>

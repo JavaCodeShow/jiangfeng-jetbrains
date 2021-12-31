@@ -1,37 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
-      <item value="Duplicate" />
-      <item value="Retains only the elements in this list that are contained in the specified collection (optional operation). In other words, removes from this list all of its elements that are not contained in the specified collection. @param c collection containing elements to be retained in this list @return &lt;tt&gt;true&lt;tt&gt; if this list changed as a result of the call @throws UnsupportedOperationException if the &lt;tt&gt;retainAll&lt;tt&gt; operation is not supported by this list @throws ClassCastException if the class of an element of this list is incompatible with the specified collection (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws NullPointerException if this list contains a null element and the specified collection does not permit null elements (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;), or if the specified collection is null @see remove(Object)" />
-      <item value="其他玩乐" />
-      <item value="Schema" />
-      <item value="实际" />
-      <item value="第一次需要" />
-      <item value="其他活动" />
-      <item value="派对" />
-      <item value="演讲" />
-      <item value="乐园" />
-      <item value="展览" />
-      <item value="健身活动" />
-      <item value="电竞赛事" />
-      <item value="Sporting event" />
-      <item value="体育赛事" />
-      <item value="亲子剧" />
-      <item value="杂技马戏" />
-      <item value="戏曲" />
-      <item value="dance" />
-      <item value="舞蹈" />
-      <item value="相声" />
-      <item value="脱口秀" />
-      <item value="音乐剧" />
-      <item value="Drama" />
-      <item value="话剧" />
-      <item value="音乐节" />
-      <item value="Performance" />
-      <item value="group" />
       <item value="库存不足" />
       <item value="Property that defines whether it is ok to just ignore any unrecognized properties during deserialization. If true, all properties that are unrecognized -- that is, there are no setters or creators that accept them -- are ignored without warnings (although handlers for unknown properties, if any, will still be called) without exception." />
       <item value="包装" />
@@ -39,6 +11,7 @@
       <item value="Together" />
       <item value="折扣系数" />
       <item value="Actual" />
+      <item value="实际" />
       <item value="Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} for retrieval via the {@link org.springframework.aop.framework.AopContext} class. Off by default, i.e. no guarantees that {@code AopContext} access will work. @since 4.3.1" />
       <item value="Effective" />
       <item value="有效的" />
@@ -54,6 +27,33 @@
       <item value="正常" />
       <item value="文案" />
       <item value="prepare" />
+      <item value="是否可以下单" />
+      <item value="Discounted" />
+      <item value="优惠后的价格" />
+      <item value="封顶" />
+      <item value="不封顶" />
+      <item value="Sync Admission Item Job" />
+      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc. &lt;p&gt; The simplest implementation of this interface is just: &lt;pre&gt; {@code class SimpleThreadFactory implements ThreadFactory { public Thread newThread(Runnable r) { return new Thread(r); } }}&lt;pre&gt; The {@link ExecutorsdefaultThreadFactory} method provides a more useful simple implementation, that sets the created thread context to known values before returning it. @since 1.5 @author Doug Lea" />
+      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc." />
+      <item value="Decorate the given {@code Runnable}, returning a potentially wrapped" />
+      <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
+      <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
+      <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
+      <item value="MILLISECONDS" />
+      <item value="java.util.HashSet cannot be cast to java.lang.String" />
+      <item value="格式有误" />
+      <item value="Acquires a permit from this semaphore, only if one is available at the time of invocation. &lt;p&gt;Acquires a permit, if one is available and returns immediately, with the value {@code true}, reducing the number of available permits by one. &lt;p&gt;If no permit is available then this method will return immediately with the value {@code false}. &lt;p&gt;Even when this semaphore has been set to use a fair ordering policy, a call to {@code tryAcquire()} &lt;em&gt;will&lt;em&gt; immediately acquire a permit if one is available, whether or not other threads are currently waiting. This &amp;quot;barging&amp;quot; behavior can be useful in certain circumstances, even though it breaks fairness. If you want to honor the fairness setting, then use {@link tryAcquire(long, TimeUnit) tryAcquire(0, TimeUnit.SECONDS) } which is almost equivalent (it also detects interruption). @return {@code true} if a permit was acquired and {@code false} otherwise" />
+      <item value="你好" />
+      <item value="/seller/v1/stock_code_order/stock_code/download" />
+      <item value="获取一定数量" />
+      <item value="会哦去" />
+      <item value="排行" />
+      <item value="pai" />
+      <item value="fd " />
+      <item value="System" />
+      <item value="create" />
+      <item value="# Max number of &quot;idle&quot; connections in the pool. Use a negative value to indicate an unlimited number of idle connections.&#10;" />
+      <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640601704784" />
+    <option name="lastTrimTime" value="1631089249570" />
   </component>
 </application>
