@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="查看预留清单" />
+      <item value="Detail" />
       <item value="Trigger" />
       <item value="你好" />
       <item value="ni" />
@@ -52,19 +54,17 @@
       <item value="会哦去" />
       <item value="排行" />
       <item value="pai" />
-      <item value="fd " />
-      <item value="System" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="150" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640931752562" />
+    <option name="lastTrimTime" value="1641373100429" />
   </component>
 </application>
