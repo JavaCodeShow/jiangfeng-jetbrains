@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="结构" />
       <item value="inventory" />
       <item value="清单" />
       <item value="明细" />
@@ -53,12 +54,11 @@
       <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
       <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
       <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
-      <item value="MILLISECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="157" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
