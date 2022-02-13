@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="逻辑" />
+      <item value="逻辑删除" />
       <item value="repeat" />
       <item value="重复" />
       <item value="实名认证" />
@@ -14,8 +16,6 @@
       <item value="Venue Concrete Plan Copy Service" />
       <item value="Venue Concrete Plan Api" />
       <item value="差值" />
-      <item value="逻辑" />
-      <item value="逻辑删除" />
       <item value="查看预留清单" />
       <item value="Detail" />
       <item value="Trigger" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="162" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
