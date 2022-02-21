@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="deduplication List" />
+      <item value="去重后的数据" />
       <item value="摘要" />
       <item value="tip" />
       <item value="tips" />
@@ -52,13 +54,11 @@
       <item value="prepare" />
       <item value="是否可以下单" />
       <item value="Discounted" />
-      <item value="优惠后的价格" />
-      <item value="封顶" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
