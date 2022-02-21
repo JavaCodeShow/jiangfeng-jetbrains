@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="摘要" />
       <item value="tip" />
       <item value="tips" />
       <item value="营销倒计时" />
@@ -53,11 +54,10 @@
       <item value="Discounted" />
       <item value="优惠后的价格" />
       <item value="封顶" />
-      <item value="不封顶" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
+        <entry key="CHINESE" value="166" />
         <entry key="ENGLISH" value="166" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644831589564" />
+    <option name="lastTrimTime" value="1645423867950" />
   </component>
 </application>
