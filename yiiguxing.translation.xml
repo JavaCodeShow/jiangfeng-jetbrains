@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="国家" />
       <item value="重复" />
       <item value="环" />
       <item value="deduplication List" />
@@ -53,18 +54,17 @@
       <item value="正常" />
       <item value="文案" />
       <item value="prepare" />
-      <item value="是否可以下单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="170" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645423867950" />
+    <option name="lastTrimTime" value="1646050473509" />
   </component>
 </application>
