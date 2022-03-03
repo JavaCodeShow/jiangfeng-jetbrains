@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="手动" />
       <item value="完整地址" />
       <item value="国家" />
       <item value="重复" />
@@ -53,12 +54,11 @@
       <item value="超出限购的数量" />
       <item value="normal" />
       <item value="正常" />
-      <item value="文案" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="172" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
