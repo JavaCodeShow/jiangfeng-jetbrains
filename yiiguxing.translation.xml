@@ -1,9 +1,38 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="手动" />
+      <item value="完整地址" />
+      <item value="国家" />
+      <item value="重复" />
+      <item value="环" />
+      <item value="deduplication List" />
+      <item value="去重后的数据" />
+      <item value="摘要" />
+      <item value="tip" />
+      <item value="tips" />
+      <item value="营销倒计时" />
+      <item value="清除库存" />
+      <item value="逻辑" />
+      <item value="逻辑删除" />
+      <item value="repeat" />
+      <item value="实名认证" />
+      <item value="结构" />
+      <item value="inventory" />
+      <item value="清单" />
+      <item value="明细" />
+      <item value="Venue Concrete Plan Copy Service" />
+      <item value="Venue Concrete Plan Api" />
+      <item value="差值" />
+      <item value="查看预留清单" />
+      <item value="Detail" />
+      <item value="Trigger" />
+      <item value="你好" />
+      <item value="ni" />
+      <item value="fanyi " />
       <item value="库存不足" />
       <item value="Property that defines whether it is ok to just ignore any unrecognized properties during deserialization. If true, all properties that are unrecognized -- that is, there are no setters or creators that accept them -- are ignored without warnings (although handlers for unknown properties, if any, will still be called) without exception." />
       <item value="包装" />
@@ -25,46 +54,17 @@
       <item value="超出限购的数量" />
       <item value="normal" />
       <item value="正常" />
-      <item value="文案" />
-      <item value="prepare" />
-      <item value="是否可以下单" />
-      <item value="Discounted" />
-      <item value="优惠后的价格" />
-      <item value="封顶" />
-      <item value="不封顶" />
-      <item value="Sync Admission Item Job" />
-      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc. &lt;p&gt; The simplest implementation of this interface is just: &lt;pre&gt; {@code class SimpleThreadFactory implements ThreadFactory { public Thread newThread(Runnable r) { return new Thread(r); } }}&lt;pre&gt; The {@link ExecutorsdefaultThreadFactory} method provides a more useful simple implementation, that sets the created thread context to known values before returning it. @since 1.5 @author Doug Lea" />
-      <item value="An object that creates new threads on demand. Using thread factories removes hardwiring of calls to {@link ThreadThread(Runnable) new Thread}, enabling applications to use special thread subclasses, priorities, etc." />
-      <item value="Decorate the given {@code Runnable}, returning a potentially wrapped" />
-      <item value="fae 0 b 27 c 451 c 728867 a 567 e 8 c 1 bb 4 e 53" />
-      <item value="Return a hexadecimal string representation of the MD5 digest of the given stream." />
-      <item value="Return a hexadecimal string representation of the MD5 digest of the given bytes." />
-      <item value="MILLISECONDS" />
-      <item value="java.util.HashSet cannot be cast to java.lang.String" />
-      <item value="格式有误" />
-      <item value="Acquires a permit from this semaphore, only if one is available at the time of invocation. &lt;p&gt;Acquires a permit, if one is available and returns immediately, with the value {@code true}, reducing the number of available permits by one. &lt;p&gt;If no permit is available then this method will return immediately with the value {@code false}. &lt;p&gt;Even when this semaphore has been set to use a fair ordering policy, a call to {@code tryAcquire()} &lt;em&gt;will&lt;em&gt; immediately acquire a permit if one is available, whether or not other threads are currently waiting. This &amp;quot;barging&amp;quot; behavior can be useful in certain circumstances, even though it breaks fairness. If you want to honor the fairness setting, then use {@link tryAcquire(long, TimeUnit) tryAcquire(0, TimeUnit.SECONDS) } which is almost equivalent (it also detects interruption). @return {@code true} if a permit was acquired and {@code false} otherwise" />
-      <item value="你好" />
-      <item value="/seller/v1/stock_code_order/stock_code/download" />
-      <item value="获取一定数量" />
-      <item value="会哦去" />
-      <item value="排行" />
-      <item value="pai" />
-      <item value="fd " />
-      <item value="System" />
-      <item value="create" />
-      <item value="# Max number of &quot;idle&quot; connections in the pool. Use a negative value to indicate an unlimited number of idle connections.&#10;" />
-      <item value="# Max number of connections that can be allocated by the pool at a given time. Use a negative value for no limit.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="172" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631089249570" />
+    <option name="lastTrimTime" value="1646050473509" />
   </component>
 </application>
