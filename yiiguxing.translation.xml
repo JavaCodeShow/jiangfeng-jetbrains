@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="有效的" />
       <item value="手动" />
       <item value="完整地址" />
       <item value="国家" />
@@ -43,7 +44,6 @@
       <item value="实际" />
       <item value="Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} for retrieval via the {@link org.springframework.aop.framework.AopContext} class. Off by default, i.e. no guarantees that {@code AopContext} access will work. @since 4.3.1" />
       <item value="Effective" />
-      <item value="有效的" />
       <item value="满足" />
       <item value="命中" />
       <item value="remainder" />
@@ -57,14 +57,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="173" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646050473509" />
+    <option name="lastTrimTime" value="1648623139630" />
   </component>
 </application>
