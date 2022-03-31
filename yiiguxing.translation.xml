@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="nanoseconds" />
       <item value="冒号" />
       <item value="有效的" />
       <item value="手动" />
@@ -53,12 +54,11 @@
       <item value="选中的票面" />
       <item value="constitute" />
       <item value="超出限购的数量" />
-      <item value="normal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
