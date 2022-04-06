@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="优先购" />
       <item value="nanoseconds" />
       <item value="冒号" />
       <item value="有效的" />
@@ -53,11 +54,10 @@
       <item value="优惠" />
       <item value="选中的票面" />
       <item value="constitute" />
-      <item value="超出限购的数量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
+        <entry key="CHINESE" value="175" />
         <entry key="ENGLISH" value="175" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648623139630" />
+    <option name="lastTrimTime" value="1649230209907" />
   </component>
 </application>
