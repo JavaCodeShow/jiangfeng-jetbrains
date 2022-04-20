@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="原有的库存数据清零" />
       <item value="channel" />
       <item value="prime" />
       <item value="销售情况" />
@@ -53,11 +54,10 @@
       <item value="满足" />
       <item value="命中" />
       <item value="remainder" />
-      <item value="余数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
+        <entry key="CHINESE" value="178" />
         <entry key="ENGLISH" value="178" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649230209907" />
+    <option name="lastTrimTime" value="1650438260437" />
   </component>
 </application>
