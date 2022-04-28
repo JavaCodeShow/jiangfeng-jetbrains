@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="ensuer" />
+      <item value="ensuer Empty Data" />
       <item value="手工库存" />
       <item value="原有的库存数据清零" />
       <item value="channel" />
@@ -52,13 +54,12 @@
       <item value="实际" />
       <item value="Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} for retrieval via the {@link org.springframework.aop.framework.AopContext} class. Off by default, i.e. no guarantees that {@code AopContext} access will work. @since 4.3.1" />
       <item value="Effective" />
-      <item value="满足" />
-      <item value="命中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="180" />
+        <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
