@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Cyy Strategy Enum" />
       <item value="rue if and only if the instant represented by this Date object is strictly later than the instant represented by when; false otherwise." />
       <item value="Migration" />
       <item value="is Preview" />
@@ -53,7 +54,6 @@
       <item value="忽略" />
       <item value="Together" />
       <item value="折扣系数" />
-      <item value="Actual" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652077049350" />
+    <option name="lastTrimTime" value="1652942080999" />
   </component>
 </application>
