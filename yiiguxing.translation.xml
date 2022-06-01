@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Returns whether any elements of this stream match the provided predicate. May not evaluate the predicate on all elements if not necessary for determining the result. If the stream is empty then false is returned and the predicate is not evaluated." />
       <item value="Cyy Strategy Enum" />
       <item value="rue if and only if the instant represented by this Date object is strictly later than the instant represented by when; false otherwise." />
       <item value="Migration" />
@@ -53,12 +54,11 @@
       <item value="包装" />
       <item value="忽略" />
       <item value="Together" />
-      <item value="折扣系数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652942080999" />
+    <option name="lastTrimTime" value="1654078080898" />
   </component>
 </application>
