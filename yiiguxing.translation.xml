@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="修改下游的限购数据" />
       <item value="Verify the upper-level merchant" />
       <item value="校验上一级商户" />
       <item value="store Mapping" />
@@ -53,12 +54,11 @@
       <item value="查看预留清单" />
       <item value="Detail" />
       <item value="Trigger" />
-      <item value="你好" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="190" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
