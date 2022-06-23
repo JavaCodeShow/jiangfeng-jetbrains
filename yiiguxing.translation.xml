@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Accumulate" />
       <item value="DUPLICATE" />
       <item value="对比" />
       <item value="修改下游的限购数据" />
@@ -12,7 +13,6 @@
       <item value="store Mapping" />
       <item value="SCAN ADMISSION" />
       <item value="lease Time" />
-      <item value="Accumulate" />
       <item value="累计" />
       <item value="Returns whether any elements of this stream match the provided predicate. May not evaluate the predicate on all elements if not necessary for determining the result. If the stream is empty then false is returned and the predicate is not evaluated." />
       <item value="Cyy Strategy Enum" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
