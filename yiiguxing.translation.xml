@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="拆分" />
       <item value="Accumulate" />
       <item value="DUPLICATE" />
       <item value="对比" />
@@ -53,11 +54,10 @@
       <item value="Venue Concrete Plan Copy Service" />
       <item value="Venue Concrete Plan Api" />
       <item value="差值" />
-      <item value="查看预留清单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
+        <entry key="CHINESE" value="193" />
         <entry key="ENGLISH" value="193" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
