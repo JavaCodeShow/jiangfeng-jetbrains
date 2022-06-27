@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="该节目没有下一级的分销节目数据" />
       <item value="严格" />
       <item value="拆分" />
       <item value="Accumulate" />
@@ -53,12 +54,11 @@
       <item value="清单" />
       <item value="明细" />
       <item value="Venue Concrete Plan Copy Service" />
-      <item value="Venue Concrete Plan Api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="195" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655863822806" />
+    <option name="lastTrimTime" value="1656314978235" />
   </component>
 </application>
