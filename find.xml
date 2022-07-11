@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\cyy-seller-rest-provider\src\main\java\com\mtl\cyy\show\service\ProjectShowOtherSettingService.java [cyy-seller-rest-provider]'" />
-    <option name="defaultScopeName" value="File '...\cyy-seller-rest-provider\src\main\java\com\mtl\cyy\show\service\ProjectShowOtherSettingService.java [cyy-seller-rest-provider]'" />
-    <option name="SEARCH_SCOPE" value="File '...\cyy-seller-rest-provider\src\main\java\com\mtl\cyy\show\service\ProjectShowOtherSettingService.java [cyy-seller-rest-provider]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
