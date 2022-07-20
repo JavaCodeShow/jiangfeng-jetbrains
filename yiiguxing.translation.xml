@@ -1,6 +1,6 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
@@ -67,5 +67,8 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1658300451740" />
+  </component>
+  <component name="Settings">
+    <option name="showWordForms" value="false" />
   </component>
 </application>

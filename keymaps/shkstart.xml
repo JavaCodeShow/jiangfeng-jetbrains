@@ -1,4 +1,5 @@
 <keymap version="1" name="shkstart" parent="Eclipse">
+  <action id="$ShowTranslationDialogAction" />
   <action id="AddToFavorites">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
