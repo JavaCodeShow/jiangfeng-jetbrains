@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="string字符串" type="AUTO_DETECTED" />
       <mapping pattern="pg" type="AUTO_DETECTED" />
+      <mapping pattern="测试" type="AUTO_DETECTED" />
       <mapping pattern="pro_mysql" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
