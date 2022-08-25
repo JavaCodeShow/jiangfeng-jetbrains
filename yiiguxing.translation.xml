@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="PERPERTY" />
       <item value="A MessageListenerConcurrently object is used to receive asynchronously delivered messages orderly.one queue,one thread" />
       <item value="A MessageListenerConcurrently object is used to receive asynchronously delivered messages concurrently" />
       <item value="SEPARATOR" />
@@ -53,12 +54,11 @@
       <item value="ensuer Empty Data" />
       <item value="手工库存" />
       <item value="原有的库存数据清零" />
-      <item value="channel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
