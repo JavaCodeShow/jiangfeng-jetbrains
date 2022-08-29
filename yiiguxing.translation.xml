@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="ParameterizedType represents a parameterized type such as Collection&lt;String&gt;. A parameterized type is created the first time it is needed by a reflective method, as specified in this package. When a parameterized type p is created, the generic type declaration that p instantiates is resolved, and all type arguments of p are created recursively. See TypeVariable for details on the creation process for type variables. Repeated creation of a parameterized type has no effect. Instances of classes that implement this interface must implement an equals() method that equates any two instances that share the same generic type declaration and have equal type parameters. Since: 1.5" />
+      <item value="ORDER FINISH" />
       <item value="It is not recommend to throw exception,rather than returning ConsumeConcurrentlyStatus.RECONSUME_LATER if consumption failure Params: msgs – msgs.size() &gt;= 1 DefaultMQPushConsumer.consumeMessageBatchMaxSize=1,you can modify here Returns: The consume status" />
       <item value="Subscribe a topic to consuming subscription. @param topic topic to subscribe. @param subExpression subscription expression.it only support or operation such as &quot;tag1 || tag2 || tag3&quot; &lt;br&gt; if null or expression,meaning subscribe all @throws MQClientException if there is any client error." />
       <item value="Suspend current queue a moment" />
@@ -52,13 +54,11 @@
       <item value="Cyy Strategy Enum" />
       <item value="rue if and only if the instant represented by this Date object is strictly later than the instant represented by when; false otherwise." />
       <item value="Migration" />
-      <item value="is Preview" />
-      <item value="ensuer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
