@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Set {@code key} to hold the string {@code value} if {@code key} is absent. @param key must not be {@literal null}. @param value must not be {@literal null}. @return {@literal null} when used in pipeline transaction. @see &lt;a href=&quot;http:redis.iocommandssetnx&quot;&gt;Redis Documentation: SETNX&lt;a&gt;" />
       <item value="ParameterizedType represents a parameterized type such as Collection&lt;String&gt;. A parameterized type is created the first time it is needed by a reflective method, as specified in this package. When a parameterized type p is created, the generic type declaration that p instantiates is resolved, and all type arguments of p are created recursively. See TypeVariable for details on the creation process for type variables. Repeated creation of a parameterized type has no effect. Instances of classes that implement this interface must implement an equals() method that equates any two instances that share the same generic type declaration and have equal type parameters. Since: 1.5" />
       <item value="ORDER FINISH" />
       <item value="It is not recommend to throw exception,rather than returning ConsumeConcurrentlyStatus.RECONSUME_LATER if consumption failure Params: msgs – msgs.size() &gt;= 1 DefaultMQPushConsumer.consumeMessageBatchMaxSize=1,you can modify here Returns: The consume status" />
@@ -53,12 +54,11 @@
       <item value="Returns whether any elements of this stream match the provided predicate. May not evaluate the predicate on all elements if not necessary for determining the result. If the stream is empty then false is returned and the predicate is not evaluated." />
       <item value="Cyy Strategy Enum" />
       <item value="rue if and only if the instant represented by this Date object is strictly later than the instant represented by when; false otherwise." />
-      <item value="Migration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
