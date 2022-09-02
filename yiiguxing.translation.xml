@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="FLOW GRADE THREAD" />
+      <item value="FLOW GRADE QPS" />
       <item value="Max queueing time in rate limiter behavior." />
       <item value="Batch consumption size" />
       <item value="Set {@code key} to hold the string {@code value} if {@code key} is absent. @param key must not be {@literal null}. @param value must not be {@literal null}. @return {@literal null} when used in pipeline transaction. @see &lt;a href=&quot;http:redis.iocommandssetnx&quot;&gt;Redis Documentation: SETNX&lt;a&gt;" />
@@ -52,13 +54,11 @@
       <item value="store Mapping" />
       <item value="SCAN ADMISSION" />
       <item value="lease Time" />
-      <item value="累计" />
-      <item value="Returns whether any elements of this stream match the provided predicate. May not evaluate the predicate on all elements if not necessary for determining the result. If the stream is empty then false is returned and the predicate is not evaluated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
