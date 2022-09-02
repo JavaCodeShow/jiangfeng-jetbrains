@@ -4,9 +4,11 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Retry timeout (in second)" />
+      <item value="Max allowed response time" />
+      <item value="Circuit breaker opens (cuts off) when slow request ratio exceeds the threshold." />
       <item value="ERROR COUNT" />
       <item value="ERROR RATIO(1)," />
-      <item value="Circuit breaker opens (cuts off) when slow request ratio exceeds the threshold." />
       <item value="FLOW GRADE THREAD" />
       <item value="FLOW GRADE QPS" />
       <item value="Max queueing time in rate limiter behavior." />
@@ -52,13 +54,11 @@
       <item value="DUPLICATE" />
       <item value="对比" />
       <item value="修改下游的限购数据" />
-      <item value="Verify the upper-level merchant" />
-      <item value="校验上一级商户" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
