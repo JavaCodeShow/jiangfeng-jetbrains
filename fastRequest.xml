@@ -108,7 +108,7 @@
     </option>
     <option name="domain" value="http://localhost:8080/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="template-ms" />
+    <option name="enableProject" value="springboot-redis-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
