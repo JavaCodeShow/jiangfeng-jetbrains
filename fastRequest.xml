@@ -131,8 +131,7 @@
         <option name="methodDescription" value="分页查询订单" />
         <option name="methodType" value="POST" />
         <option name="module" value="template-ms" />
-        <option name="originUrl" value="/order/list" />
-        <option name="url" value="/order/list" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
