@@ -7,27 +7,30 @@
             <list>
               <HostGroup>
                 <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:9011" />
+                <option name="url" value="http://localhost:8099/" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="dev" />
                 <option name="url" value="" />
               </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="springboot-redis-study" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
               <HostGroup>
-                <option name="env" value="qa" />
-                <option name="url" value="" />
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8080/" />
               </HostGroup>
               <HostGroup>
-                <option name="env" value="qad" />
-                <option name="url" value="" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="stage" />
+                <option name="env" value="dev" />
                 <option name="url" value="" />
               </HostGroup>
             </list>
           </option>
-          <option name="name" value="mtc-show" />
+          <option name="name" value="template-ms" />
         </NameGroup>
       </list>
     </option>
@@ -103,16 +106,13 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011" />
+    <option name="domain" value="http://localhost:8080/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-show" />
+    <option name="enableProject" value="springboot-redis-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
         <option value="dev" />
-        <option value="qa" />
-        <option value="qad" />
-        <option value="stage" />
       </list>
     </option>
     <option name="paramGroup">
@@ -126,17 +126,19 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.endpoint.ShowEndpoint" />
-        <option name="method" value="get" />
-        <option name="methodDescription" value="获取单条演出" />
+        <option name="className" value="com.jf.template.controller.OrderController" />
+        <option name="method" value="orderList" />
+        <option name="methodDescription" value="分页查询订单" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-rpc-provider" />
-        <option name="url" value="" />
+        <option name="module" value="template-ms" />
+        <option name="originUrl" value="/order/list" />
+        <option name="url" value="/order/list" />
       </ParamGroup>
     </option>
     <option name="projectList">
       <list>
-        <option value="mtc-show" />
+        <option value="springboot-redis-study" />
+        <option value="template-ms" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
