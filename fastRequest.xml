@@ -117,21 +117,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="request">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.jf.template.controller.OrderController" />
-        <option name="method" value="orderList" />
-        <option name="methodDescription" value="分页查询订单" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="template-ms" />
-        <option name="url" value="" />
+        <option name="className" value="com.jf.redisstudy.controller.HelloController" />
+        <option name="method" value="hello" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="springboot-redis-study" />
+        <option name="originUrl" value="/" />
+        <option name="url" value="/" />
       </ParamGroup>
     </option>
     <option name="projectList">
