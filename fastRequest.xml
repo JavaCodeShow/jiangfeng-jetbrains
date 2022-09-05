@@ -138,6 +138,15 @@
         <option name="methodType" value="GET" />
         <option name="module" value="jf-commom-test" />
         <option name="originUrl" value="/mGet" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="name">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
         <option name="url" value="/mGet" />
       </ParamGroup>
     </option>
