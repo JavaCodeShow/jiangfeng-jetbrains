@@ -32,6 +32,21 @@
           </option>
           <option name="name" value="template-ms" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8101/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="springboot-elasticsearch-study" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -106,9 +121,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:8101/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="springboot-redis-study" />
+    <option name="enableProject" value="springboot-elasticsearch-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -117,28 +132,19 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.ProtectedCacheTestController" />
-        <option name="method" value="mGet" />
-        <option name="methodDescription" value="受保护的并发缓存" />
+        <option name="className" value="com.jf.es.controller.HelloController" />
+        <option name="method" value="hello" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="jf-commom-test" />
-        <option name="originUrl" value="/protectedCacheGet" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="name">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="/protectedCacheGet" />
+        <option name="module" value="springboot-elasticsearch-study" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
       <list>
         <option value="springboot-redis-study" />
         <option value="template-ms" />
+        <option value="springboot-elasticsearch-study" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
