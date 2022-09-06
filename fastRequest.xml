@@ -117,9 +117,9 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.StringController" />
+        <option name="className" value="com.jf.test.controller.ProtectedCacheTestController" />
         <option name="method" value="mGet" />
-        <option name="methodDescription" value="受保护的并发缓存测试" />
+        <option name="methodDescription" value="受保护的并发缓存" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-commom-test" />
         <option name="originUrl" value="/protectedCacheGet" />
