@@ -134,6 +134,8 @@
       <ParamGroup>
         <option name="className" value="com.jf.es.controller.HelloController" />
         <option name="method" value="hello" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
         <option name="module" value="springboot-elasticsearch-study" />
         <option name="url" value="" />
       </ParamGroup>
