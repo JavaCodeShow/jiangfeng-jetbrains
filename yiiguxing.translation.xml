@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="服务启动加载配置文件失败" />
       <item value="VERTICAL" />
       <item value="一竖" />
       <item value="竖线" />
@@ -53,11 +54,10 @@
       <item value="拆分" />
       <item value="Accumulate" />
       <item value="DUPLICATE" />
-      <item value="对比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
+        <entry key="CHINESE" value="235" />
         <entry key="ENGLISH" value="235" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662392134979" />
+    <option name="lastTrimTime" value="1663063627007" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
