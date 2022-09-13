@@ -1,4 +1,5 @@
 <keymap version="1" name="shkstart" parent="Eclipse">
+  <action id="$ShowTranslationDialogAction" />
   <action id="AddToFavorites">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -65,6 +66,7 @@
   </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt l" />
+    <keyboard-shortcut first-keystroke="shift alt l" second-keystroke="shift alt l" />
   </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
