@@ -47,6 +47,21 @@
           </option>
           <option name="name" value="springboot-elasticsearch-study" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9011/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-show" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -121,9 +136,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8101/" />
+    <option name="domain" value="http://localhost:9011/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="springboot-elasticsearch-study" />
+    <option name="enableProject" value="mtc-show" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -132,13 +147,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.es.controller.HelloController" />
+        <option name="className" value="com.mtl.mtc.show.cyy.TestController" />
         <option name="method" value="hello" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="springboot-elasticsearch-study" />
-        <option name="originUrl" value="/" />
-        <option name="url" value="/" />
+        <option name="module" value="mtc-show-cyy-rpc-provider" />
+        <option name="originUrl" value="/hello" />
+        <option name="url" value="/hello" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -146,6 +161,7 @@
         <option value="springboot-redis-study" />
         <option value="template-ms" />
         <option value="springboot-elasticsearch-study" />
+        <option value="mtc-show" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
