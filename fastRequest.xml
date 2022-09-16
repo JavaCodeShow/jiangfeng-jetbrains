@@ -149,7 +149,7 @@
       <ParamGroup>
         <option name="className" value="com.mtl.mtc.show.cyy.TestController" />
         <option name="method" value="hello" />
-        <option name="methodDescription" value="" />
+        <option name="methodDescription" value="New Request" />
         <option name="methodType" value="GET" />
         <option name="module" value="mtc-show-cyy-rpc-provider" />
         <option name="originUrl" value="/hello" />
