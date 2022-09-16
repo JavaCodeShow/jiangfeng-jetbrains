@@ -136,9 +136,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011/" />
+    <option name="domain" value="http://localhost:8101/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-show" />
+    <option name="enableProject" value="springboot-elasticsearch-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -147,13 +147,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.show.cyy.TestController" />
-        <option name="method" value="hello" />
-        <option name="methodDescription" value="New Request" />
+        <option name="className" value="com.jf.es.controller.ProductController" />
+        <option name="method" value="save" />
+        <option name="methodDescription" value="新增文档" />
         <option name="methodType" value="GET" />
-        <option name="module" value="mtc-show-cyy-rpc-provider" />
-        <option name="originUrl" value="/hello" />
-        <option name="url" value="/hello" />
+        <option name="module" value="springboot-elasticsearch-study" />
+        <option name="originUrl" value="/save" />
+        <option name="url" value="/save" />
       </ParamGroup>
     </option>
     <option name="projectList">
