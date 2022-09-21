@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Issue" />
       <item value="elasticsearch" />
       <item value="hello" />
       <item value="服务启动加载配置文件失败" />
@@ -53,12 +54,11 @@
       <item value="set If Absent" />
       <item value="该节目没有下一级的分销节目数据" />
       <item value="严格" />
-      <item value="拆分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663063627007" />
+    <option name="lastTrimTime" value="1663757979746" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />

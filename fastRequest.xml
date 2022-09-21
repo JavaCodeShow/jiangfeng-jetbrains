@@ -147,13 +147,21 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.es.controller.ProductController" />
-        <option name="method" value="save" />
-        <option name="methodDescription" value="新增文档" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="springboot-elasticsearch-study" />
-        <option name="originUrl" value="/save" />
-        <option name="url" value="/save" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.wms.cyy.api.CheckCodeApi" />
+        <option name="method" value="findById" />
+        <option name="methodDescription" value="查询票码" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-wms-cyy-api" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
