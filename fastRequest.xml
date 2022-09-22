@@ -62,6 +62,21 @@
           </option>
           <option name="name" value="mtc-show" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9033/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-acs" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -136,9 +151,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8101/" />
+    <option name="domain" value="http://localhost:9033/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="springboot-elasticsearch-study" />
+    <option name="enableProject" value="mtc-acs" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -156,13 +171,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.wms.cyy.api.CheckCodeApi" />
-        <option name="method" value="createCheckCode" />
-        <option name="methodDescription" value="产码" />
+        <option name="className" value="com.mtl.mtc.acs.endpoint.CheckCodeLogApi" />
+        <option name="method" value="createCheckCodeLog" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-wms-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/check_code/create_check_code" />
-        <option name="url" value="/endpoint/v1/cyy/check_code/create_check_code" />
+        <option name="module" value="mtc-acs-api" />
+        <option name="originUrl" value="/endpoint/v1/check_code_log/create_check_code_log" />
+        <option name="url" value="/endpoint/v1/check_code_log/create_check_code_log" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -171,6 +186,7 @@
         <option value="template-ms" />
         <option value="springboot-elasticsearch-study" />
         <option value="mtc-show" />
+        <option value="mtc-acs" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
