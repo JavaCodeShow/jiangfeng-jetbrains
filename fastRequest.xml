@@ -172,12 +172,12 @@
           </map>
         </option>
         <option name="className" value="com.mtl.mtc.acs.cyy.endpoint.CheckCodeLogApi" />
-        <option name="method" value="createCheckCodeLog" />
+        <option name="method" value="findCheckCodeLogList" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-acs-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/check_code_log/create_check_code_log" />
-        <option name="url" value="/endpoint/v1/check_code_log/create_check_code_log" />
+        <option name="originUrl" value="/endpoint/v1/cyy/biz_shows/find_biz_show_list" />
+        <option name="url" value="/endpoint/v1/cyy/biz_shows/find_biz_show_list" />
       </ParamGroup>
     </option>
     <option name="projectList">
