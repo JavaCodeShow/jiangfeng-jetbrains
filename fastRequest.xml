@@ -162,22 +162,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="userDTO">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
         <option name="className" value="com.jf.redisstudy.controller.JetCacheController" />
-        <option name="method" value="jetCacheGet2" />
-        <option name="methodDescription" value="对象" />
-        <option name="methodType" value="POST" />
+        <option name="method" value="cacheTest" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/jetCacheGet2" />
-        <option name="url" value="/jetCacheGet2" />
+        <option name="originUrl" value="/cacheTest" />
+        <option name="url" value="/cacheTest" />
       </ParamGroup>
     </option>
     <option name="projectList">
