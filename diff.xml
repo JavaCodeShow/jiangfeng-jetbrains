@@ -22,6 +22,9 @@
       </entry>
     </option>
   </component>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
@@ -33,7 +36,6 @@
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
