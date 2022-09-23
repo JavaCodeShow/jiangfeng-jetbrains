@@ -164,7 +164,7 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="userDTOList">
+            <entry key="bizShowId">
               <value>
                 <Object />
               </value>
@@ -172,11 +172,12 @@
           </map>
         </option>
         <option name="className" value="com.jf.redisstudy.controller.JetCacheController" />
-        <option name="method" value="jetCacheGet4" />
-        <option name="methodDescription" value="集合排序" />
+        <option name="method" value="jetCacheGet" />
+        <option name="methodDescription" value="单个key" />
         <option name="methodType" value="POST" />
         <option name="module" value="spring-boot-redis-study" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/jetCacheGet" />
+        <option name="url" value="/jetCacheGet" />
       </ParamGroup>
     </option>
     <option name="projectList">
