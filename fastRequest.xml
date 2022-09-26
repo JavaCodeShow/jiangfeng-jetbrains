@@ -164,19 +164,20 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="request">
+            <entry key="userDTO">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.ShowDistributionApi" />
-        <option name="method" value="queryShowDistributionByEnableParam" />
-        <option name="methodDescription" value="分页查询ShowDistribution" />
+        <option name="className" value="com.jf.redisstudy.controller.JetCacheController" />
+        <option name="method" value="jetCacheGet2" />
+        <option name="methodDescription" value="对象" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-ticket-cyy-api" />
-        <option name="url" value="" />
+        <option name="module" value="spring-boot-redis-study" />
+        <option name="originUrl" value="/jetCacheGet2" />
+        <option name="url" value="/jetCacheGet2" />
       </ParamGroup>
     </option>
     <option name="projectList">
