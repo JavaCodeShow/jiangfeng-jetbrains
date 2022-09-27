@@ -193,21 +193,12 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.jf.mybatis.controller.AccountController" />
-        <option name="method" value="getAccountById" />
+        <option name="method" value="transAccount" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-mybatis-study" />
-        <option name="originUrl" value="/account/{id}" />
-        <option name="pathParamMap">
-          <map>
-            <entry key="id">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="/account/1" />
+        <option name="originUrl" value="/account/transAccount" />
+        <option name="url" value="/account/transAccount" />
       </ParamGroup>
     </option>
     <option name="projectList">
