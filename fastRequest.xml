@@ -177,27 +177,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.venue.endpoint.ZoneSchemeApi" />
-        <option name="method" value="queryZoneSchemaInfoByZoneTemplateId" />
-        <option name="methodDescription" value="根据场馆方案id和zone模板id查询区域方案信息" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="mtc-venue-api" />
-        <option name="originUrl" value="/endpoint/v1/zone_scheme/query_zone_schema_info_by_zone_template_id" />
-        <option name="requestParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="venueSchemaId">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="zoneTemplateId">
+            <entry key="request">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/endpoint/v1/zone_scheme/query_zone_schema_info_by_zone_template_id" />
+        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.CyyZoneSchemeApi" />
+        <option name="method" value="queryZoneSchemaInfoByZoneTemplateIdList" />
+        <option name="methodDescription" value="根据场馆方案id和zone模板id查询区域方案信息" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-venue-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/zone_scheme/query_zone_schema_info_by_zone_template_id_list" />
+        <option name="url" value="/endpoint/v1/zone_scheme/query_zone_schema_info_by_zone_template_id_list" />
       </ParamGroup>
     </option>
     <option name="projectList">
