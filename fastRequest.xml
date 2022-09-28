@@ -197,7 +197,6 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-mybatis-study" />
-        <option name="originUrl" value="/account/{id}" />
         <option name="pathParamMap">
           <map>
             <entry key="id">
@@ -207,7 +206,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/account/1" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
