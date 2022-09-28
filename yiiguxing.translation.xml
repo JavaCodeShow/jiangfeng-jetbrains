@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="逻辑删除" />
       <item value="Issue" />
       <item value="elasticsearch" />
       <item value="hello" />
@@ -53,11 +54,10 @@
       <item value="ticket layout" />
       <item value="set If Absent" />
       <item value="该节目没有下一级的分销节目数据" />
-      <item value="严格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
+        <entry key="CHINESE" value="238" />
         <entry key="ENGLISH" value="238" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
