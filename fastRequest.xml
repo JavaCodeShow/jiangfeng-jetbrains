@@ -192,22 +192,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.jf.mybatis.controller.AccountController" />
+        <option name="method" value="getAccountById" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="spring-boot-mybatis-study" />
+        <option name="originUrl" value="/account/{id}" />
+        <option name="pathParamMap">
           <map>
-            <entry key="accountEntity">
+            <entry key="id">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.jf.mybatis.controller.AccountController" />
-        <option name="method" value="createAccount" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="spring-boot-mybatis-study" />
-        <option name="originUrl" value="/account/create" />
-        <option name="url" value="/account/create" />
+        <option name="url" value="/account/1" />
       </ParamGroup>
     </option>
     <option name="projectList">
