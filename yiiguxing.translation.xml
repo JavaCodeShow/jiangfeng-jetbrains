@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="增加" />
       <item value="stock Statistics Info List" />
       <item value="逻辑删除" />
       <item value="Issue" />
@@ -53,7 +54,6 @@
       <item value="batch Internal Lock" />
       <item value="BIZ SHOW BUILDED" />
       <item value="ticket layout" />
-      <item value="set If Absent" />
     </histories>
     <option name="languageScores">
       <map>
