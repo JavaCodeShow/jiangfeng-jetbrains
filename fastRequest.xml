@@ -207,22 +207,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.ticket.TestController" />
-        <option name="method" value="createShareStockJob" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="mtc-ticket-job" />
-        <option name="originUrl" value="/createShareStockJob/{bizShowId}" />
-        <option name="pathParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="bizShowId">
+            <entry key="request">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/createShareStockJob/bizShowId_rm5k3" />
+        <option name="className" value="com.mtl.mtc.ticket.TestController" />
+        <option name="method" value="createShareStockJob" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-ticket-job" />
+        <option name="originUrl" value="/createShareStockJob" />
+        <option name="url" value="/createShareStockJob" />
       </ParamGroup>
     </option>
     <option name="projectList">
