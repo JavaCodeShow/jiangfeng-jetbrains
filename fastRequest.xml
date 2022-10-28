@@ -221,7 +221,8 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-ticket-job" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/createShareStockJob" />
+        <option name="url" value="/createShareStockJob" />
       </ParamGroup>
     </option>
     <option name="projectList">
