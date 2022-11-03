@@ -216,13 +216,12 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.TestController" />
-        <option name="method" value="createShareStockJob" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowSessionApi" />
+        <option name="method" value="queryBizShowSessionByFuzzy" />
+        <option name="methodDescription" value="模糊查询端场次" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-ticket-job" />
-        <option name="originUrl" value="/createShareStockJob" />
-        <option name="url" value="/createShareStockJob" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
