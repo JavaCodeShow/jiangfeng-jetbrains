@@ -162,13 +162,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.JetCacheController" />
-        <option name="method" value="cacheTest" />
+        <option name="className" value="com.jf.redisstudy.controller.LuaController" />
+        <option name="method" value="batchDeltaNum" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/cacheTest" />
-        <option name="url" value="/cacheTest" />
+        <option name="originUrl" value="/batchDeltaNum" />
+        <option name="url" value="/batchDeltaNum" />
       </ParamGroup>
     </option>
     <option name="projectList">
