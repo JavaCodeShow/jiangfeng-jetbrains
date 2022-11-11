@@ -77,6 +77,51 @@
           </option>
           <option name="name" value="spring-boot-redis-study" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9014/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-venue" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8080/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="spring-boot-mybatis-study" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9026/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-ticket" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -162,13 +207,21 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.LuaController" />
-        <option name="method" value="batchDeltaNum" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/batchDeltaNum" />
-        <option name="url" value="/batchDeltaNum" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowSessionApi" />
+        <option name="method" value="queryBizShowSessionByFuzzy" />
+        <option name="methodDescription" value="模糊查询端场次" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -178,6 +231,9 @@
         <option value="mtc-show" />
         <option value="mtc-acs" />
         <option value="spring-boot-redis-study" />
+        <option value="mtc-venue" />
+        <option value="spring-boot-mybatis-study" />
+        <option value="mtc-ticket" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
