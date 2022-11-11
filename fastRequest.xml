@@ -196,9 +196,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011/" />
+    <option name="domain" value="http://localhost:8099/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-show" />
+    <option name="enableProject" value="spring-boot-redis-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -207,22 +207,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="request">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowSessionApi" />
-        <option name="method" value="findSessionStatusInfoList" />
-        <option name="methodDescription" value="根据场次ID批量查询场次ID、场次状态、开售时间" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/biz_show_sessions/find_session_status_info_list" />
-        <option name="url" value="/endpoint/v1/cyy/biz_show_sessions/find_session_status_info_list" />
+        <option name="className" value="com.jf.redisstudy.controller.LuaController" />
+        <option name="method" value="batchDeltaNum" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="spring-boot-redis-study" />
+        <option name="originUrl" value="/batchDeltaNum" />
+        <option name="url" value="/batchDeltaNum" />
       </ParamGroup>
     </option>
     <option name="projectList">
