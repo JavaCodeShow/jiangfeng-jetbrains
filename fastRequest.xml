@@ -196,9 +196,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:8080/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-redis-study" />
+    <option name="enableProject" value="template-ms" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -207,13 +207,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.LuaController" />
-        <option name="method" value="batchDeltaNum" />
+        <option name="className" value="com.jf.mq.test.controller.ExampleController" />
+        <option name="method" value="testNormalSend" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/batchDeltaNum" />
-        <option name="url" value="/batchDeltaNum" />
+        <option name="module" value="jf-common-mq-test" />
+        <option name="originUrl" value="/testNormalSend" />
+        <option name="url" value="/testNormalSend" />
       </ParamGroup>
     </option>
     <option name="projectList">
