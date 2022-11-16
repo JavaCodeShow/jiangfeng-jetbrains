@@ -212,7 +212,8 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-redis-study" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/hello" />
+        <option name="url" value="/hello" />
       </ParamGroup>
     </option>
     <option name="projectList">
