@@ -207,13 +207,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.HelloController" />
-        <option name="method" value="hello" />
+        <option name="className" value="com.jf.redisstudy.controller.lua.LimitScriptController" />
+        <option name="method" value="limit" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/hello" />
-        <option name="url" value="/hello" />
+        <option name="originUrl" value="/limit" />
+        <option name="url" value="/limit" />
       </ParamGroup>
     </option>
     <option name="projectList">
