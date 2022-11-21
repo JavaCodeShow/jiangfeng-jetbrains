@@ -212,8 +212,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/limit" />
-        <option name="url" value="/limit" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
