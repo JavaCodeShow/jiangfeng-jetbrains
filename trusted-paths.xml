@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="F:/code/morefungroup" />
+        <option value="E:/code/SpringBoot" />
+        <option value="E:/code" />
+        <option value="$USER_HOME$/Desktop/测试" />
+      </list>
+    </option>
+  </component>
+</application>

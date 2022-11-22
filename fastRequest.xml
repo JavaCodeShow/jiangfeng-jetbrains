@@ -7,21 +7,6 @@
             <list>
               <HostGroup>
                 <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8099/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="springboot-redis-study" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
                 <option name="url" value="http://localhost:8080/" />
               </HostGroup>
               <HostGroup>
@@ -46,6 +31,96 @@
             </list>
           </option>
           <option name="name" value="springboot-elasticsearch-study" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9011/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-show" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9033/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-acs" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8099/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="spring-boot-redis-study" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9014/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-venue" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8080/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="spring-boot-mybatis-study" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9026/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-ticket" />
         </NameGroup>
       </list>
     </option>
@@ -121,9 +196,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8101/" />
+    <option name="domain" value="http://localhost:8099/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="springboot-elasticsearch-study" />
+    <option name="enableProject" value="spring-boot-redis-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -132,19 +207,24 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.es.controller.HelloController" />
-        <option name="method" value="hello" />
+        <option name="className" value="com.jf.redisstudy.controller.lua.LimitScriptController" />
+        <option name="method" value="limit" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="springboot-elasticsearch-study" />
+        <option name="module" value="spring-boot-redis-study" />
         <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
       <list>
-        <option value="springboot-redis-study" />
         <option value="template-ms" />
         <option value="springboot-elasticsearch-study" />
+        <option value="mtc-show" />
+        <option value="mtc-acs" />
+        <option value="spring-boot-redis-study" />
+        <option value="mtc-venue" />
+        <option value="spring-boot-mybatis-study" />
+        <option value="mtc-ticket" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
