@@ -587,6 +587,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.http">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.restClient" />
+              <option name="myPluginName" value="HTTP Client" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.icns">
           <value>
             <plugin>
@@ -1195,6 +1204,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rest">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.restClient" />
+              <option name="myPluginName" value="HTTP Client" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1919,6 +1937,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="http-client.cookies">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.restClient" />
+              <option name="myPluginName" value="HTTP Client" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="jest.config">
           <value>
             <plugin>
@@ -2176,6 +2203,11 @@
                   <entry key="GroovyScriptRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
+                    </value>
+                  </entry>
+                  <entry key="HttpClient.HttpRequestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" />
                     </value>
                   </entry>
                   <entry key="JBossConfiguration">
