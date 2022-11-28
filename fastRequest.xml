@@ -207,11 +207,20 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.lua.LimitScriptController" />
-        <option name="method" value="limit" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.acs.cyy.endpoint.CyyAcStaffCardApi" />
+        <option name="method" value="createOrUpdate" />
+        <option name="methodDescription" value="创建或者删除工作人员" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-acs-cyy-api" />
         <option name="url" value="" />
       </ParamGroup>
     </option>
