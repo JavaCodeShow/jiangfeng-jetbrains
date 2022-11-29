@@ -217,11 +217,12 @@
           </map>
         </option>
         <option name="className" value="com.mtl.mtc.acs.cyy.endpoint.CyyAcStaffCardApi" />
-        <option name="method" value="createOrUpdate" />
-        <option name="methodDescription" value="创建或者删除工作人员" />
+        <option name="method" value="pageQueryAcStaffCardList" />
+        <option name="methodDescription" value="分页查询工作人员" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-acs-cyy-api" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/endpoint/v1/cyy/ac_staff_card/page_query_list" />
+        <option name="url" value="/endpoint/v1/cyy/ac_staff_card/page_query_list" />
       </ParamGroup>
     </option>
     <option name="projectList">
