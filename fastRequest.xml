@@ -196,9 +196,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011/" />
+    <option name="domain" value="http://localhost:9026/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-show" />
+    <option name="enableProject" value="mtc-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -216,13 +216,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.SeatPlanTransferRuleApi" />
-        <option name="method" value="findById" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyReserveAuthApi" />
+        <option name="method" value="findByReserveStockIdList" />
+        <option name="methodDescription" value="根据reserveStockIdList查询RserveAuth" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/mtc/seat_plan_transfer_rule/find_by_id" />
-        <option name="url" value="/endpoint/v1/cyy/mtc/seat_plan_transfer_rule/find_by_id" />
+        <option name="module" value="mtc-ticket-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/reserve_auth/find_by_reserve_stock_id_list" />
+        <option name="url" value="/endpoint/v1/cyy/reserve_auth/find_by_reserve_stock_id_list" />
       </ParamGroup>
     </option>
     <option name="projectList">
