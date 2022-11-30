@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="转增开关" />
       <item value="batch Upload Pic Url" />
       <item value="是否上传照片" />
       <item value="has Update Photo" />
@@ -53,12 +54,11 @@
       <item value="updater Id" />
       <item value="剧院" />
       <item value="types: java.util.concurrent.Executor; SearchStrategy: all" />
-      <item value="Consider revisiting the entries above or defining a bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="244" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
