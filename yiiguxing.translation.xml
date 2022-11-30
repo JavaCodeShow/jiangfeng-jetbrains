@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Gets the threadLocal of the singleton" />
       <item value="转增开关" />
       <item value="batch Upload Pic Url" />
       <item value="是否上传照片" />
@@ -53,7 +54,6 @@
       <item value="updater" />
       <item value="updater Id" />
       <item value="剧院" />
-      <item value="types: java.util.concurrent.Executor; SearchStrategy: all" />
     </histories>
     <option name="languageScores">
       <map>
