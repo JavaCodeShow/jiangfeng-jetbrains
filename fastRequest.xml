@@ -196,9 +196,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:9011/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-redis-study" />
+    <option name="enableProject" value="mtc-show" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -216,13 +216,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.acs.cyy.endpoint.CyyAcStaffCardApi" />
-        <option name="method" value="pageQueryAcStaffCardList" />
-        <option name="methodDescription" value="分页查询工作人员" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.SeatPlanTransferRuleApi" />
+        <option name="method" value="findById" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-acs-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/ac_staff_card/page_query_list" />
-        <option name="url" value="/endpoint/v1/cyy/ac_staff_card/page_query_list" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/mtc/seat_plan_transfer_rule/find_by_id" />
+        <option name="url" value="/endpoint/v1/cyy/mtc/seat_plan_transfer_rule/find_by_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
