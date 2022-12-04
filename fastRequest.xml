@@ -196,9 +196,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011/" />
+    <option name="domain" value="http://localhost:9026/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-show" />
+    <option name="enableProject" value="mtc-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -216,13 +216,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowApi" />
-        <option name="method" value="createDistributionBizShowSessionAndSeatPlan" />
-        <option name="methodDescription" value="创建分销场次、票价" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.ShowDistributionApi" />
+        <option name="method" value="updateV2" />
+        <option name="methodDescription" value="更新ShowDistribution（预留交互调整）" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/biz_shows/create_distribution_biz_show_session_and_seat_plan" />
-        <option name="url" value="/endpoint/v1/cyy/biz_shows/create_distribution_biz_show_session_and_seat_plan" />
+        <option name="module" value="mtc-ticket-cyy-api" />
+        <option name="originUrl" value="/endpoint/v2/show_distribution/update" />
+        <option name="url" value="/endpoint/v2/show_distribution/update" />
       </ParamGroup>
     </option>
     <option name="projectList">
