@@ -221,8 +221,7 @@
         <option name="methodDescription" value="更新ShowDistribution（预留交互调整）" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-ticket-cyy-api" />
-        <option name="originUrl" value="/endpoint/v2/show_distribution/update" />
-        <option name="url" value="/endpoint/v2/show_distribution/update" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
