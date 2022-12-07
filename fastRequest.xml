@@ -221,8 +221,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-ticket-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/show_distribution_item/find_by_id_list" />
-        <option name="url" value="/endpoint/v1/show_distribution_item/find_by_id_list" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
