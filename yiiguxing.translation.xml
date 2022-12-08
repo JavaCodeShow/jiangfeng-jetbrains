@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="提前多少时间查询" />
+      <item value="time Seconds Internvl" />
       <item value="Gets the threadLocal of the singleton" />
       <item value="转增开关" />
       <item value="batch Upload Pic Url" />
@@ -52,13 +54,11 @@
       <item value="check Show Group Exist" />
       <item value="创建人姓名" />
       <item value="updater" />
-      <item value="updater Id" />
-      <item value="剧院" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="246" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
