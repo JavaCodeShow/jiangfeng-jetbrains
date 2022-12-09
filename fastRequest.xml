@@ -207,13 +207,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.StringController" />
-        <option name="method" value="set" />
-        <option name="methodDescription" value="插入数据" />
+        <option name="className" value="com.jf.redisstudy.controller.ScanController" />
+        <option name="method" value="scanAllByKeyPrefix" />
+        <option name="methodDescription" value="查询所有的都是这个前缀开头的key" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/set" />
-        <option name="url" value="/set" />
+        <option name="originUrl" value="/scanAllByKeyPrefix" />
+        <option name="url" value="/scanAllByKeyPrefix" />
       </ParamGroup>
     </option>
     <option name="projectList">
