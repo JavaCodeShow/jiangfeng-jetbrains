@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="进行告警通知" />
       <item value="是否还需要告警" />
       <item value="不一致" />
       <item value="prepare" />
@@ -53,12 +54,11 @@
       <item value="The set of warnings that are to be suppressed by the compiler in the annotated element. Duplicate names are permitted. The second and successive occurrences of a name are ignored. The presence of unrecognized warning names is not an error: Compilers must ignore any warning names they do not recognize. They are, however, free to emit a warning if an annotation contains an unrecognized warning name. The string &quot;unchecked&quot; is used to suppress unchecked warnings. Compiler vendors should document the additional warning names they support in conjunction with this annotation type. They are encouraged to cooperate to ensure that the same names work across multiple compilers. Returns: the set of warnings to be suppressed" />
       <item value="A substring of this String object is compared to a substring of the argument other. The result is true if these substrings represent identical character sequences. The substring of this String object to be compared begins at index toffset and has length len. The substring of other to be compared begins at index ooffset and has length len. The result is false if and only if at least one of the following is true:" />
       <item value="toffset is negative." />
-      <item value="CONCURRENTLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="251" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
