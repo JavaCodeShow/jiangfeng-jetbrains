@@ -207,13 +207,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.ticket.jobs.controller.CheckStockController" />
-        <option name="method" value="RefreshShowToHotStocksJob" />
-        <option name="methodDescription" value="从redis里面查询库存不一致的节目" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="mtc-ticket-job" />
-        <option name="originUrl" value="/find_not_same_stocks_from_redis" />
-        <option name="url" value="/find_not_same_stocks_from_redis" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyReserveStockApi" />
+        <option name="method" value="findByBizShowSessionIdList" />
+        <option name="methodDescription" value="根据场次Id批量查询仓" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-ticket-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/reserve_stock/find_by_biz_session_id_list" />
+        <option name="url" value="/endpoint/v1/cyy/reserve_stock/find_by_biz_session_id_list" />
       </ParamGroup>
     </option>
     <option name="projectList">
