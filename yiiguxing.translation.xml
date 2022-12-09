@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="NORM DATETIME MINUTE PATTERN" />
+      <item value="NORM DATETIME PATTERN" />
       <item value="不需要endWith，只需要前缀ok" />
       <item value="not need endWith , only prefix ok" />
       <item value="finish" />
@@ -52,13 +54,11 @@
       <item value="SEPRATOR" />
       <item value="自分销" />
       <item value="cancel" />
-      <item value="Center" />
-      <item value="extractor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="256" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
