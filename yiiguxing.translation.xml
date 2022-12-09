@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="是否还需要告警" />
       <item value="不一致" />
       <item value="prepare" />
       <item value="提前多少时间查询" />
@@ -53,12 +54,11 @@
       <item value="A substring of this String object is compared to a substring of the argument other. The result is true if these substrings represent identical character sequences. The substring of this String object to be compared begins at index toffset and has length len. The substring of other to be compared begins at index ooffset and has length len. The result is false if and only if at least one of the following is true:" />
       <item value="toffset is negative." />
       <item value="CONCURRENTLY" />
-      <item value="check Show Group Exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="249" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670123066381" />
+    <option name="lastTrimTime" value="1670556740290" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
