@@ -196,9 +196,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:9026/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-redis-study" />
+    <option name="enableProject" value="mtc-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -207,13 +207,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.ScanController" />
-        <option name="method" value="scanAllByKeyPrefix" />
-        <option name="methodDescription" value="查询所有的都是这个前缀开头的key" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/scanAllByKeyPrefix" />
-        <option name="url" value="/scanAllByKeyPrefix" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="timeDTO">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.ticket.TestController" />
+        <option name="method" value="CheckStocksSameJob" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-ticket-job" />
+        <option name="originUrl" value="/CheckStocksSameJob" />
+        <option name="url" value="/CheckStocksSameJob" />
       </ParamGroup>
     </option>
     <option name="projectList">
