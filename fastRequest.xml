@@ -216,13 +216,12 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.SeatPlanSchemaApi" />
-        <option name="method" value="clearVenueSchemaIdByStdShowId" />
-        <option name="methodDescription" value="删除这个节目下面票价方案上面的venueSchemaId" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyStdShowApi" />
+        <option name="method" value="findById" />
+        <option name="methodDescription" value="根据ID查询StdShow" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/seat_plan_schema/clear_venue_schema_id_by_std_show_id" />
-        <option name="url" value="/endpoint/v1/seat_plan_schema/clear_venue_schema_id_by_std_show_id" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
