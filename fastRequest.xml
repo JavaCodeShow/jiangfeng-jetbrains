@@ -216,12 +216,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyStdShowApi" />
-        <option name="method" value="findById" />
-        <option name="methodDescription" value="根据ID查询StdShow" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.BizShowRuleTemplateApi" />
+        <option name="method" value="findBizShowRuleTemplateForC" />
+        <option name="methodDescription" value="C端查询特殊规则模板" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-show-cyy-api" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/endpoint/v1/biz_show_rule_template/find_template_for_c" />
+        <option name="url" value="/endpoint/v1/biz_show_rule_template/find_template_for_c" />
       </ParamGroup>
     </option>
     <option name="projectList">
