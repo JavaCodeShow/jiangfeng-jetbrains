@@ -196,9 +196,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011/" />
+    <option name="domain" value="http://localhost:9026/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-show" />
+    <option name="enableProject" value="mtc-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -207,22 +207,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="request">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.BizShowRuleTemplateApi" />
-        <option name="method" value="findBizShowRuleTemplateForC" />
-        <option name="methodDescription" value="C端查询特殊规则模板" />
+        <option name="className" value="com.mtl.mtc.ticket.TestController" />
+        <option name="method" value="createShareStockJob" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/biz_show_rule_template/find_template_for_c" />
-        <option name="url" value="/endpoint/v1/biz_show_rule_template/find_template_for_c" />
+        <option name="module" value="mtc-ticket-job" />
+        <option name="originUrl" value="//createShareStockJob" />
+        <option name="url" value="//createShareStockJob" />
       </ParamGroup>
     </option>
     <option name="projectList">
