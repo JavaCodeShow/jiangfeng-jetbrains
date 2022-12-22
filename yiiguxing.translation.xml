@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="exist Po List" />
       <item value="end Time Exclude" />
       <item value="NORM DATETIME MINUTE PATTERN" />
       <item value="NORM DATETIME PATTERN" />
@@ -53,12 +54,11 @@
       <item value="A MessageListenerConcurrently object is used to receive asynchronously delivered messages concurrently" />
       <item value="SEPARATOR" />
       <item value="SEPRATOR" />
-      <item value="自分销" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="258" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
