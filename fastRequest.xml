@@ -122,6 +122,21 @@
           </option>
           <option name="name" value="mtc-ticket" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9031/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-wms" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -196,9 +211,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9026/" />
+    <option name="domain" value="http://localhost:9031/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-ticket" />
+    <option name="enableProject" value="mtc-wms" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -207,13 +222,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.ticket.TestController" />
-        <option name="method" value="createShareStockJob" />
-        <option name="methodDescription" value="" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.wms.cyy.api.CyyPaperApi" />
+        <option name="method" value="create" />
+        <option name="methodDescription" value="创建Paper" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-ticket-job" />
-        <option name="originUrl" value="//createShareStockJob" />
-        <option name="url" value="//createShareStockJob" />
+        <option name="module" value="mtc-wms-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/paper/create" />
+        <option name="url" value="/endpoint/v1/cyy/paper/create" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -226,6 +250,7 @@
         <option value="mtc-venue" />
         <option value="spring-boot-mybatis-study" />
         <option value="mtc-ticket" />
+        <option value="mtc-wms" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
