@@ -224,20 +224,20 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="request">
+            <entry key="queryParam">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.wms.cyy.api.CyyPaperApi" />
-        <option name="method" value="create" />
-        <option name="methodDescription" value="创建Paper" />
+        <option name="className" value="com.mtl.mtc.wms.cyy.api.CyyTicketTemplateApi" />
+        <option name="method" value="findByParam" />
+        <option name="methodDescription" value="findByParam" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-wms-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/paper/create" />
-        <option name="url" value="/endpoint/v1/cyy/paper/create" />
+        <option name="originUrl" value="/endpoint/v1/cyy/ticket_template/find_by_param" />
+        <option name="url" value="/endpoint/v1/cyy/ticket_template/find_by_param" />
       </ParamGroup>
     </option>
     <option name="projectList">
