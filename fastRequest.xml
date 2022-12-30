@@ -231,13 +231,12 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.wms.cyy.api.CyyTicketTemplateApi" />
-        <option name="method" value="create" />
-        <option name="methodDescription" value="创建TicketTemplate" />
+        <option name="className" value="com.mtl.mtc.wms.cyy.api.CyyTicketLayoutApi" />
+        <option name="method" value="createOrUpdate" />
+        <option name="methodDescription" value="创建或者修改TicketLayout" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-wms-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/ticket_template/create" />
-        <option name="url" value="/endpoint/v1/cyy/ticket_template/create" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
