@@ -231,13 +231,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizSeatPlanApi" />
-        <option name="method" value="findByIdList" />
-        <option name="methodDescription" value="根据票面id集合查询" />
+        <option name="className" value="com.mtl.mtc.acs.cyy.endpoint.CyyExTicketRecordApi" />
+        <option name="method" value="batchExchange" />
+        <option name="methodDescription" value="换票" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy_biz_seat_plans/find_by_id_list" />
-        <option name="url" value="/endpoint/v1/cyy_biz_seat_plans/find_by_id_list" />
+        <option name="module" value="mtc-acs-cyy-api" />
+        <option name="originUrl" value="/endpoint/cyy/v1/exchange_ticket_record/batch_exchange" />
+        <option name="url" value="/endpoint/cyy/v1/exchange_ticket_record/batch_exchange" />
       </ParamGroup>
     </option>
     <option name="projectList">
