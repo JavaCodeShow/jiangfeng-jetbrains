@@ -224,7 +224,7 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="request">
+            <entry key="param">
               <value>
                 <Object />
               </value>
@@ -232,11 +232,12 @@
           </map>
         </option>
         <option name="className" value="com.mtl.mtc.wms.cyy.api.CyyTicketLayoutApi" />
-        <option name="method" value="batchCreateOrUpdate" />
-        <option name="methodDescription" value="批量保存或者修改特殊票面" />
+        <option name="method" value="findByParam" />
+        <option name="methodDescription" value="根据条件查询TicketLayout" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-wms-cyy-api" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/endpoint/v1/cyy/ticket_layout/find_by_param" />
+        <option name="url" value="/endpoint/v1/cyy/ticket_layout/find_by_param" />
       </ParamGroup>
     </option>
     <option name="projectList">
