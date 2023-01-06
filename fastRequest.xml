@@ -222,22 +222,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="request">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.mtl.mtc.acs.cyy.endpoint.CyyExTicketRecordApi" />
-        <option name="method" value="batchExchange" />
-        <option name="methodDescription" value="换票" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="mtc-acs-cyy-api" />
-        <option name="originUrl" value="/endpoint/cyy/v1/exchange_ticket_record/batch_exchange" />
-        <option name="url" value="/endpoint/cyy/v1/exchange_ticket_record/batch_exchange" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.TestController" />
+        <option name="method" value="getNormalShowList" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="mtc-show-cyy-rpc-provider" />
+        <option name="originUrl" value="/getNormalShowList" />
+        <option name="url" value="/getNormalShowList" />
       </ParamGroup>
     </option>
     <option name="projectList">
