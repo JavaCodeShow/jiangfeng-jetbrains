@@ -227,8 +227,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="mtc-show-cyy-rpc-provider" />
-        <option name="originUrl" value="/getNormalShowList" />
-        <option name="url" value="/getNormalShowList" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
