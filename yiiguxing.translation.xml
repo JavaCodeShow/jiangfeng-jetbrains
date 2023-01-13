@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="票代商户" />
+      <item value="票源商户" />
       <item value="晚上吃啥呢" />
       <item value="Array List" />
       <item value="Main" />
@@ -103,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
