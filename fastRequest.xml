@@ -211,9 +211,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9014/" />
+    <option name="domain" value="http://localhost:9026/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-venue" />
+    <option name="enableProject" value="mtc-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -231,13 +231,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.CyySectorTemplateApi" />
-        <option name="method" value="findByVenueTemplateIdList" />
-        <option name="methodDescription" value="批量查询场馆模板下面所有的扇区信息" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyReserveStockApi" />
+        <option name="method" value="findByIdList" />
+        <option name="methodDescription" value="根据ID查询ReserveStock" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-venue-cyy-api" />
-        <option name="originUrl" value="/endpoint/cyy/v1/sector_template/find_by_venue_template_id_list" />
-        <option name="url" value="/endpoint/cyy/v1/sector_template/find_by_venue_template_id_list" />
+        <option name="module" value="mtc-ticket-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/reserve_stock/find_by_ids" />
+        <option name="url" value="/endpoint/v1/cyy/reserve_stock/find_by_ids" />
       </ParamGroup>
     </option>
     <option name="projectList">
