@@ -236,8 +236,7 @@
         <option name="methodDescription" value="根据ID查询ReserveStock" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-ticket-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/reserve_stock/find_by_ids" />
-        <option name="url" value="/endpoint/v1/cyy/reserve_stock/find_by_ids" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
