@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673261669699" />
+    <option name="lastTrimTime" value="1675071765264" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="没有纸质票" />
       <item value="票代商户" />
       <item value="票源商户" />
       <item value="晚上吃啥呢" />
@@ -105,8 +106,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
