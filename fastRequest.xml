@@ -227,8 +227,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="mtc-acs-rpc-cyy-provider" />
-        <option name="originUrl" value="/qrInvitationCode" />
-        <option name="url" value="/qrInvitationCode" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
