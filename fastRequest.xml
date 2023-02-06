@@ -231,13 +231,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyReserveStockApi" />
-        <option name="method" value="queryPresaleStockByBizShowSessionIdList" />
-        <option name="methodDescription" value="根据场次id查询场次下面的配票仓" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyTicketSeatApi" />
+        <option name="method" value="findByReserveStockItemIdByCursor" />
+        <option name="methodDescription" value="查询端场次指定座位实例的座位库存" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-ticket-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/reserve_stock/query_presale_stock_by_biz_show_session_id_list" />
-        <option name="url" value="/endpoint/v1/cyy/reserve_stock/query_presale_stock_by_biz_show_session_id_list" />
+        <option name="originUrl" value="/endpoint/v1/cyy/ticket_seat/find_by_reserve_stock_item_id_by_cursor" />
+        <option name="url" value="/endpoint/v1/cyy/ticket_seat/find_by_reserve_stock_item_id_by_cursor" />
       </ParamGroup>
     </option>
     <option name="projectList">
