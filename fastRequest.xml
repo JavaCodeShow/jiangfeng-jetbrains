@@ -211,9 +211,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9033/" />
+    <option name="domain" value="http://localhost:9026/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-acs" />
+    <option name="enableProject" value="mtc-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -222,12 +222,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.acs.cyy.TestController" />
-        <option name="method" value="qrInvitationCode" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="mtc-acs-rpc-cyy-provider" />
-        <option name="url" value="" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyReserveStockApi" />
+        <option name="method" value="queryPresaleStockByBizShowSessionIdList" />
+        <option name="methodDescription" value="根据场次id查询场次下面的配票仓" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-ticket-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/reserve_stock/query_presale_stock_by_biz_show_session_id_list" />
+        <option name="url" value="/endpoint/v1/cyy/reserve_stock/query_presale_stock_by_biz_show_session_id_list" />
       </ParamGroup>
     </option>
     <option name="projectList">
