@@ -211,9 +211,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9026/" />
+    <option name="domain" value="http://localhost:9011/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-ticket" />
+    <option name="enableProject" value="mtc-show" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -231,13 +231,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyTicketSeatApi" />
-        <option name="method" value="findByReserveStockItemIdByCursor" />
-        <option name="methodDescription" value="查询端场次指定座位实例的座位库存" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyStdShowApi" />
+        <option name="method" value="findStdShowByCursor" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-ticket-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/ticket_seat/find_by_reserve_stock_item_id_by_cursor" />
-        <option name="url" value="/endpoint/v1/cyy/ticket_seat/find_by_reserve_stock_item_id_by_cursor" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/std_show/find_std_show_by_cursor" />
+        <option name="url" value="/endpoint/v1/cyy/std_show/find_std_show_by_cursor" />
       </ParamGroup>
     </option>
     <option name="projectList">
