@@ -222,13 +222,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.TestController" />
-        <option name="method" value="getNormalShowList" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="mtc-show-cyy-rpc-provider" />
-        <option name="originUrl" value="/getNormalShowList" />
-        <option name="url" value="/getNormalShowList" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowForCApi" />
+        <option name="method" value="findBizShowMergeByMerchantAndStdShow" />
+        <option name="methodDescription" value="查询端节目合并信息" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/biz_show_for_c/find_merge_show_by_param" />
+        <option name="url" value="/endpoint/v1/cyy/biz_show_for_c/find_merge_show_by_param" />
       </ParamGroup>
     </option>
     <option name="projectList">
