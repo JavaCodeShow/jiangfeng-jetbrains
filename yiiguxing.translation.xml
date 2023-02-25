@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="org.springframework.data.redis.RedisSystemException: Error in execution; nested exception is io.lettuce.core.RedisCommandExecutionException: WRONGTYPE Operation against a key holding the wrong kind of value" />
+      <item value="Determine the index of element with value in a sorted set when scored high to low." />
+      <item value="Use a positive number for count. &quot; + &quot;This method is already allowing duplicate elements" />
+      <item value="Get count random elements from set at the bound key." />
       <item value="Returns the members intersecting all given sets at {@code key} and {@code otherKey}." />
       <item value="判断指定元素是否在指定集合中" />
       <item value="Extractor" />
@@ -122,9 +126,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="28" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
