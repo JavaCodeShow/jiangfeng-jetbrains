@@ -226,9 +226,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:9026/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-redis-study" />
+    <option name="enableProject" value="mtc-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -237,13 +237,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.MapController" />
-        <option name="method" value="hmset" />
-        <option name="methodDescription" value="往map里面批量插入数据" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/hmset" />
-        <option name="url" value="/hmset" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.ShowDistributionApi" />
+        <option name="method" value="findById" />
+        <option name="methodDescription" value="根据ID查询ShowDistribution" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-ticket-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/show_distribution/find_by_id" />
+        <option name="url" value="/endpoint/v1/show_distribution/find_by_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
