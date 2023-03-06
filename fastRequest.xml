@@ -226,9 +226,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9026/" />
+    <option name="domain" value="http://localhost:8080/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-ticket" />
+    <option name="enableProject" value="spring-boot-mybatis-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -237,22 +237,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.jf.mybatis.controller.AccountController" />
+        <option name="method" value="getAccountById" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="spring-boot-mybatis-study" />
+        <option name="originUrl" value="/account/{id}" />
+        <option name="pathParamMap">
           <map>
-            <entry key="request">
+            <entry key="id">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.ShowDistributionApi" />
-        <option name="method" value="findById" />
-        <option name="methodDescription" value="根据ID查询ShowDistribution" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="mtc-ticket-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/show_distribution/find_by_id" />
-        <option name="url" value="/endpoint/v1/show_distribution/find_by_id" />
+        <option name="url" value="/account/id_f99tl" />
       </ParamGroup>
     </option>
     <option name="projectList">
