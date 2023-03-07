@@ -277,12 +277,12 @@
           </map>
         </option>
         <option name="className" value="com.jf.mps.account.api.AccountApi" />
-        <option name="method" value="findById" />
+        <option name="method" value="createOrUpdate" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mps-account-api" />
-        <option name="originUrl" value="/endpoint/v1/account/find_by_id" />
-        <option name="url" value="/endpoint/v1/account/find_by_id" />
+        <option name="originUrl" value="/endpoint/v1/account/create_or_update" />
+        <option name="url" value="/endpoint/v1/account/create_or_update" />
       </ParamGroup>
     </option>
     <option name="projectList">
