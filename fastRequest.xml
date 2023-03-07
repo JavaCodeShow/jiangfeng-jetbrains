@@ -152,6 +152,21 @@
           </option>
           <option name="name" value="jf-common-mq-test" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8083/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mps-user" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -226,9 +241,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:10000/" />
+    <option name="domain" value="http://localhost:8083/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="jf-common-mq-test" />
+    <option name="enableProject" value="mps-user" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -239,19 +254,20 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="id">
+            <entry key="request">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.jf.mps.account.api.AccountApi" />
+        <option name="className" value="com.jf.mps.user.api.UserApi" />
         <option name="method" value="findById" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mps-account-api" />
-        <option name="url" value="" />
+        <option name="module" value="mps-user-api" />
+        <option name="originUrl" value="/endpoint/v1/user/find_by_id" />
+        <option name="url" value="/endpoint/v1/user/find_by_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -266,6 +282,7 @@
         <option value="mtc-ticket" />
         <option value="mtc-wms" />
         <option value="jf-common-mq-test" />
+        <option value="mps-user" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
