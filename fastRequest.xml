@@ -276,13 +276,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.venue.endpoint.VenueTemplateEntranceApi" />
-        <option name="method" value="createOrUpdate" />
-        <option name="methodDescription" value="创建或者修改入场口" />
+        <option name="className" value="com.mtl.mtc.venue.endpoint.ZoneTemplateApi" />
+        <option name="method" value="batchUpdateZoneAndSectorBaseInfo" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-venue-api" />
-        <option name="originUrl" value="/endpoint/v1/venue_template_entrance/create_or_update" />
-        <option name="url" value="/endpoint/v1/venue_template_entrance/create_or_update" />
+        <option name="originUrl" value="/endpoint/v1/zone_template/batch_update_sector_and_zones_base_info" />
+        <option name="url" value="/endpoint/v1/zone_template/batch_update_sector_and_zones_base_info" />
       </ParamGroup>
     </option>
     <option name="projectList">
