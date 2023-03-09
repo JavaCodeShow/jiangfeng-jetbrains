@@ -276,13 +276,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.venue.endpoint.ZoneTemplateApi" />
-        <option name="method" value="batchUpdateZoneAndSectorBaseInfo" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="cn.hyy.order.controller.SeataOrderController" />
+        <option name="method" value="placeOrder" />
+        <option name="methodDescription" value="自由下单" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-venue-api" />
-        <option name="originUrl" value="/endpoint/v1/zone_template/batch_update_sector_and_zones_base_info" />
-        <option name="url" value="/endpoint/v1/zone_template/batch_update_sector_and_zones_base_info" />
+        <option name="module" value="order" />
+        <option name="originUrl" value="/test/seata/order/placeOrder" />
+        <option name="url" value="/test/seata/order/placeOrder" />
       </ParamGroup>
     </option>
     <option name="projectList">
