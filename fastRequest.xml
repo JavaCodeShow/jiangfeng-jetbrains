@@ -256,9 +256,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8084/" />
+    <option name="domain" value="http://localhost:9011/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mps-account" />
+    <option name="enableProject" value="mtc-show" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -276,13 +276,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="cn.hyy.order.controller.SeataOrderController" />
-        <option name="method" value="placeOrder" />
-        <option name="methodDescription" value="自由下单" />
+        <option name="className" value="com.mtl.mtc.show.buyer.endpoint.CyyBuyerShowApi" />
+        <option name="method" value="findSessionAndSeatPlan" />
+        <option name="methodDescription" value="查询单个场次下面的所有票价" />
         <option name="methodType" value="POST" />
-        <option name="module" value="order" />
-        <option name="originUrl" value="/test/seata/order/placeOrder" />
-        <option name="url" value="/test/seata/order/placeOrder" />
+        <option name="module" value="mtc-show-buyer-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/buyer/find_show_and_seat_plan" />
+        <option name="url" value="/endpoint/v1/cyy/buyer/find_show_and_seat_plan" />
       </ParamGroup>
     </option>
     <option name="projectList">
