@@ -277,12 +277,12 @@
           </map>
         </option>
         <option name="className" value="com.mtl.mtc.show.buyer.endpoint.CyyBuyerShowApi" />
-        <option name="method" value="findShowAndSession" />
-        <option name="methodDescription" value="查询节目下的所有场次" />
+        <option name="method" value="findShowDetail" />
+        <option name="methodDescription" value="查询节目详情" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-show-buyer-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/find_show_and_session" />
-        <option name="url" value="/endpoint/v1/cyy/find_show_and_session" />
+        <option name="originUrl" value="/endpoint/v1/cyy/buyer/find_show_detail" />
+        <option name="url" value="/endpoint/v1/cyy/buyer/find_show_detail" />
       </ParamGroup>
     </option>
     <option name="projectList">
