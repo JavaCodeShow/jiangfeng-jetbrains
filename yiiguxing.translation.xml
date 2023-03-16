@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="need Calendar" />
       <item value="check节目有效性" />
       <item value="校验" />
       <item value="validate" />
@@ -140,9 +141,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
+        <entry key="CHINESE" value="43" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
