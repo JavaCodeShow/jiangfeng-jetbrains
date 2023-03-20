@@ -283,12 +283,12 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.mtl.mtc.core.TestController" />
-        <option name="method" value="reBuildShowCache" />
+        <option name="method" value="reBuildSeatPlanCache" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="mtc-show-core" />
-        <option name="originUrl" value="/reBuildShowCache" />
-        <option name="url" value="/reBuildShowCache" />
+        <option name="originUrl" value="/reBuildSeatPlanCache" />
+        <option name="url" value="/reBuildSeatPlanCache" />
       </ParamGroup>
     </option>
     <option name="projectList">
