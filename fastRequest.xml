@@ -271,9 +271,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011/" />
+    <option name="domain" value="http://localhost:9026/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-show" />
+    <option name="enableProject" value="mtc-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -282,13 +282,21 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.core.TestController" />
-        <option name="method" value="reBuildSeatPlanCache" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="mtc-show-core" />
-        <option name="originUrl" value="/reBuildSeatPlanCache" />
-        <option name="url" value="/reBuildSeatPlanCache" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.ticket.buyer.endpoint.CyyBuyerTicketQueryApi" />
+        <option name="method" value="queryLeftStocksBySaleMerchant" />
+        <option name="methodDescription" value="查询该商户自分销的某一批端票价的剩余库存入参" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-ticket-buyer-api" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
