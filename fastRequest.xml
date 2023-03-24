@@ -197,6 +197,21 @@
           </option>
           <option name="name" value="jf-common-test" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9034/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-show-buyer" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -271,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9026/" />
+    <option name="domain" value="http://localhost:9034/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-ticket" />
+    <option name="enableProject" value="mtc-show-buyer" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -282,21 +297,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.mtl.mtc.show.buyer.endpoint.CyyBuyerShowApi" />
+        <option name="method" value="reloadCache" />
+        <option name="methodDescription" value="构建节目场次票价的缓存" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="mtc-show-buyer-api" />
+        <option name="originUrl" value="/endpoint/cache/v1/preload/by_show" />
+        <option name="requestParamMap">
           <map>
-            <entry key="request">
+            <entry key="bizShowId">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.buyer.endpoint.CyyBuyerTicketQueryApi" />
-        <option name="method" value="queryLeftStocksBySaleMerchant" />
-        <option name="methodDescription" value="查询该商户自分销的某一批端票价的剩余库存入参" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="mtc-ticket-buyer-api" />
-        <option name="url" value="" />
+        <option name="url" value="/endpoint/cache/v1/preload/by_show" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -314,6 +330,7 @@
         <option value="mps-user" />
         <option value="mps-account" />
         <option value="jf-common-test" />
+        <option value="mtc-show-buyer" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
