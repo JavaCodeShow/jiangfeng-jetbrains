@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="reload Cache" />
       <item value="保护" />
       <item value="Tuple" />
       <item value="是否缺票" />
@@ -144,9 +145,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
+        <entry key="CHINESE" value="47" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
