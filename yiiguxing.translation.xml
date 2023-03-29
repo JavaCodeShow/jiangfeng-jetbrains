@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679559437190" />
+    <option name="lastTrimTime" value="1680095570831" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="SET IF PRESENT" />
+      <item value="Do not set any additional command argument." />
+      <item value="UPSERT" />
+      <item value="SET IF ABSENT" />
       <item value="Blocks until all tasks have completed execution after a shutdown request, or the timeout occurs, or the current thread is interrupted, whichever happens first. Params: timeout – the maximum time to wait unit – the time unit of the timeout argument Returns: true if this executor terminated and false if the timeout elapsed before termination Throws: InterruptedException – if interrupted while waiting" />
       <item value="If the specified key is not already associated with a value (or is mapped to null) associates it with the given value and returns null, else returns the current value. Returns: the previous value associated with the specified key, or null if there was no mapping for the key" />
       <item value="reload Cache" />
@@ -142,14 +146,12 @@
       <item value="票源商户" />
       <item value="晚上吃啥呢" />
       <item value="Array List" />
-      <item value="Main" />
-      <item value="晚上吃啥呢？" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
+        <entry key="CHINESE" value="56" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
