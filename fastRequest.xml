@@ -297,22 +297,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.mtl.mtc.show.buyer.endpoint.CyyBuyerShowApi" />
-        <option name="method" value="reloadCache" />
-        <option name="methodDescription" value="构建节目场次票价的缓存" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="mtc-show-buyer-api" />
-        <option name="originUrl" value="/endpoint/cache/v1/preload/by_show" />
-        <option name="requestParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="bizShowId">
+            <entry key="request">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/endpoint/cache/v1/preload/by_show" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyStdShowApi" />
+        <option name="method" value="createShow" />
+        <option name="methodDescription" value="创建StdShow" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/std_show/create" />
+        <option name="url" value="/endpoint/v1/cyy/std_show/create" />
       </ParamGroup>
     </option>
     <option name="projectList">
