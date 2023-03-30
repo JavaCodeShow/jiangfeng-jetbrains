@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Tuple" />
       <item value="Flight Recorder VM options can't be changed at runtime. Existing options will be used. When the default Flight Recorder VM Options are used, the 'stackdepth' parameter is set to 64. Stack traces deeper than 64 frames will be truncated." />
       <item value="SET IF PRESENT" />
       <item value="Do not set any additional command argument." />
@@ -105,7 +106,6 @@
       <item value="If the specified key is not already associated with a value (or is mapped to null) associates it with the given value and returns null, else returns the current value. Returns: the previous value associated with the specified key, or null if there was no mapping for the key" />
       <item value="reload Cache" />
       <item value="保护" />
-      <item value="Tuple" />
       <item value="是否缺票" />
       <item value="need Calendar" />
       <item value="check节目有效性" />
@@ -149,9 +149,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
