@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Flight Recorder VM options can't be changed at runtime. Existing options will be used. When the default Flight Recorder VM Options are used, the 'stackdepth' parameter is set to 64. Stack traces deeper than 64 frames will be truncated." />
       <item value="SET IF PRESENT" />
       <item value="Do not set any additional command argument." />
       <item value="UPSERT" />
@@ -145,13 +146,12 @@
       <item value="票代商户" />
       <item value="票源商户" />
       <item value="晚上吃啥呢" />
-      <item value="Array List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
+        <entry key="CHINESE" value="57" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
