@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="get Cause" />
       <item value="Exception thrown when attempting to retrieve the result of a task that aborted by throwing an exception. This exception can be inspected using the {@link getCause()} method." />
       <item value="Execution Exception" />
       <item value="A common Spring annotation to declare that annotated elements can be {@code null} under some circumstance. &lt;p&gt;Leverages JSR-305 meta-annotations to indicate nullability in Java to common tools with JSR-305 support and used by Kotlin to infer nullability of Spring API. &lt;p&gt;Should be used at parameter, return value, and field level. Methods override should repeat parent {@code @Nullable} annotations unless they behave differently. &lt;p&gt;Can be used in association with {@code @NonNullApi} or {@code @NonNullFields} to override the default non-nullable semantic to nullable. @author Sebastien Deleuze @author Juergen Hoeller @since 5.0 @see NonNullApi @see NonNullFields @see NonNull" />
@@ -145,13 +146,12 @@
       <item value="游标" />
       <item value="Cousor" />
       <item value="normal" />
-      <item value="set Pre Sale Stock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
+        <entry key="CHINESE" value="67" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
