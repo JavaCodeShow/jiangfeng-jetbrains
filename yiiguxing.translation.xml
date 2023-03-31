@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="layercache wrapper, for the concrete explanation of remote cache params," />
       <item value="物理过期时间" />
       <item value="LOGICAL EXPIRE SECONDS" />
       <item value="Flight Recorder" />
@@ -145,13 +146,12 @@
       <item value="设置或者取消该预留仓为配票仓" />
       <item value="PRESALE" />
       <item value="PRESALE STOCK" />
-      <item value="PRESALE RESERVE STOCK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
