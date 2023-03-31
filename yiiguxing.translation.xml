@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}. &lt;p&gt; Specifically, this method tests whether the type represented by the specified {@code Class} parameter can be converted to the type represented by this {@code Class} object via an identity conversion or via a widening reference conversion. See &lt;em&gt;The Java Language Specification&lt;em&gt;, sections 5.1.1 and 5.1.4 , for details. @param cls the {@code Class} object to be checked @return the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class @exception NullPointerException if the specified Class parameter is null. @since JDK1.1" />
+      <item value="is Assignable From" />
       <item value="Type is the common superinterface for all types in the Java programming language. These include raw types, parameterized types, array types, type variables and primitive types." />
       <item value="tricky method to check the first char" />
       <item value="Returns the {@code Throwable} instance wrapped in this {@code UndeclaredThrowableException}, which may be {@code null}. &lt;p&gt;This method predates the general-purpose exception chaining facility. The {@link ThrowablegetCause()} method is now the preferred means of obtaining this information. @return the undeclared checked exception that was thrown" />
@@ -144,14 +146,12 @@
       <item value="Extractor" />
       <item value="Order Extractor" />
       <item value="confirm Delete" />
-      <item value="单节目删除数量" />
-      <item value="物理删除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="73" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
