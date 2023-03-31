@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="物理过期时间" />
+      <item value="LOGICAL EXPIRE SECONDS" />
       <item value="Flight Recorder" />
       <item value="SUFFIX" />
       <item value="Tuple" />
@@ -144,14 +146,12 @@
       <item value="PRESALE" />
       <item value="PRESALE STOCK" />
       <item value="PRESALE RESERVE STOCK" />
-      <item value="没有纸质票" />
-      <item value="票代商户" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
+        <entry key="CHINESE" value="62" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
