@@ -297,13 +297,12 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.StringController" />
-        <option name="method" value="layerTest" />
-        <option name="methodDescription" value="layerCache test" />
+        <option name="className" value="com.jf.test.controller.HelloController" />
+        <option name="method" value="hello" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="originUrl" value="/layer" />
-        <option name="url" value="/layer" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
