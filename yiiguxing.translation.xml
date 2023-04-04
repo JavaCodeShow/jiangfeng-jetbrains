@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680095570831" />
+    <option name="lastTrimTime" value="1680594727638" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="该节目没有授权" />
+      <item value="该节目在此渠道不可售" />
+      <item value="SHOW NOT EXIST" />
+      <item value="该节目不存在" />
       <item value="Exception thrown when attempting to retrieve the result of a task that aborted by throwing an exception. This exception can be inspected using the {@link getCause()} method." />
       <item value="Constructs an {@code ExecutionException} with the specified detail message. The cause is not initialized, and may subsequently be initialized by a call to {@link initCause(Throwable) initCause}." />
       <item value="Exception thrown when attempting to retrieve the result of a task that aborted by throwing an exception. This exception can be inspected using the getCause() method." />
@@ -142,16 +146,12 @@
       <item value="org.springframework.data.redis.RedisSystemException: Error in execution; nested exception is io.lettuce.core.RedisCommandExecutionException: WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="Determine the index of element with value in a sorted set when scored high to low." />
       <item value="Use a positive number for count. &quot; + &quot;This method is already allowing duplicate elements" />
-      <item value="Get count random elements from set at the bound key." />
-      <item value="Returns the members intersecting all given sets at {@code key} and {@code otherKey}." />
-      <item value="判断指定元素是否在指定集合中" />
-      <item value="Extractor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
+        <entry key="CHINESE" value="82" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="ENGLISH" value="81" />
       </map>
     </option>
   </component>
