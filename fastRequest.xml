@@ -311,8 +311,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-show-cyy-rpc-provider" />
-        <option name="originUrl" value="/endpoint/v1/cyy/etl/shows" />
-        <option name="url" value="/endpoint/v1/cyy/etl/shows" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
