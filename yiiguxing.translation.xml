@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="search Associate" />
       <item value="该节目没有授权" />
       <item value="该节目在此渠道不可售" />
       <item value="SHOW NOT EXIST" />
@@ -145,13 +146,12 @@
       <item value="layered Cache" />
       <item value="org.springframework.data.redis.RedisSystemException: Error in execution; nested exception is io.lettuce.core.RedisCommandExecutionException: WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="Determine the index of element with value in a sorted set when scored high to low." />
-      <item value="Use a positive number for count. &quot; + &quot;This method is already allowing duplicate elements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
+        <entry key="CHINESE" value="83" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
