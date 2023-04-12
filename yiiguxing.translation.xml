@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="3320" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="&amp;64;SneakyThrow will avoid javac's insistence that you either catch or throw onward any checked exceptions that statements in your method body declare they generate. &lt;p&gt; &amp;64;SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed checked exception types. The JVM does not check for the consistency of the checked exception system; javac does, and this annotation lets you opt out of its mechanism. &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesSneakyThrows&quot;&gt;the project lombok features page for &amp;64;SneakyThrows&lt;a&gt;. &lt;p&gt; Example: &lt;pre&gt; &amp;64;SneakyThrows(UnsupportedEncodingException.class) public void utf8ToString(byte[] bytes) { return new String(bytes, &quot;UTF-8&quot;); } &lt;pre&gt; Becomes: &lt;pre&gt; public void utf8ToString(byte[] bytes) { try { return new String(bytes, &quot;UTF-8&quot;); } catch (UnsupportedEncodingException uniqueName) { throw useMagicTrickeryToHideThisFromTheCompiler(uniqueName); This trickery involves a bytecode transformer run automatically during the final stages of compilation; there is no runtime dependency on lombok. } &lt;pre&gt;" />
       <item value="Represents a generic type {@code T}. Java doesn't yet provide a way to represent generic types, so this class does. Forces clients to create a subclass of this class which enables retrieval the type information even at runtime. &lt;p&gt;For example, to create a type literal for {@code List&lt;String&gt;}, you can create an empty anonymous inner class: &lt;pre&gt; TypeReference&amp;lt;List&amp;lt;String&amp;gt;&amp;gt; list = new TypeReference&amp;lt;List&amp;lt;String&amp;gt;&amp;gt;() {}; &lt;pre&gt; This syntax cannot be used to create type literals that have wildcard parameters, such as {@code Class&lt;?&gt;} or {@code List&lt;? extends CharSequence&gt;}." />
       <item value="class Tuple" />
       <item value="filter Invalid Biz Show Session" />
@@ -145,13 +146,12 @@
       <item value="lock Retry Interval" />
       <item value="lock Retry Internal" />
       <item value="If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
-      <item value="particular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
+        <entry key="CHINESE" value="87" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
