@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="391" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="@return the current (existing or computed) value associated with the specified key, or null if the computed value is null" />
+      <item value="If the specified key is not already associated with a value, attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. The entire method invocation is performed atomically, so the function is applied at most once per key. Some attempted update operations on this map by other threads may be blocked while computation is in progress, so the computation should be short and simple, and must not attempt to update any other mappings of this map." />
+      <item value="compute If Absent" />
       <item value="An {@link ExecutorService} for running {@link ForkJoinTask}s. A {@code ForkJoinPool} provides the entry point for submissions from non-{@code ForkJoinTask} clients, as well as management and monitoring operations." />
       <item value="实际" />
       <item value="actural" />
@@ -144,15 +147,12 @@
       <item value="reload Cache" />
       <item value="保护" />
       <item value="是否缺票" />
-      <item value="need Calendar" />
-      <item value="check节目有效性" />
-      <item value="校验" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
+        <entry key="CHINESE" value="100" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="ENGLISH" value="99" />
       </map>
     </option>
   </component>
