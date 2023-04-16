@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="391" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="class if this class is an array" />
       <item value="Type Token" />
       <item value="@return the current (existing or computed) value associated with the specified key, or null if the computed value is null" />
       <item value="If the specified key is not already associated with a value, attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. The entire method invocation is performed atomically, so the function is applied at most once per key. Some attempted update operations on this map by other threads may be blocked while computation is in progress, so the computation should be short and simple, and must not attempt to update any other mappings of this map." />
@@ -146,13 +147,12 @@
       <item value="Blocks until all tasks have completed execution after a shutdown request, or the timeout occurs, or the current thread is interrupted, whichever happens first. Params: timeout – the maximum time to wait unit – the time unit of the timeout argument Returns: true if this executor terminated and false if the timeout elapsed before termination Throws: InterruptedException – if interrupted while waiting" />
       <item value="If the specified key is not already associated with a value (or is mapped to null) associates it with the given value and returns null, else returns the current value. Returns: the previous value associated with the specified key, or null if there was no mapping for the key" />
       <item value="reload Cache" />
-      <item value="保护" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
+        <entry key="CHINESE" value="102" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="ENGLISH" value="101" />
       </map>
     </option>
   </component>
