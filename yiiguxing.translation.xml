@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="391" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a map of the values associated with {@code keys} in this cache. The returned map will only contain entries which are already present in the cache." />
       <item value="load data from redis" />
       <item value="load date from redis" />
       <item value="Returns the value associated with {@code key} in this cache, or {@code null} if there is no cached value for {@code key}." />
@@ -146,13 +147,12 @@
       <item value="Flight Recorder VM options can't be changed at runtime. Existing options will be used. When the default Flight Recorder VM Options are used, the 'stackdepth' parameter is set to 64. Stack traces deeper than 64 frames will be truncated." />
       <item value="SET IF PRESENT" />
       <item value="Do not set any additional command argument." />
-      <item value="UPSERT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
+        <entry key="CHINESE" value="107" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="ENGLISH" value="106" />
       </map>
     </option>
   </component>
