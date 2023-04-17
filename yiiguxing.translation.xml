@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="391" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="load data from redis" />
+      <item value="load date from redis" />
       <item value="Returns the value associated with {@code key} in this cache, or {@code null} if there is no cached value for {@code key}." />
       <item value="combine List" />
       <item value="class if this class is an array" />
@@ -145,14 +147,12 @@
       <item value="SET IF PRESENT" />
       <item value="Do not set any additional command argument." />
       <item value="UPSERT" />
-      <item value="SET IF ABSENT" />
-      <item value="Blocks until all tasks have completed execution after a shutdown request, or the timeout occurs, or the current thread is interrupted, whichever happens first. Params: timeout – the maximum time to wait unit – the time unit of the timeout argument Returns: true if this executor terminated and false if the timeout elapsed before termination Throws: InterruptedException – if interrupted while waiting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
+        <entry key="CHINESE" value="106" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="105" />
       </map>
     </option>
   </component>
