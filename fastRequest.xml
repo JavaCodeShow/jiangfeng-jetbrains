@@ -297,21 +297,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.ProtectedCacheTestController" />
-        <option name="method" value="mGet" />
-        <option name="methodDescription" value="受保护的并发缓存" />
+        <option name="className" value="com.jf.test.controller.StringController" />
+        <option name="method" value="layerTest" />
+        <option name="methodDescription" value="layerCache test" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="name">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="" />
+        <option name="originUrl" value="/layer" />
+        <option name="url" value="/layer" />
       </ParamGroup>
     </option>
     <option name="projectList">

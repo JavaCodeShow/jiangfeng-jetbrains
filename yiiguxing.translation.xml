@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681292837632" />
+    <option name="lastTrimTime" value="1681729385175" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="391" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the value associated with {@code key} in this cache, or {@code null} if there is no cached value for {@code key}." />
       <item value="combine List" />
       <item value="class if this class is an array" />
       <item value="Type Token" />
@@ -146,13 +147,12 @@
       <item value="UPSERT" />
       <item value="SET IF ABSENT" />
       <item value="Blocks until all tasks have completed execution after a shutdown request, or the timeout occurs, or the current thread is interrupted, whichever happens first. Params: timeout – the maximum time to wait unit – the time unit of the timeout argument Returns: true if this executor terminated and false if the timeout elapsed before termination Throws: InterruptedException – if interrupted while waiting" />
-      <item value="If the specified key is not already associated with a value (or is mapped to null) associates it with the given value and returns null, else returns the current value. Returns: the previous value associated with the specified key, or null if there was no mapping for the key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
+        <entry key="CHINESE" value="104" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
       </map>
     </option>
   </component>
