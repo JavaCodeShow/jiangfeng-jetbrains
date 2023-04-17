@@ -302,7 +302,6 @@
         <option name="methodDescription" value="受保护的并发缓存" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="originUrl" value="/protectedCacheGet" />
         <option name="requestParamMap">
           <map>
             <entry key="name">
@@ -312,7 +311,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/protectedCacheGet" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
