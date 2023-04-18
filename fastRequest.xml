@@ -302,7 +302,8 @@
         <option name="methodDescription" value="layerCache test" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/layer" />
+        <option name="url" value="/layer" />
       </ParamGroup>
     </option>
     <option name="projectList">
