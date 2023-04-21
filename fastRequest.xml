@@ -298,11 +298,21 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.jf.test.controller.StringController" />
-        <option name="method" value="layerTest" />
-        <option name="methodDescription" value="layerCache test" />
+        <option name="method" value="mGet" />
+        <option name="methodDescription" value="批量查询数据" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/mGet" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="name">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/mGet" />
       </ParamGroup>
     </option>
     <option name="projectList">
