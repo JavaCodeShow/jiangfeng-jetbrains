@@ -97,8 +97,8 @@
     <option name="newTranslationDialogY" value="391" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="NULL VALUE CACHE INTERVAL SECONDS" />
       <item value="Random Deviation" />
+      <item value="NULL VALUE CACHE INTERVAL SECONDS" />
       <item value="USED HEAP PERCENTAGE" />
       <item value="Returns a map of the values associated with {@code keys} in this cache. The returned map will only contain entries which are already present in the cache." />
       <item value="load data from redis" />
@@ -150,9 +150,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
+        <entry key="CHINESE" value="111" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="ENGLISH" value="110" />
       </map>
     </option>
   </component>
