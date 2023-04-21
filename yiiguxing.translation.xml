@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="391" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="数据不在缓存里面" />
+      <item value="数据没有过期" />
       <item value="Random Deviation" />
       <item value="NULL VALUE CACHE INTERVAL SECONDS" />
       <item value="USED HEAP PERCENTAGE" />
@@ -145,14 +147,12 @@
       <item value="物理过期时间" />
       <item value="LOGICAL EXPIRE SECONDS" />
       <item value="Flight Recorder" />
-      <item value="SUFFIX" />
-      <item value="Tuple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
+        <entry key="CHINESE" value="113" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="112" />
       </map>
     </option>
   </component>
