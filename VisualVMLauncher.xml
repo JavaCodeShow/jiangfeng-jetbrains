@@ -1,5 +1,6 @@
 <application>
   <component name="VisualVMLauncher">
-    <option name="visualVmExecutable" value="E:/java/code/test/java_pid10628.hprof" />
+    <option name="jdkHome" value="C:/Program Files/Java/jdk1.8.0_351" />
+    <option name="visualVmExecutable" value="C:/Program Files/Java/jdk1.8.0_351/bin/jvisualvm.exe" />
   </component>
 </application>
