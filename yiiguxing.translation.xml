@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="SET IF PRESENT" />
+      <item value="SET IF ABSENT" />
+      <item value="Do not set any additional command argument." />
+      <item value="真实库存" />
       <item value="optimize" />
       <item value="优化" />
       <item value="查询库存优化" />
@@ -142,16 +146,12 @@
       <item value="is Assignable From" />
       <item value="Type is the common superinterface for all types in the Java programming language. These include raw types, parameterized types, array types, type variables and primitive types." />
       <item value="Returns the {@code Throwable} instance wrapped in this {@code UndeclaredThrowableException}, which may be {@code null}. &lt;p&gt;This method predates the general-purpose exception chaining facility. The {@link ThrowablegetCause()} method is now the preferred means of obtaining this information. @return the undeclared checked exception that was thrown" />
-      <item value="Undeclared Throwable Exception" />
-      <item value="get Cause" />
-      <item value="A common Spring annotation to declare that annotated elements can be {@code null} under some circumstance. &lt;p&gt;Leverages JSR-305 meta-annotations to indicate nullability in Java to common tools with JSR-305 support and used by Kotlin to infer nullability of Spring API. &lt;p&gt;Should be used at parameter, return value, and field level. Methods override should repeat parent {@code @Nullable} annotations unless they behave differently. &lt;p&gt;Can be used in association with {@code @NonNullApi} or {@code @NonNullFields} to override the default non-nullable semantic to nullable. @author Sebastien Deleuze @author Juergen Hoeller @since 5.0 @see NonNullApi @see NonNullFields @see NonNull" />
-      <item value="layercache wrapper, for the concrete explanation of remote cache params," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
+        <entry key="CHINESE" value="120" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="119" />
       </map>
     </option>
   </component>
