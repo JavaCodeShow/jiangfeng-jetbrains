@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681729385175" />
+    <option name="lastTrimTime" value="1682253356555" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -92,11 +92,13 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="optimize" />
+      <item value="优化" />
+      <item value="查询库存优化" />
       <item value="数据不在缓存里面" />
       <item value="数据没有过期" />
       <item value="Random Deviation" />
@@ -144,15 +146,12 @@
       <item value="get Cause" />
       <item value="A common Spring annotation to declare that annotated elements can be {@code null} under some circumstance. &lt;p&gt;Leverages JSR-305 meta-annotations to indicate nullability in Java to common tools with JSR-305 support and used by Kotlin to infer nullability of Spring API. &lt;p&gt;Should be used at parameter, return value, and field level. Methods override should repeat parent {@code @Nullable} annotations unless they behave differently. &lt;p&gt;Can be used in association with {@code @NonNullApi} or {@code @NonNullFields} to override the default non-nullable semantic to nullable. @author Sebastien Deleuze @author Juergen Hoeller @since 5.0 @see NonNullApi @see NonNullFields @see NonNull" />
       <item value="layercache wrapper, for the concrete explanation of remote cache params," />
-      <item value="物理过期时间" />
-      <item value="LOGICAL EXPIRE SECONDS" />
-      <item value="Flight Recorder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
+        <entry key="CHINESE" value="116" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="ENGLISH" value="115" />
       </map>
     </option>
   </component>
