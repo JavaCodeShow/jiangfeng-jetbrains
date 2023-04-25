@@ -302,8 +302,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="mtc-show-core" />
-        <option name="originUrl" value="/removeSessionStatusCache" />
-        <option name="url" value="/removeSessionStatusCache" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
