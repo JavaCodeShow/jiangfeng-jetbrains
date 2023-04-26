@@ -286,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8911/" />
+    <option name="domain" value="http://localhost:9014/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="jf-common-test" />
+    <option name="enableProject" value="mtc-venue" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -297,22 +297,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.StringController" />
-        <option name="method" value="mGet" />
-        <option name="methodDescription" value="批量查询数据" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="jf-common-test" />
-        <option name="originUrl" value="/mGet" />
-        <option name="requestParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="name">
+            <entry key="request">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/mGet" />
+        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.VenueI18nApi" />
+        <option name="method" value="findByVenueIds" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-venue-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/venue_i18n/find_by_venue_ids" />
+        <option name="url" value="/endpoint/v1/venue_i18n/find_by_venue_ids" />
       </ParamGroup>
     </option>
     <option name="projectList">
