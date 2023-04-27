@@ -307,7 +307,7 @@
           </map>
         </option>
         <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.VenueI18nApi" />
-        <option name="method" value="findByVenueIds" />
+        <option name="method" value="findVenueIdsByIds" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-venue-cyy-api" />
