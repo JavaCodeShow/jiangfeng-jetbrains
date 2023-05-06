@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682253356555" />
+    <option name="lastTrimTime" value="1683368581646" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -96,6 +96,12 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="PASS THROUGH HEADERS" />
+      <item value="PASS HEADERS" />
+      <item value="需要传递" />
+      <item value="需要传递的header key信息" />
+      <item value="DELIVERY HEADERS" />
+      <item value="THROUGH" />
       <item value="match Phrase Query" />
       <item value="terms Query" />
       <item value="英文节目名称" />
@@ -140,18 +146,12 @@
       <item value="filter Invalid Biz Show Session" />
       <item value="search Associate" />
       <item value="该节目没有授权" />
-      <item value="该节目在此渠道不可售" />
-      <item value="SHOW NOT EXIST" />
-      <item value="该节目不存在" />
-      <item value="Exception thrown when attempting to retrieve the result of a task that aborted by throwing an exception. This exception can be inspected using the {@link getCause()} method." />
-      <item value="Constructs an {@code ExecutionException} with the specified detail message. The cause is not initialized, and may subsequently be initialized by a call to {@link initCause(Throwable) initCause}." />
-      <item value="Exception thrown when attempting to retrieve the result of a task that aborted by throwing an exception. This exception can be inspected using the getCause() method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
+        <entry key="CHINESE" value="132" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="ENGLISH" value="131" />
       </map>
     </option>
   </component>
