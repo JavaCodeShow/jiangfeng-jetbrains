@@ -96,13 +96,15 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="match Query" />
+      <item value="match Phrase Query" />
+      <item value="tie Breaker" />
       <item value="PASS THROUGH HEADERS" />
       <item value="PASS HEADERS" />
       <item value="需要传递" />
       <item value="需要传递的header key信息" />
       <item value="DELIVERY HEADERS" />
       <item value="THROUGH" />
-      <item value="match Phrase Query" />
       <item value="terms Query" />
       <item value="英文节目名称" />
       <item value="Refresh" />
@@ -144,14 +146,12 @@
       <item value="Represents a generic type {@code T}. Java doesn't yet provide a way to represent generic types, so this class does. Forces clients to create a subclass of this class which enables retrieval the type information even at runtime. &lt;p&gt;For example, to create a type literal for {@code List&lt;String&gt;}, you can create an empty anonymous inner class: &lt;pre&gt; TypeReference&amp;lt;List&amp;lt;String&amp;gt;&amp;gt; list = new TypeReference&amp;lt;List&amp;lt;String&amp;gt;&amp;gt;() {}; &lt;pre&gt; This syntax cannot be used to create type literals that have wildcard parameters, such as {@code Class&lt;?&gt;} or {@code List&lt;? extends CharSequence&gt;}." />
       <item value="class Tuple" />
       <item value="filter Invalid Biz Show Session" />
-      <item value="search Associate" />
-      <item value="该节目没有授权" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
+        <entry key="CHINESE" value="135" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="ENGLISH" value="134" />
       </map>
     </option>
   </component>
