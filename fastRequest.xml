@@ -297,11 +297,20 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.mq.test.controller.IndexController" />
-        <option name="method" value="index" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="param">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.juqitech.service.interfaces.zone.VenueTemplateEntranceController" />
+        <option name="method" value="createOrUpdate" />
         <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="jf-common-mq-test" />
+        <option name="methodType" value="PUT" />
+        <option name="module" value="manage_service" />
         <option name="url" value="" />
       </ParamGroup>
     </option>
