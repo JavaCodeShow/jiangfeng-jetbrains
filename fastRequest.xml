@@ -306,13 +306,12 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowForCApi" />
-        <option name="method" value="findShowAndSessions" />
-        <option name="methodDescription" value="查询节目场次" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyStdShowExtensionApi" />
+        <option name="method" value="createOrUpdateForOrderRemark" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/sessions_for_c/find_by_param" />
-        <option name="url" value="/endpoint/v1/cyy/sessions_for_c/find_by_param" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
