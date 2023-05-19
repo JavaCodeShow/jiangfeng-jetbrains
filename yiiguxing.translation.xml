@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="提前结束销售" />
       <item value="乐观锁" />
       <item value="CLOUMN" />
       <item value="Show not on sale, please config again" />
@@ -145,13 +146,12 @@
       <item value="tricky method to check the first char" />
       <item value="&lt;p&gt; The string {@code &quot;unchecked&quot;} is used to suppress unchecked warnings. Compiler vendors should document the additional warning names they support in conjunction with this annotation type. They are encouraged to cooperate to ensure that the same names work across multiple compilers. @return the set of warnings to be suppressed" />
       <item value="decode" />
-      <item value="class &#10;tuple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
+        <entry key="CHINESE" value="142" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="ENGLISH" value="141" />
       </map>
     </option>
   </component>
