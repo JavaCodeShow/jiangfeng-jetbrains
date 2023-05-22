@@ -286,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:10000/" />
+    <option name="domain" value="http://localhost:8911/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="jf-common-mq-test" />
+    <option name="enableProject" value="jf-common-test" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -297,21 +297,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.jf.test.controller.StringController" />
+        <option name="method" value="mGet" />
+        <option name="methodDescription" value="批量查询数据" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="jf-common-test" />
+        <option name="originUrl" value="/mGet" />
+        <option name="requestParamMap">
           <map>
-            <entry key="request">
+            <entry key="name">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyStdShowExtensionApi" />
-        <option name="method" value="createOrUpdateForOrderRemark" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="url" value="" />
+        <option name="url" value="/mGet" />
       </ParamGroup>
     </option>
     <option name="projectList">

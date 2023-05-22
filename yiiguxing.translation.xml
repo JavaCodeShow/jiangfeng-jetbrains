@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="Refresh" />
       <item value="As task queue specifically designed to run with a thread pool executor. The task queue is optimised to properly utilize threads within a thread pool executor. If you use a normal queue, the executor will spawn threads when there are idle threads and you wont be able to force items onto the queue itself." />
       <item value="aggregate Query" />
       <item value="提前结束销售" />
@@ -116,7 +117,6 @@
       <item value="THROUGH" />
       <item value="terms Query" />
       <item value="英文节目名称" />
-      <item value="Refresh" />
       <item value="MIDDLE LINE" />
       <item value="SET IF PRESENT" />
       <item value="SET IF ABSENT" />
@@ -149,9 +149,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
+        <entry key="CHINESE" value="146" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="ENGLISH" value="145" />
       </map>
     </option>
   </component>
