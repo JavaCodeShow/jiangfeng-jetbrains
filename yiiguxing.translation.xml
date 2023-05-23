@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="stat" />
       <item value="Basic thread blocking primitives for creating locks and other synchronization classes." />
       <item value="Refresh" />
       <item value="As task queue specifically designed to run with a thread pool executor. The task queue is optimised to properly utilize threads within a thread pool executor. If you use a normal queue, the executor will spawn threads when there are idle threads and you wont be able to force items onto the queue itself." />
@@ -145,13 +146,12 @@
       <item value="实际" />
       <item value="actural" />
       <item value="actural processor method" />
-      <item value="实际处理的方法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
+        <entry key="CHINESE" value="148" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="ENGLISH" value="147" />
       </map>
     </option>
   </component>
