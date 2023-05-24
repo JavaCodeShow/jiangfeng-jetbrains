@@ -297,13 +297,21 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.mq.test.controller.ExampleController" />
-        <option name="method" value="testOrderSend" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="jf-common-mq-test" />
-        <option name="originUrl" value="/testOrderSend" />
-        <option name="url" value="/testOrderSend" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.show.buyer.endpoint.CyyBuyerShowCoreApi" />
+        <option name="method" value="findSessionAndSeatPlan" />
+        <option name="methodDescription" value="查询单个场次下面的所有票价" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-show-buyer-api" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
