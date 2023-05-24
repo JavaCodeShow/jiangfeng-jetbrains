@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="scheme" />
+      <item value="schema" />
+      <item value="给入场口分配区域" />
       <item value="stat" />
       <item value="Basic thread blocking primitives for creating locks and other synchronization classes." />
       <item value="Refresh" />
@@ -143,15 +146,12 @@
       <item value="If the specified key is not already associated with a value, attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. The entire method invocation is performed atomically, so the function is applied at most once per key. Some attempted update operations on this map by other threads may be blocked while computation is in progress, so the computation should be short and simple, and must not attempt to update any other mappings of this map." />
       <item value="compute If Absent" />
       <item value="An {@link ExecutorService} for running {@link ForkJoinTask}s. A {@code ForkJoinPool} provides the entry point for submissions from non-{@code ForkJoinTask} clients, as well as management and monitoring operations." />
-      <item value="实际" />
-      <item value="actural" />
-      <item value="actural processor method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
+        <entry key="CHINESE" value="151" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="ENGLISH" value="150" />
       </map>
     </option>
   </component>
