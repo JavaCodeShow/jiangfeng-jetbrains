@@ -306,11 +306,11 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.buyer.endpoint.CyyBuyerShowCoreApi" />
-        <option name="method" value="findSessionAndSeatPlan" />
-        <option name="methodDescription" value="查询单个场次下面的所有票价" />
+        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.SeatPlanSchemaEntranceApi" />
+        <option name="method" value="createOrUpdate" />
+        <option name="methodDescription" value="创建或者修改入场口信息" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-buyer-api" />
+        <option name="module" value="mtc-venue-cyy-api" />
         <option name="url" value="" />
       </ParamGroup>
     </option>
