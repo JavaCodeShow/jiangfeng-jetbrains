@@ -96,6 +96,18 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="Async Request Timeout Exception" />
+      <item value="No Handler Found Exception" />
+      <item value="Missing Servlet Request Part Exception" />
+      <item value="Http Message Not Readable Exception" />
+      <item value="Type Mismatch Exception" />
+      <item value="Servlet Request Binding Exception" />
+      <item value="Missing Servlet Request Parameter Exception" />
+      <item value="Missing Path Variable Exception" />
+      <item value="Http Media Type Not Acceptable Exception" />
+      <item value="Http Media Type Not Supported Exception" />
+      <item value="Http Request Method Not Supported Exception" />
+      <item value="Illegal Argument Exception" />
       <item value="Method Argument Not Valid Exception" />
       <item value="从来没有授权过的" />
       <item value="以前授权过的" />
@@ -134,24 +146,12 @@
       <item value="优化" />
       <item value="查询库存优化" />
       <item value="数据不在缓存里面" />
-      <item value="数据没有过期" />
-      <item value="Random Deviation" />
-      <item value="NULL VALUE CACHE INTERVAL SECONDS" />
-      <item value="USED HEAP PERCENTAGE" />
-      <item value="Returns a map of the values associated with {@code keys} in this cache. The returned map will only contain entries which are already present in the cache." />
-      <item value="load data from redis" />
-      <item value="load date from redis" />
-      <item value="Returns the value associated with {@code key} in this cache, or {@code null} if there is no cached value for {@code key}." />
-      <item value="combine List" />
-      <item value="class if this class is an array" />
-      <item value="Type Token" />
-      <item value="@return the current (existing or computed) value associated with the specified key, or null if the computed value is null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
+        <entry key="CHINESE" value="166" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="ENGLISH" value="165" />
       </map>
     </option>
   </component>
