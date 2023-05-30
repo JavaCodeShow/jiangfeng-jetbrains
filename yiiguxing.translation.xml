@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="入参校验异常" />
       <item value="Exception to be thrown when an async request times out. Alternatively an applications can register a {@link DeferredResultProcessingInterceptor} or a {@link CallableProcessingInterceptor} to handle the timeout through the MVC Java config or the MVC XML namespace or directly through properties of the {@code RequestMappingHandlerAdapter}. &lt;p&gt;By default the exception will be handled as a 503 error." />
       <item value="Async Request Timeout Exception" />
       <item value="Http Message Conversion Exception" />
@@ -145,13 +146,12 @@
       <item value="MIDDLE LINE" />
       <item value="SET IF PRESENT" />
       <item value="SET IF ABSENT" />
-      <item value="Do not set any additional command argument." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
+        <entry key="CHINESE" value="176" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="ENGLISH" value="175" />
       </map>
     </option>
   </component>
