@@ -96,11 +96,16 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="Exception to be thrown when an async request times out. Alternatively an applications can register a {@link DeferredResultProcessingInterceptor} or a {@link CallableProcessingInterceptor} to handle the timeout through the MVC Java config or the MVC XML namespace or directly through properties of the {@code RequestMappingHandlerAdapter}. &lt;p&gt;By default the exception will be handled as a 503 error." />
       <item value="Async Request Timeout Exception" />
+      <item value="Http Message Conversion Exception" />
+      <item value="Property Access Exception" />
+      <item value="Superclass for exceptions related to a property access, such as type mismatch or invocation target exception." />
+      <item value="Servlet Exception" />
+      <item value="Type Mismatch Exception" />
+      <item value="Http Message Not Readable Exception" />
       <item value="No Handler Found Exception" />
       <item value="Missing Servlet Request Part Exception" />
-      <item value="Http Message Not Readable Exception" />
-      <item value="Type Mismatch Exception" />
       <item value="Servlet Request Binding Exception" />
       <item value="Missing Servlet Request Parameter Exception" />
       <item value="Missing Path Variable Exception" />
@@ -141,17 +146,12 @@
       <item value="SET IF PRESENT" />
       <item value="SET IF ABSENT" />
       <item value="Do not set any additional command argument." />
-      <item value="真实库存" />
-      <item value="optimize" />
-      <item value="优化" />
-      <item value="查询库存优化" />
-      <item value="数据不在缓存里面" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
+        <entry key="CHINESE" value="175" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="ENGLISH" value="174" />
       </map>
     </option>
   </component>
