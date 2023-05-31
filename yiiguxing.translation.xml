@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="Enable Method Cache" />
       <item value="A boolean flag that can be set to true if the transaction is effectively read-only, allowing for corresponding optimizations at runtime. Defaults to false. This just serves as a hint for the actual transaction subsystem; it will not necessarily cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will not throw an exception when asked for a read-only transaction but rather silently ignore the hint." />
       <item value="A boolean flag that can be set to {@code true} if the transaction is effectively read-only, allowing for corresponding optimizations at runtime. &lt;p&gt;Defaults to {@code false}. &lt;p&gt;This just serves as a hint for the actual transaction subsystem; it will &lt;i&gt;not necessarily&lt;i&gt; cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will &lt;i&gt;not&lt;i&gt; throw an exception when asked for a read-only transaction but rather silently ignore the hint. @see org.springframework.transaction.interceptor.TransactionAttributeisReadOnly() @see org.springframework.transaction.support.TransactionSynchronizationManagerisCurrentTransactionReadOnly()" />
       <item value="read Only" />
@@ -145,13 +146,12 @@
       <item value="DELIVERY HEADERS" />
       <item value="THROUGH" />
       <item value="terms Query" />
-      <item value="英文节目名称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
+        <entry key="CHINESE" value="180" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="ENGLISH" value="179" />
       </map>
     </option>
   </component>
