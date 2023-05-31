@@ -302,8 +302,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="originUrl" value="/id" />
-        <option name="url" value="/id" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
