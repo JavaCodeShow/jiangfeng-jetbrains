@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="'while' statement cannot complete without throwing an exception" />
+      <item value="异步" />
+      <item value="asyc Executor" />
       <item value="秒杀" />
       <item value="Seckill" />
       <item value="Enable Method Cache" />
@@ -143,15 +146,13 @@
       <item value="tie Breaker" />
       <item value="PASS THROUGH HEADERS" />
       <item value="PASS HEADERS" />
-      <item value="需要传递" />
-      <item value="需要传递的header key信息" />
-      <item value="DELIVERY HEADERS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CHINESE" value="185" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="ENGLISH" value="182" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
