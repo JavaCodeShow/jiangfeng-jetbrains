@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="do Human Verification" />
       <item value="FIXME change it to the project's website" />
       <item value="'while' statement cannot complete without throwing an exception" />
       <item value="异步" />
@@ -145,14 +146,13 @@
       <item value="match Query" />
       <item value="match Phrase Query" />
       <item value="tie Breaker" />
-      <item value="PASS THROUGH HEADERS" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="186" />
+        <entry key="CHINESE" value="187" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
