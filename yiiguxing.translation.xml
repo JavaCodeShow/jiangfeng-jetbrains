@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="roll Back Actuator" />
       <item value="模板生成须知" />
       <item value="primitive" />
       <item value="自动将最后修改时间最晚模板点亮为默认模版" />
@@ -145,14 +146,13 @@
       <item value="Refresh" />
       <item value="As task queue specifically designed to run with a thread pool executor. The task queue is optimised to properly utilize threads within a thread pool executor. If you use a normal queue, the executor will spawn threads when there are idle threads and you wont be able to force items onto the queue itself." />
       <item value="aggregate Query" />
-      <item value="提前结束销售" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="200" />
+        <entry key="CHINESE" value="201" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
