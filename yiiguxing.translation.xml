@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685434395543" />
+    <option name="lastTrimTime" value="1686034004568" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="自动将最后修改时间最晚模板点亮为默认模版" />
       <item value="Distributed Cache Manager" />
       <item value="分布式锁管理器" />
       <item value="Distribute Lock Manager" />
@@ -145,14 +146,13 @@
       <item value="提前结束销售" />
       <item value="乐观锁" />
       <item value="CLOUMN" />
-      <item value="Show not on sale, please config again" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="196" />
+        <entry key="CHINESE" value="198" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="ENGLISH" value="195" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
