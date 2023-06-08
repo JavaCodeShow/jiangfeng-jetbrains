@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="MILLISECONDS" />
       <item value="正式" />
       <item value="Offical" />
       <item value="mutate" />
@@ -145,14 +146,13 @@
       <item value="scheme" />
       <item value="schema" />
       <item value="给入场口分配区域" />
-      <item value="stat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="205" />
+        <entry key="CHINESE" value="206" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
