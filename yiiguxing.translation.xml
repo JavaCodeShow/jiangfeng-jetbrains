@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="global Instruction Template Merchant Id" />
+      <item value="GLOBAL" />
       <item value="expx" />
       <item value="EX" />
       <item value="MILLISECONDS" />
@@ -144,16 +146,14 @@
       <item value="Illegal Argument Exception" />
       <item value="Method Argument Not Valid Exception" />
       <item value="从来没有授权过的" />
-      <item value="以前授权过的" />
-      <item value="scheme" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="208" />
+        <entry key="CHINESE" value="210" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
