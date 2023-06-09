@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="Instruction" />
       <item value="Choosed" />
       <item value="Exist" />
       <item value="global Instruction Template Merchant Id" />
@@ -145,15 +146,14 @@
       <item value="Http Media Type Not Acceptable Exception" />
       <item value="Http Media Type Not Supported Exception" />
       <item value="Http Request Method Not Supported Exception" />
-      <item value="Illegal Argument Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="212" />
+        <entry key="CHINESE" value="213" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
