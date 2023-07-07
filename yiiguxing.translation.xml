@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="重复" />
       <item value="retain All" />
       <item value="fhl Supplier Id" />
       <item value="Migration" />
@@ -145,15 +146,14 @@
       <item value="No Handler Found Exception" />
       <item value="Missing Servlet Request Part Exception" />
       <item value="Servlet Request Binding Exception" />
-      <item value="Missing Servlet Request Parameter Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="218" />
+        <entry key="CHINESE" value="219" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
