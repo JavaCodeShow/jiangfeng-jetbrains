@@ -302,7 +302,8 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-mq-test" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/testNormalSend" />
+        <option name="url" value="/testNormalSend" />
       </ParamGroup>
     </option>
     <option name="projectList">
