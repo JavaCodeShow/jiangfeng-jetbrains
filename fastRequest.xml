@@ -282,13 +282,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.mq.MQTestController" />
-        <option name="method" value="testNormalSend" />
+        <option name="className" value="com.jf.test.controller.redis.LockController" />
+        <option name="method" value="ReSubmitLock" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="originUrl" value="/testNormalSend" />
-        <option name="url" value="/testNormalSend" />
+        <option name="originUrl" value="/ReSubmitLock" />
+        <option name="url" value="/ReSubmitLock" />
       </ParamGroup>
     </option>
     <option name="projectList">
