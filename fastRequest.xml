@@ -282,12 +282,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.redis.LockController" />
-        <option name="method" value="lockTest" />
+        <option name="className" value="com.jf.test.controller.log.LogTestController" />
+        <option name="method" value="hello" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/log_test" />
+        <option name="url" value="/log_test" />
       </ParamGroup>
     </option>
     <option name="projectList">
