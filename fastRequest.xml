@@ -282,12 +282,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.nacos.NacosTestController" />
-        <option name="method" value="nacosValue" />
+        <option name="className" value="com.jf.test.controller.apollo.ApolloTestController" />
+        <option name="method" value="index" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="jf-common-test" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/apollo" />
+        <option name="url" value="/apollo" />
       </ParamGroup>
     </option>
     <option name="projectList">
