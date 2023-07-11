@@ -282,13 +282,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.apollo.ApolloTestController" />
+        <option name="className" value="com.jf.redisstudy.controller.IndexController" />
         <option name="method" value="index" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="jf-common-test" />
-        <option name="originUrl" value="/apollo" />
-        <option name="url" value="/apollo" />
+        <option name="module" value="spring-boot-apollo-study" />
+        <option name="originUrl" value="/" />
+        <option name="url" value="/" />
       </ParamGroup>
     </option>
     <option name="projectList">
