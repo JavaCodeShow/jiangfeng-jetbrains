@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="手动解锁" />
+      <item value="显示解锁" />
       <item value="file-extension" />
       <item value="重复" />
       <item value="retain All" />
@@ -144,16 +146,14 @@
       <item value="Servlet Exception" />
       <item value="Type Mismatch Exception" />
       <item value="Http Message Not Readable Exception" />
-      <item value="No Handler Found Exception" />
-      <item value="Missing Servlet Request Part Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="220" />
+        <entry key="CHINESE" value="222" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="ENGLISH" value="218" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
