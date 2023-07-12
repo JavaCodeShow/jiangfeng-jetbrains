@@ -197,6 +197,21 @@
           </option>
           <option name="name" value="mtc-show-buyer" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8100/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="spring-boot-apollo-study" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -271,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8911/" />
+    <option name="domain" value="http://localhost:8100/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="jf-common-test" />
+    <option name="enableProject" value="spring-boot-apollo-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -282,13 +297,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.IndexController" />
-        <option name="method" value="index" />
+        <option name="className" value="com.jf.redisstudy.controller.ApolloController" />
+        <option name="method" value="apolloTest" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-apollo-study" />
-        <option name="originUrl" value="/" />
-        <option name="url" value="/" />
+        <option name="originUrl" value="/apollo_test" />
+        <option name="url" value="/apollo_test" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -306,6 +321,7 @@
         <option value="mps-account" />
         <option value="jf-common-test" />
         <option value="mtc-show-buyer" />
+        <option value="spring-boot-apollo-study" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
