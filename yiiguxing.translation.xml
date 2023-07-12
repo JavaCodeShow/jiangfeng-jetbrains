@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="add some comment to denote the reason about non-threadsafe" />
+      <item value="Non Thread Safe Guard" />
       <item value="手动解锁" />
       <item value="显示解锁" />
       <item value="file-extension" />
@@ -144,16 +146,14 @@
       <item value="Property Access Exception" />
       <item value="Superclass for exceptions related to a property access, such as type mismatch or invocation target exception." />
       <item value="Servlet Exception" />
-      <item value="Type Mismatch Exception" />
-      <item value="Http Message Not Readable Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="222" />
+        <entry key="CHINESE" value="224" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="ENGLISH" value="220" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
