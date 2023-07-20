@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689059776812" />
+    <option name="lastTrimTime" value="1689848669036" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="653" />
     <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="deliver Method" />
+      <item value="delivery Method" />
       <item value="add some comment to denote the reason about non-threadsafe" />
       <item value="Non Thread Safe Guard" />
       <item value="手动解锁" />
@@ -144,16 +146,14 @@
       <item value="Async Request Timeout Exception" />
       <item value="Http Message Conversion Exception" />
       <item value="Property Access Exception" />
-      <item value="Superclass for exceptions related to a property access, such as type mismatch or invocation target exception." />
-      <item value="Servlet Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="224" />
+        <entry key="CHINESE" value="226" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="ENGLISH" value="222" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
