@@ -306,9 +306,9 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.SeatPlanSchemaApi" />
-        <option name="method" value="updateSeatPlanSchemaBaseInfo" />
-        <option name="methodDescription" value="修改票价方案基本信息" />
+        <option name="className" value="com.mtl.cyy.trade.endpoint.rw.ApRuleApi" />
+        <option name="method" value="findByParam" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-show-cyy-api" />
         <option name="url" value="" />
