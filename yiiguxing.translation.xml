@@ -93,6 +93,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="public" />
+      <item value="main" />
+      <item value="hello 1" />
       <item value="println" />
       <item value="deliver Method" />
       <item value="delivery Method" />
@@ -140,17 +143,14 @@
       <item value="A boolean flag that can be set to {@code true} if the transaction is effectively read-only, allowing for corresponding optimizations at runtime. &lt;p&gt;Defaults to {@code false}. &lt;p&gt;This just serves as a hint for the actual transaction subsystem; it will &lt;i&gt;not necessarily&lt;i&gt; cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will &lt;i&gt;not&lt;i&gt; throw an exception when asked for a read-only transaction but rather silently ignore the hint. @see org.springframework.transaction.interceptor.TransactionAttributeisReadOnly() @see org.springframework.transaction.support.TransactionSynchronizationManagerisCurrentTransactionReadOnly()" />
       <item value="read Only" />
       <item value="入参校验异常" />
-      <item value="Exception to be thrown when an async request times out. Alternatively an applications can register a {@link DeferredResultProcessingInterceptor} or a {@link CallableProcessingInterceptor} to handle the timeout through the MVC Java config or the MVC XML namespace or directly through properties of the {@code RequestMappingHandlerAdapter}. &lt;p&gt;By default the exception will be handled as a 503 error." />
-      <item value="Async Request Timeout Exception" />
-      <item value="Http Message Conversion Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="228" />
+        <entry key="CHINESE" value="231" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="ENGLISH" value="227" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
