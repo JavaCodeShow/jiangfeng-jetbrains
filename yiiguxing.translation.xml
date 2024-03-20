@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689848669036" />
+    <option name="lastTrimTime" value="1710952321077" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -92,10 +92,8 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="653" />
-    <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="println" />
       <item value="deliver Method" />
       <item value="delivery Method" />
       <item value="add some comment to denote the reason about non-threadsafe" />
@@ -145,15 +143,14 @@
       <item value="Exception to be thrown when an async request times out. Alternatively an applications can register a {@link DeferredResultProcessingInterceptor} or a {@link CallableProcessingInterceptor} to handle the timeout through the MVC Java config or the MVC XML namespace or directly through properties of the {@code RequestMappingHandlerAdapter}. &lt;p&gt;By default the exception will be handled as a 503 error." />
       <item value="Async Request Timeout Exception" />
       <item value="Http Message Conversion Exception" />
-      <item value="Property Access Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="226" />
+        <entry key="CHINESE" value="228" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="ENGLISH" value="224" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
