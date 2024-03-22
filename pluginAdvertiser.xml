@@ -568,6 +568,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.hprof">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
+              <option name="myPluginName" value="JProfiler" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.htm">
           <value>
             <plugin>
@@ -736,6 +744,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jps">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
+              <option name="myPluginName" value="JProfiler" />
             </plugin>
           </value>
         </entry>
@@ -1107,6 +1123,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
+              <option name="myPluginName" value="JProfiler" />
             </plugin>
           </value>
         </entry>
@@ -2157,11 +2181,6 @@
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
-                  <entry key="ComposePreviewRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" />
-                    </value>
-                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -2315,11 +2334,6 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
-                    </value>
-                  </entry>
-                  <entry key="SpaceRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" />
                     </value>
                   </entry>
                   <entry key="SpringBootApplicationConfigurationType">
@@ -2540,11 +2554,6 @@
                   <entry key="javafx-preloader">
                     <value>
                       <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
-                    </value>
-                  </entry>
-                  <entry key="jpackage">
-                    <value>
-                      <FeaturePluginData displayName="Platform specific package" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
                     </value>
                   </entry>
                   <entry key="plain">

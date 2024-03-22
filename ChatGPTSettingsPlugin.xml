@@ -1,0 +1,10 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="customizeUrl" value="https://chat-gpt-next-web-three-self-22.vercel.app/" />
+    <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiIxNTQ2ODQ0MTY4QHFxLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlfSwiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS9hdXRoIjp7InVzZXJfaWQiOiJ1c2VyLVg0ZHJXTnQ2TnJhVGNEaTRwSWZ3dkU3RyJ9LCJpc3MiOiJodHRwczovL2F1dGgwLm9wZW5haS5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMTAwMjEzMDMxMDA1ODgxMTUyNDAiLCJhdWQiOlsiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MSIsImh0dHBzOi8vb3BlbmFpLm9wZW5haS5hdXRoMGFwcC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjgyMDkwODg1LCJleHAiOjE2ODMzMDA0ODUsImF6cCI6IlRkSkljYmUxNldvVEh0Tjk1bnl5d2g1RTR5T282SXRHIiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCBtb2RlbC5yZWFkIG1vZGVsLnJlcXVlc3Qgb3JnYW5pemF0aW9uLnJlYWQgb2ZmbGluZV9hY2Nlc3MifQ.zh2jngkb4L-1kHm1oOSjG2tkuJJ2sd2e7Zf3ugRgotx7nKvcneGtE8BG5-r2tv9Jz_7GNRiACsOjcd8dfcwNTvrOmefcIt0VRKOQHOimfkRyC8_RdYDiY1NIn1wm805mWZ06jx65zrtqjmzL2GsYmS85bWPNc7zA5O-GT0e5CLhII5SgtUE6fVbSeTGaFUKdsjfmrvyuoVRrxgyulwnsSOE-yglKZn6LKvU6TGgYTzW1Vnkq3GFfmgqOAXQZwvp31czi6s6-VUWDWxrzo3JeZq5jj4r0HGgBLVlJVUwIFRxv1GH2Hm0huiiBmUjm_mxDXNN8hqPW4CZuKkTOnMARmw" />
+    <option name="expireTime" value="2023-05-21T15:29:54.653Z" />
+    <option name="apiKey" value="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" />
+    <option name="chatGptModel" value="gpt-4" />
+    <option name="assistantApiKey" value="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" />
+  </component>
+</application>

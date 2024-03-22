@@ -1,0 +1,158 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="556" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="449" />
+    <histories>
+      <item value="DUPLICATE TICKET LAYOUT NAME" />
+      <item value="exist Po List" />
+      <item value="end Time Exclude" />
+      <item value="NORM DATETIME MINUTE PATTERN" />
+      <item value="NORM DATETIME PATTERN" />
+      <item value="不需要endWith，只需要前缀ok" />
+      <item value="not need endWith , only prefix ok" />
+      <item value="finish" />
+      <item value="进行告警通知" />
+      <item value="是否还需要告警" />
+      <item value="不一致" />
+      <item value="prepare" />
+      <item value="提前多少时间查询" />
+      <item value="time Seconds Internvl" />
+      <item value="Gets the threadLocal of the singleton" />
+      <item value="转增开关" />
+      <item value="batch Upload Pic Url" />
+      <item value="是否上传照片" />
+      <item value="has Update Photo" />
+      <item value="company Name" />
+      <item value="check Duplicate Category Name" />
+      <item value="刷新" />
+      <item value="hello" />
+      <item value="If the specified key is not already associated with a value (or is mapped to null) associates it with the given value and returns null, else returns the current value." />
+      <item value="增加" />
+      <item value="stock Statistics Info List" />
+      <item value="逻辑删除" />
+      <item value="Issue" />
+      <item value="elasticsearch" />
+      <item value="服务启动加载配置文件失败" />
+      <item value="VERTICAL" />
+      <item value="一竖" />
+      <item value="竖线" />
+      <item value="点号" />
+      <item value="Formal parameter declaration" />
+      <item value="springboot" />
+      <item value="FLOW GRADE THREAD" />
+      <item value="FLOW GRADE QPS" />
+      <item value="Max queueing time in rate limiter behavior." />
+      <item value="Batch consumption size" />
+      <item value="Set {@code key} to hold the string {@code value} if {@code key} is absent. @param key must not be {@literal null}. @param value must not be {@literal null}. @return {@literal null} when used in pipeline transaction. @see &lt;a href=&quot;http:redis.iocommandssetnx&quot;&gt;Redis Documentation: SETNX&lt;a&gt;" />
+      <item value="ParameterizedType represents a parameterized type such as Collection&lt;String&gt;. A parameterized type is created the first time it is needed by a reflective method, as specified in this package. When a parameterized type p is created, the generic type declaration that p instantiates is resolved, and all type arguments of p are created recursively. See TypeVariable for details on the creation process for type variables. Repeated creation of a parameterized type has no effect. Instances of classes that implement this interface must implement an equals() method that equates any two instances that share the same generic type declaration and have equal type parameters. Since: 1.5" />
+      <item value="ORDER FINISH" />
+      <item value="It is not recommend to throw exception,rather than returning ConsumeConcurrentlyStatus.RECONSUME_LATER if consumption failure Params: msgs – msgs.size() &gt;= 1 DefaultMQPushConsumer.consumeMessageBatchMaxSize=1,you can modify here Returns: The consume status" />
+      <item value="Subscribe a topic to consuming subscription. @param topic topic to subscribe. @param subExpression subscription expression.it only support or operation such as &quot;tag1 || tag2 || tag3&quot; &lt;br&gt; if null or expression,meaning subscribe all @throws MQClientException if there is any client error." />
+      <item value="Suspend current queue a moment" />
+      <item value="PERPERTY" />
+      <item value="A MessageListenerConcurrently object is used to receive asynchronously delivered messages orderly.one queue,one thread" />
+      <item value="A MessageListenerConcurrently object is used to receive asynchronously delivered messages concurrently" />
+      <item value="SEPARATOR" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="260" />
+        <entry key="LATIN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1673233001372" />
+  </component>
+  <component name="Settings">
+    <option name="showWordForms" value="false" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6b553daa9fb85ebc" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1710952321077" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="AUTO" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6b553daa9fb85ebc" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Mainland Travel Permit for Hong Kong and Macao Residents" />
+      <item value="Mainland Travel Permit" />
+      <item value="Mainland Travel Permit for" />
+      <item value="Hong Kong and Macao Residents" />
+      <item value="Mainland Travel Permit for Taiwan Residents" />
+      <item value="Passport" />
+      <item value="ID Card" />
+      <item value="Military ID card" />
+      <item value="Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents" />
+      <item value="One ticket per ID. Acceptable IDs include: Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents." />
+      <item value="One ticket per ID. Acceptable IDs include: Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents" />
+      <item value="public" />
+      <item value="main" />
+      <item value="hello 1" />
+      <item value="println" />
+      <item value="deliver Method" />
+      <item value="delivery Method" />
+      <item value="add some comment to denote the reason about non-threadsafe" />
+      <item value="Non Thread Safe Guard" />
+      <item value="手动解锁" />
+      <item value="显示解锁" />
+      <item value="file-extension" />
+      <item value="重复" />
+      <item value="retain All" />
+      <item value="fhl Supplier Id" />
+      <item value="Migration" />
+      <item value="release Ttl Value Reference After Run" />
+      <item value="Instruction" />
+      <item value="Choosed" />
+      <item value="Exist" />
+      <item value="global Instruction Template Merchant Id" />
+      <item value="GLOBAL" />
+      <item value="expx" />
+      <item value="EX" />
+      <item value="MILLISECONDS" />
+      <item value="正式" />
+      <item value="Offical" />
+      <item value="mutate" />
+      <item value="抢票名单" />
+      <item value="roll Back Actuator" />
+      <item value="模板生成须知" />
+      <item value="primitive" />
+      <item value="自动将最后修改时间最晚模板点亮为默认模版" />
+      <item value="Distributed Cache Manager" />
+      <item value="分布式锁管理器" />
+      <item value="Distribute Lock Manager" />
+      <item value="Application Context Init Wrapper" />
+      <item value="Aware" />
+      <item value="Not annotated parameter overrides @NonNullApi parameter" />
+      <item value="do Human Verification" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CATALAN" value="1" />
+        <entry key="CHINESE" value="245" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="CZECH" value="1" />
+        <entry key="ENGLISH" value="241" />
+        <entry key="FINNISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
