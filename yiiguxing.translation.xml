@@ -93,10 +93,15 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents" />
+      <item value="Mainland Travel Permit for Hong Kong and Macao Residents" />
+      <item value="Mainland Travel Permit" />
       <item value="Mainland Travel Permit for" />
-      <item value="Mainland Travel Permit for Taiwan Residents" />
       <item value="Hong Kong and Macao Residents" />
+      <item value="Mainland Travel Permit for Taiwan Residents" />
+      <item value="Passport" />
+      <item value="ID Card" />
+      <item value="Military ID card" />
+      <item value="Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents" />
       <item value="One ticket per ID. Acceptable IDs include: Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents." />
       <item value="One ticket per ID. Acceptable IDs include: Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents" />
       <item value="public" />
@@ -138,19 +143,14 @@
       <item value="Aware" />
       <item value="Not annotated parameter overrides @NonNullApi parameter" />
       <item value="do Human Verification" />
-      <item value="FIXME change it to the project's website" />
-      <item value="'while' statement cannot complete without throwing an exception" />
-      <item value="异步" />
-      <item value="asyc Executor" />
-      <item value="秒杀" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="237" />
+        <entry key="CHINESE" value="245" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="ENGLISH" value="241" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
