@@ -306,11 +306,11 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.cyy.trade.endpoint.rw.ApRuleApi" />
-        <option name="method" value="findByParam" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyTicketApi" />
+        <option name="method" value="findTicketOfMySelf" />
+        <option name="methodDescription" value="查询该节目下所有场次的所有票价的库存" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
+        <option name="module" value="cyy-ticket-api" />
         <option name="url" value="" />
       </ParamGroup>
     </option>
