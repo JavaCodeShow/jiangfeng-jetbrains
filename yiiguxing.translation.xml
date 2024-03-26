@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1710952321077" />
+    <option name="lastTrimTime" value="1711465246944" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -93,6 +93,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="CANNOT BUY SYSTEM ISSUE CODE MORE THEN ONE SESSION" />
       <item value="is Cluster Leaf" />
       <item value="Mainland Travel Permit for Hong Kong and Macao Residents" />
       <item value="Mainland Travel Permit" />
@@ -142,15 +143,14 @@
       <item value="Distribute Lock Manager" />
       <item value="Application Context Init Wrapper" />
       <item value="Aware" />
-      <item value="Not annotated parameter overrides @NonNullApi parameter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="246" />
+        <entry key="CHINESE" value="247" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
