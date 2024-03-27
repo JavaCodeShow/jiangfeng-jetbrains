@@ -93,6 +93,18 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Free combo cross seat plan not support" />
+      <item value="Free combo seat plan not support" />
+      <item value="Free combo not support" />
+      <item value="You cannot select seats in the standing ticket area" />
+      <item value="站票区下不能包含座位信息" />
+      <item value="Presale session order distribution link must be same" />
+      <item value="分销链路" />
+      <item value="Presale session order must be same" />
+      <item value="下游自建自产选座预售下单,上游也必须是自建自产选座预售下单" />
+      <item value="Non-selected session not support pick seat" />
+      <item value="Non-selected session cannot contain seats" />
+      <item value="非选座场次不能传入区域座位信息" />
       <item value="CANNOT BUY SYSTEM ISSUE CODE MORE THEN ONE SESSION" />
       <item value="is Cluster Leaf" />
       <item value="Mainland Travel Permit for Hong Kong and Macao Residents" />
@@ -131,26 +143,14 @@
       <item value="EX" />
       <item value="MILLISECONDS" />
       <item value="正式" />
-      <item value="Offical" />
-      <item value="mutate" />
-      <item value="抢票名单" />
-      <item value="roll Back Actuator" />
-      <item value="模板生成须知" />
-      <item value="primitive" />
-      <item value="自动将最后修改时间最晚模板点亮为默认模版" />
-      <item value="Distributed Cache Manager" />
-      <item value="分布式锁管理器" />
-      <item value="Distribute Lock Manager" />
-      <item value="Application Context Init Wrapper" />
-      <item value="Aware" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="247" />
+        <entry key="CHINESE" value="259" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="ENGLISH" value="255" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
