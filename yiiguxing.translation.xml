@@ -93,6 +93,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="@Documented" />
+      <item value="Retention" />
       <item value="Free combo cross seat plan not support" />
       <item value="Free combo seat plan not support" />
       <item value="Free combo not support" />
@@ -141,16 +143,14 @@
       <item value="GLOBAL" />
       <item value="expx" />
       <item value="EX" />
-      <item value="MILLISECONDS" />
-      <item value="正式" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="259" />
+        <entry key="CHINESE" value="261" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="ENGLISH" value="257" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
