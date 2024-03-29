@@ -93,6 +93,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="compute If Absent" />
+      <item value="put If Absent" />
       <item value="@Documented" />
       <item value="Retention" />
       <item value="Free combo cross seat plan not support" />
@@ -141,16 +143,14 @@
       <item value="Exist" />
       <item value="global Instruction Template Merchant Id" />
       <item value="GLOBAL" />
-      <item value="expx" />
-      <item value="EX" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="261" />
+        <entry key="CHINESE" value="263" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="ENGLISH" value="259" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
