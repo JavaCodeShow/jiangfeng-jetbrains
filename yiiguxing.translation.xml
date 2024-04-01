@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1711465246944" />
+    <option name="lastTrimTime" value="1711954468325" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -93,6 +93,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="sql Fragment" />
       <item value="compute If Absent" />
       <item value="put If Absent" />
       <item value="@Documented" />
@@ -142,15 +143,14 @@
       <item value="Choosed" />
       <item value="Exist" />
       <item value="global Instruction Template Merchant Id" />
-      <item value="GLOBAL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="263" />
+        <entry key="CHINESE" value="264" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
