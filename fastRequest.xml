@@ -297,13 +297,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.HelloController" />
-        <option name="method" value="hello" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.jf.redisstudy.controller.StringController" />
+        <option name="method" value="get" />
+        <option name="methodDescription" value="批量查询数据" />
         <option name="methodType" value="GET" />
         <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/hello" />
-        <option name="url" value="/hello" />
+        <option name="originUrl" value="/get" />
+        <option name="url" value="/get" />
       </ParamGroup>
     </option>
     <option name="projectList">
