@@ -93,6 +93,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Returns {@code true} if all tasks have completed following shut down. Note that {@code isTerminated} is never {@code true} unless either {@code shutdown} or {@code shutdownNow} was called first. @return {@code true} if all tasks have completed following shut down" />
       <item value="Comma" />
       <item value="移除字符串最后一个逗号" />
       <item value="sql Fragment" />
@@ -142,15 +143,14 @@
       <item value="Migration" />
       <item value="release Ttl Value Reference After Run" />
       <item value="Instruction" />
-      <item value="Choosed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="266" />
+        <entry key="CHINESE" value="267" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
