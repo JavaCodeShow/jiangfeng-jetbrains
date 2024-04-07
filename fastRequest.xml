@@ -286,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:8080/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-redis-study" />
+    <option name="enableProject" value="template-ms" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -297,11 +297,20 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.HelloController" />
-        <option name="method" value="hello" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyShowSaleRemindApi" />
+        <option name="method" value="findContainsShowSaleRemindBizShowSessionIds" />
+        <option name="methodDescription" value="根据场次id集合查询包含倒计时的场次" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-show-cyy-api" />
         <option name="url" value="" />
       </ParamGroup>
     </option>
