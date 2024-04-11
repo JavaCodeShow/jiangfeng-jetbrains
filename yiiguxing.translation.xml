@@ -93,6 +93,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="递归" />
       <item value="检查减少xxx" />
       <item value="check Delivery Method Type" />
       <item value="Returns {@code true} if all tasks have completed following shut down. Note that {@code isTerminated} is never {@code true} unless either {@code shutdown} or {@code shutdownNow} was called first. @return {@code true} if all tasks have completed following shut down" />
@@ -142,15 +143,14 @@
       <item value="重复" />
       <item value="retain All" />
       <item value="fhl Supplier Id" />
-      <item value="Migration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="270" />
+        <entry key="CHINESE" value="271" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
