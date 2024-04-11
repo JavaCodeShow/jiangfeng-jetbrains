@@ -297,21 +297,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="request">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyShowSaleRemindApi" />
-        <option name="method" value="findContainsShowSaleRemindBizShowSessionIds" />
-        <option name="methodDescription" value="根据场次id集合查询包含倒计时的场次" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="url" value="" />
+        <option name="className" value="com.jf.redisstudy.controller.StringController" />
+        <option name="method" value="mGet" />
+        <option name="methodDescription" value="批量查询数据" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="spring-boot-redis-study" />
+        <option name="originUrl" value="/mGet" />
+        <option name="url" value="/mGet" />
       </ParamGroup>
     </option>
     <option name="projectList">
