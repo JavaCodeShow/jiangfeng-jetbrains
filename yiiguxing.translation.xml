@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1711954468325" />
+    <option name="lastTrimTime" value="1712816869389" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -93,6 +93,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="检查减少xxx" />
+      <item value="check Delivery Method Type" />
       <item value="Returns {@code true} if all tasks have completed following shut down. Note that {@code isTerminated} is never {@code true} unless either {@code shutdown} or {@code shutdownNow} was called first. @return {@code true} if all tasks have completed following shut down" />
       <item value="Comma" />
       <item value="移除字符串最后一个逗号" />
@@ -141,16 +143,14 @@
       <item value="retain All" />
       <item value="fhl Supplier Id" />
       <item value="Migration" />
-      <item value="release Ttl Value Reference After Run" />
-      <item value="Instruction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="267" />
+        <entry key="CHINESE" value="270" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="ENGLISH" value="266" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
