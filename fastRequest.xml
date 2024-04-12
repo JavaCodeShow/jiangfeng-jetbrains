@@ -286,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:8911/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-redis-study" />
+    <option name="enableProject" value="jf-common-test" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -297,13 +297,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.StringController" />
-        <option name="method" value="mGet" />
-        <option name="methodDescription" value="批量查询数据" />
+        <option name="className" value="com.jf.test.controller.redis.LockController" />
+        <option name="method" value="ReSubmitLock" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/mGet" />
-        <option name="url" value="/mGet" />
+        <option name="module" value="common-test" />
+        <option name="originUrl" value="/ReSubmitLock" />
+        <option name="url" value="/ReSubmitLock" />
       </ParamGroup>
     </option>
     <option name="projectList">
