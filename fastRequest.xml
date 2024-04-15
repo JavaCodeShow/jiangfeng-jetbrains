@@ -286,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:8911/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-redis-study" />
+    <option name="enableProject" value="jf-common-test" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -297,21 +297,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="request">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.jf.mybatis.controller.AccountController" />
-        <option name="method" value="updateAccount" />
+        <option name="className" value="com.jf.test.controller.redis.LockController" />
+        <option name="method" value="lockTest" />
         <option name="methodDescription" value="" />
-        <option name="methodType" value="PUT" />
-        <option name="module" value="spring-boot-mybatis-study" />
-        <option name="url" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="common-test" />
+        <option name="originUrl" value="/lockTest" />
+        <option name="url" value="/lockTest" />
       </ParamGroup>
     </option>
     <option name="projectList">
