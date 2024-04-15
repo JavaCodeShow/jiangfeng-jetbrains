@@ -298,12 +298,12 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.jf.test.controller.redis.LockController" />
-        <option name="method" value="ReSubmitLock" />
+        <option name="method" value="lockTest" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="common-test" />
-        <option name="originUrl" value="/ReSubmitLock" />
-        <option name="url" value="/ReSubmitLock" />
+        <option name="originUrl" value="/lockTest" />
+        <option name="url" value="/lockTest" />
       </ParamGroup>
     </option>
     <option name="projectList">
