@@ -302,7 +302,8 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="common-test" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/lockTest" />
+        <option name="url" value="/lockTest" />
       </ParamGroup>
     </option>
     <option name="projectList">
