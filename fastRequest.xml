@@ -297,13 +297,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.redis.LockController" />
-        <option name="method" value="lockTest" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.jf.test.controller.PollingController" />
+        <option name="method" value="publish" />
+        <option name="methodDescription" value="变更数据" />
         <option name="methodType" value="GET" />
         <option name="module" value="common-test" />
-        <option name="originUrl" value="/lockTest" />
-        <option name="url" value="/lockTest" />
+        <option name="originUrl" value="/polling/publish/{id}" />
+        <option name="pathParamMap">
+          <map>
+            <entry key="id">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/polling/publish/id_n95jo" />
       </ParamGroup>
     </option>
     <option name="projectList">
