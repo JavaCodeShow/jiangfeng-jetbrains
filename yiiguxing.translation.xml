@@ -93,6 +93,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="wait List Enabled" />
       <item value="lock Interruptibly" />
       <item value="Returns a stream consisting of the elements of this stream, sorted according to natural order. If the elements of this stream are not {@code Comparable}, a {@code java.lang.ClassCastException} may be thrown when the terminal operation is executed. &lt;p&gt;For ordered streams, the sort is stable. For unordered streams, no stability guarantees are made. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;stateful intermediate operation&lt;a&gt;. @return the new stream" />
       <item value="set If Absent" />
@@ -142,15 +143,14 @@
       <item value="add some comment to denote the reason about non-threadsafe" />
       <item value="Non Thread Safe Guard" />
       <item value="手动解锁" />
-      <item value="显示解锁" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="276" />
+        <entry key="CHINESE" value="277" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
