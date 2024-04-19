@@ -142,36 +142,6 @@
             <list>
               <HostGroup>
                 <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8083/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="mps-user" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8084/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="mps-account" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
                 <option name="url" value="http://localhost:8911/" />
               </HostGroup>
               <HostGroup>
@@ -211,6 +181,36 @@
             </list>
           </option>
           <option name="name" value="spring-boot-apollo-study" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8084/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="ms-account" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8083/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="ms-user" />
         </NameGroup>
       </list>
     </option>
@@ -286,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8911/" />
+    <option name="domain" value="http://localhost:8083/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="jf-common-test" />
+    <option name="enableProject" value="ms-user" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -297,22 +297,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.PollingController" />
-        <option name="method" value="publish" />
-        <option name="methodDescription" value="变更数据" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="common-test" />
-        <option name="originUrl" value="/polling/publish/{id}" />
-        <option name="pathParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="id">
+            <entry key="request">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/polling/publish/id_n95jo" />
+        <option name="className" value="com.jf.mps.user.api.UserApi" />
+        <option name="method" value="findById" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="ms-user-api" />
+        <option name="originUrl" value="/endpoint/v1/user/find_by_id" />
+        <option name="url" value="/endpoint/v1/user/find_by_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -326,11 +326,11 @@
         <option value="spring-boot-mybatis-study" />
         <option value="mtc-ticket" />
         <option value="mtc-wms" />
-        <option value="mps-user" />
-        <option value="mps-account" />
         <option value="jf-common-test" />
         <option value="mtc-show-buyer" />
         <option value="spring-boot-apollo-study" />
+        <option value="ms-account" />
+        <option value="ms-user" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
