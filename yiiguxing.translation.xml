@@ -93,6 +93,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Cancel" />
+      <item value="截至时间" />
       <item value="Deferred Result" />
       <item value="wait List Enabled" />
       <item value="lock Interruptibly" />
@@ -141,16 +143,14 @@
       <item value="println" />
       <item value="deliver Method" />
       <item value="delivery Method" />
-      <item value="add some comment to denote the reason about non-threadsafe" />
-      <item value="Non Thread Safe Guard" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="278" />
+        <entry key="CHINESE" value="280" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="ENGLISH" value="276" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
