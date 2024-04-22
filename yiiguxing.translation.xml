@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1713349819594" />
+    <option name="lastTrimTime" value="1713791160150" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -93,6 +93,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="update Stocks Error Tips" />
       <item value="WAIT LIST REFUND ANY TIME" />
       <item value="REFUND" />
       <item value="Cancel" />
@@ -142,15 +143,14 @@
       <item value="public" />
       <item value="main" />
       <item value="hello 1" />
-      <item value="println" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="282" />
+        <entry key="CHINESE" value="283" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
