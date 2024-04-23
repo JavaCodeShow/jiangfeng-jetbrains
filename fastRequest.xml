@@ -286,9 +286,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8911/" />
+    <option name="domain" value="http://localhost:8099/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="jf-common-test" />
+    <option name="enableProject" value="spring-boot-redis-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -297,12 +297,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.mq.MQTestController" />
-        <option name="method" value="testNormalSend" />
+        <option name="className" value="com.jf.redisstudy.controller.HelloController" />
+        <option name="method" value="hello" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="common-test" />
-        <option name="url" value="" />
+        <option name="module" value="spring-boot-redis-study" />
+        <option name="originUrl" value="/hello" />
+        <option name="url" value="/hello" />
       </ParamGroup>
     </option>
     <option name="projectList">
