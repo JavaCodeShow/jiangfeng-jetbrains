@@ -56,9 +56,32 @@
             </list>
           </value>
         </entry>
+        <entry key="threadStudy|201185213769535128">
+          <value>
+            <list>
+              <option value="/explain code" />
+              <option value="/generate comment" />
+              <option value="/explain code" />
+              <option value="/generate comment" />
+              <option value="/generate optimization" />
+              <option value="/generate comment" />
+              <option value="/generate optimization" />
+              <option value="/generate optimization" />
+              <option value="/generate optimization" />
+              <option value="/generate comment" />
+              <option value="创建并初始化一个Object类型的实例。&#10; * 该实例被赋值给final变量a，表示该变量的值不能被改变。" />
+              <option value="package deadlock;&#10;&#10;import java.util.concurrent.TimeUnit;&#10;&#10;/**&#10; * @author 江峰&#10; * @create 2019-12-04 13:52&#10; */&#10;public class Deadlock {&#10;    public static void main(String[] args) {&#10;        final Object a = new Object();&#10;        final Object b = new Object();&#10;        Thread threadA = new Thread(() -&gt; {&#10;            synchronized (a) {&#10;                try {&#10;                    System.out.println(&quot;now i in threadA-locka&quot;);&#10;                    TimeUnit.SECONDS.sleep(1);&#10;                    synchronized (b) {&#10;                        System.out.println(&quot;now i in threadA-lockb&quot;);&#10;                    }&#10;                } catch (Exception e) {&#10;                    // ignore&#10;                }&#10;            }&#10;        });&#10;&#10;        Thread threadB = new Thread(() -&gt; {&#10;            synchronized (b) {&#10;                try {&#10;                    System.out.println(&quot;now i in threadB-lockb&quot;);&#10;                    TimeUnit.SECONDS.sleep(1);&#10;                    synchronized (a) {&#10;                        System.out.println(&quot;now i in threadB-locka&quot;);&#10;                    }&#10;                } catch (Exception e) {&#10;                    // ignore&#10;                }&#10;            }&#10;        });&#10;&#10;        threadA.start();&#10;        threadB.start();&#10;    }&#10;&#10;}" />
+              <option value="package deadlock;&#10;&#10;import java.util.concurrent.TimeUnit;&#10;&#10;/**&#10; * @author 江峰&#10; * @create 2019-12-04 13:52&#10; */&#10;public class Deadlock {&#10;    public static void main(String[] args) {&#10;        final Object a = new Object();&#10;        final Object b = new Object();&#10;        Thread threadA = new Thread(() -&gt; {&#10;            synchronized (a) {&#10;                try {&#10;                    System.out.println(&quot;now i in threadA-locka&quot;);&#10;                    TimeUnit.SECONDS.sleep(1);&#10;                    synchronized (b) {&#10;                        System.out.println(&quot;now i in threadA-lockb&quot;);&#10;                    }&#10;                } catch (Exception e) {&#10;                    // ignore&#10;                }&#10;            }&#10;        });&#10;&#10;        Thread threadB = new Thread(() -&gt; {&#10;            synchronized (b) {&#10;                try {&#10;                    System.out.println(&quot;now i in threadB-lockb&quot;);&#10;                    TimeUnit.SECONDS.sleep(1);&#10;                    synchronized (a) {&#10;                        System.out.println(&quot;now i in threadB-locka&quot;);&#10;                    }&#10;                } catch (Exception e) {&#10;                    // ignore&#10;                }&#10;            }&#10;        });&#10;&#10;        threadA.start();&#10;        threadB.start();&#10;    }&#10;&#10;}&#10;帮我把所有的start获取出来" />
+              <option value="帮我创建一个线程池，线程数量由CPU核数决定" />
+              <option value="Spring项目生产环境使用" />
+              <option value="帮我创建一个线程池，线程数量由CPU核数决定，Spring项目生产环境使用" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showCheckReportUsage" value="false" />
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
