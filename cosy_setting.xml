@@ -43,6 +43,15 @@
             </list>
           </value>
         </entry>
+        <entry key="mtc-show|201185213769535128">
+          <value>
+            <list>
+              <option value="/explain code" />
+              <option value="这个是小时，帮我转换为long类型的时间" />
+              <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showCheckReportUsage" value="false" />
