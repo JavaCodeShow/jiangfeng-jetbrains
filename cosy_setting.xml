@@ -49,6 +49,10 @@
               <option value="/explain code" />
               <option value="这个是小时，帮我转换为long类型的时间" />
               <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="WaitListCloseSessionJob==&gt;closeDTO={&quot;beginTime&quot;:&quot;2024-04-23T23:27:54.995&quot;,&quot;endTime&quot;:&quot;2024-04-23T23:28:54.995&quot;}" />
+              <option value="打印出来的时间为啥有T，" />
+              <option value="@这个没有生效吗？JsonFormat(pattern = &quot;yyyy-MM-dd HH:mm:ss&quot;, timezone = &quot;GMT+8&quot;)" />
             </list>
           </value>
         </entry>
