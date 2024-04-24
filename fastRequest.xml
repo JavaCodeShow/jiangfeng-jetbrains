@@ -301,9 +301,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8102/" />
+    <option name="domain" value="http://localhost:8911/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-disruptor-study" />
+    <option name="enableProject" value="jf-common-test" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -312,13 +312,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.disruptor.controller.DisruptorController" />
-        <option name="method" value="hello" />
+        <option name="className" value="com.jf.test.controller.mq.MQTestController" />
+        <option name="method" value="testNormalSend" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-disruptor-study" />
-        <option name="originUrl" value="/disruptor_test" />
-        <option name="url" value="/disruptor_test" />
+        <option name="module" value="common-test" />
+        <option name="originUrl" value="/testNormalSend" />
+        <option name="url" value="/testNormalSend" />
       </ParamGroup>
     </option>
     <option name="projectList">
