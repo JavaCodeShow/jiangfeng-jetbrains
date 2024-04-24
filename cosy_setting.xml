@@ -63,6 +63,8 @@
           <value>
             <list>
               <option value="/generate optimization" />
+              <option value="new int[1024]这个占用多少M" />
+              <option value="4字节是4kb吗" />
             </list>
           </value>
         </entry>
