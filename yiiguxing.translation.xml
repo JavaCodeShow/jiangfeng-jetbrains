@@ -93,6 +93,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="多少分钟查询一次" />
+      <item value="per Minutes" />
+      <item value="job多少分钟查询一次" />
       <item value="update Stocks Error Tips" />
       <item value="WAIT LIST REFUND ANY TIME" />
       <item value="REFUND" />
@@ -140,17 +143,14 @@
       <item value="Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents" />
       <item value="One ticket per ID. Acceptable IDs include: Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents." />
       <item value="One ticket per ID. Acceptable IDs include: Mainland Travel Permit for Hong Kong and Macao ResidentsPassportID CardMainland Travel Permit for Taiwan Residents" />
-      <item value="public" />
-      <item value="main" />
-      <item value="hello 1" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="283" />
+        <entry key="CHINESE" value="287" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="ENGLISH" value="283" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
