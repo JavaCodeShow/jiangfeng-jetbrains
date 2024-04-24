@@ -56,6 +56,9 @@
               <option value="WaitListCloseSessionJob==&gt;closeDTO={&quot;beginTime&quot;:&quot;2024-04-23T23:27:54.995&quot;,&quot;endTime&quot;:&quot;2024-04-23T23:28:54.995&quot;}" />
               <option value="打印出来的时间为啥有T，" />
               <option value="@这个没有生效吗？JsonFormat(pattern = &quot;yyyy-MM-dd HH:mm:ss&quot;, timezone = &quot;GMT+8&quot;)" />
+              <option value="/generate optimization" />
+              <option value="Optional.ofNullable(inventoryWaitListBuyerStockInfo).map(InventoryWaitListBuyerStockInfo::getLeftStocks).orElse(0)  这个可能会返回null吗？" />
+              <option value="如果getLeftStocks()返回了null呢？最终结果还是不会返回null吗？" />
             </list>
           </value>
         </entry>
