@@ -65,6 +65,8 @@
               <option value="/generate optimization" />
               <option value="new int[1024]这个占用多少M" />
               <option value="4字节是4kb吗" />
+              <option value="/explain code" />
+              <option value="这里一直getAndIncrement，那线程数字岂不是越来越大？" />
             </list>
           </value>
         </entry>
