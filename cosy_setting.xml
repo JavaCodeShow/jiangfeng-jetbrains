@@ -1,6 +1,9 @@
 <application>
   <component name="CosySettings">
+    <option name="dedicatedDomainUrl" value="" />
+    <option name="localStoragePath" value="C:\Users\jiangfeng\.lingma" />
     <option name="manualOpenLocalModel" value="true" />
+    <option name="methodQuickSwitchEnum" value="DISABLED" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
