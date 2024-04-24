@@ -212,6 +212,21 @@
           </option>
           <option name="name" value="ms-user" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8102/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="spring-boot-disruptor-study" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -286,9 +301,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:8102/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-redis-study" />
+    <option name="enableProject" value="spring-boot-disruptor-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -297,13 +312,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.HelloController" />
+        <option name="className" value="com.jf.disruptor.controller.DisruptorController" />
         <option name="method" value="hello" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/hello" />
-        <option name="url" value="/hello" />
+        <option name="module" value="spring-boot-disruptor-study" />
+        <option name="originUrl" value="/disruptor_test" />
+        <option name="url" value="/disruptor_test" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -322,6 +337,7 @@
         <option value="spring-boot-apollo-study" />
         <option value="ms-account" />
         <option value="ms-user" />
+        <option value="spring-boot-disruptor-study" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
