@@ -93,6 +93,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="seconds" />
+      <item value="秒" />
+      <item value="second" />
       <item value="get String Time Of Now" />
       <item value="get Now String Time" />
       <item value="get Time Str Of Now" />
@@ -140,17 +143,14 @@
       <item value="is Cluster Leaf" />
       <item value="Mainland Travel Permit for Hong Kong and Macao Residents" />
       <item value="Mainland Travel Permit" />
-      <item value="Mainland Travel Permit for" />
-      <item value="Hong Kong and Macao Residents" />
-      <item value="Mainland Travel Permit for Taiwan Residents" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="295" />
+        <entry key="CHINESE" value="298" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="ENGLISH" value="294" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>

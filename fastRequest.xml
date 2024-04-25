@@ -301,7 +301,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8099/" />
+    <option name="domain" value="http://localhost:8911/" />
     <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="spring-boot-redis-study" />
     <option name="envList">
@@ -312,13 +312,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.RedisRateLimitController" />
-        <option name="method" value="hello" />
+        <option name="className" value="com.jf.test.controller.redis.RedisRateLimitController" />
+        <option name="method" value="testRedissonRateLimiter" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-redis-study" />
-        <option name="originUrl" value="/redis_rate_limit" />
-        <option name="url" value="/redis_rate_limit" />
+        <option name="module" value="common-test" />
+        <option name="originUrl" value="/testRedissonRateLimiter" />
+        <option name="url" value="/testRedissonRateLimiter" />
       </ParamGroup>
     </option>
     <option name="projectList">
