@@ -312,7 +312,7 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.redisstudy.controller.LimitController" />
+        <option name="className" value="com.jf.redisstudy.controller.RedisRateLimitController" />
         <option name="method" value="hello" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
