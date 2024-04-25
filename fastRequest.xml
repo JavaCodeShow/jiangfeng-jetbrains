@@ -301,9 +301,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8911/" />
+    <option name="domain" value="http://localhost:8099/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="jf-common-test" />
+    <option name="enableProject" value="spring-boot-redis-study" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -312,13 +312,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.redis.LockController" />
-        <option name="method" value="lockTest" />
+        <option name="className" value="com.jf.redisstudy.controller.LimitController" />
+        <option name="method" value="hello" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="common-test" />
-        <option name="originUrl" value="/lockTest" />
-        <option name="url" value="/lockTest" />
+        <option name="module" value="spring-boot-redis-study" />
+        <option name="originUrl" value="/redis_rate_limit" />
+        <option name="url" value="/redis_rate_limit" />
       </ParamGroup>
     </option>
     <option name="projectList">
