@@ -313,12 +313,12 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.jf.test.controller.redis.RedisRateLimitController" />
-        <option name="method" value="testRedissonRateLimiter" />
+        <option name="method" value="testRedissonRateLimiterEvery" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="common-test" />
-        <option name="originUrl" value="/testRedissonRateLimiter" />
-        <option name="url" value="/testRedissonRateLimiter" />
+        <option name="originUrl" value="/testRedissonRateLimiterEvery" />
+        <option name="url" value="/testRedissonRateLimiterEvery" />
       </ParamGroup>
     </option>
     <option name="projectList">
