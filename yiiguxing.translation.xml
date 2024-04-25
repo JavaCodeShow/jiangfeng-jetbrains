@@ -93,6 +93,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get String Time Of Now" />
+      <item value="get Now String Time" />
+      <item value="get Time Str Of Now" />
       <item value="Contended" />
       <item value="Create a RingBuffer supporting multiple event publishers to the one RingBuffer" />
       <item value="Create a RingBuffer with a single event publisher to the RingBuffer" />
@@ -140,17 +143,14 @@
       <item value="Mainland Travel Permit for" />
       <item value="Hong Kong and Macao Residents" />
       <item value="Mainland Travel Permit for Taiwan Residents" />
-      <item value="Passport" />
-      <item value="ID Card" />
-      <item value="Military ID card" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="291" />
+        <entry key="CHINESE" value="295" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="ENGLISH" value="291" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
