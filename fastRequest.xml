@@ -312,13 +312,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.sentinel.controller.SentinelResourceAnnotationTestController" />
-        <option name="method" value="ann" />
+        <option name="className" value="com.jf.test.controller.redis.LockController" />
+        <option name="method" value="lockTest" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
-        <option name="module" value="spring-boot-sentinel-study" />
-        <option name="originUrl" value="/annotation_test" />
-        <option name="url" value="/annotation_test" />
+        <option name="module" value="common-test" />
+        <option name="originUrl" value="/lockTest" />
+        <option name="url" value="/lockTest" />
       </ParamGroup>
     </option>
     <option name="projectList">
