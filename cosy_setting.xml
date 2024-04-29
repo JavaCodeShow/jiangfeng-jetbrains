@@ -46,6 +46,13 @@
             </list>
           </value>
         </entry>
+        <entry key="java-basic-learning|201185213769535128">
+          <value>
+            <list>
+              <option value="public int removeDuplicates(int[] nums) {&#10;        int curVal = nums[0];&#10;        int index = 1;&#10;        int count = 1;&#10;        for (int i = 1; i &lt; nums.length; i++) {&#10;            if (curVal == nums[i]) {&#10;                if (++count &lt; 3) {&#10;                    nums[index++] = nums[i];&#10;                }&#10;            } else {&#10;                nums[index++] = nums[i];&#10;                curVal = nums[i];&#10;                count = 1;&#10;            }&#10;        }&#10;        return index;&#10;    }帮我优化一下" />
+            </list>
+          </value>
+        </entry>
         <entry key="mtc-show|201185213769535128">
           <value>
             <list>
