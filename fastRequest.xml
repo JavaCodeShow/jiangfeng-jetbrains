@@ -317,8 +317,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="common-test" />
-        <option name="originUrl" value="/testRedissonRateLimiter" />
-        <option name="url" value="/testRedissonRateLimiter" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
