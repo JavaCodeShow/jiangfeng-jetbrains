@@ -66,6 +66,7 @@
               <option value="/generate optimization" />
               <option value="Optional.ofNullable(inventoryWaitListBuyerStockInfo).map(InventoryWaitListBuyerStockInfo::getLeftStocks).orElse(0)  这个可能会返回null吗？" />
               <option value="如果getLeftStocks()返回了null呢？最终结果还是不会返回null吗？" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
