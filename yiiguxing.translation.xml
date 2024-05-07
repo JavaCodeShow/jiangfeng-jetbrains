@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1714274502025" />
+    <option name="lastTrimTime" value="1715051018460" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -93,6 +93,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="不展示候补开关" />
       <item value="其他服务说明" />
       <item value="候补成功条件退" />
       <item value="WAIT LIST REFUND CONDINAL" />
@@ -142,15 +143,14 @@
       <item value="分销链路" />
       <item value="Presale session order must be same" />
       <item value="下游自建自产选座预售下单,上游也必须是自建自产选座预售下单" />
-      <item value="Non-selected session not support pick seat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="304" />
+        <entry key="CHINESE" value="305" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
