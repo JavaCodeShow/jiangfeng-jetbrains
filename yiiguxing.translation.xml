@@ -93,6 +93,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="SHOW SALE REMIND SET FAIL" />
       <item value="不展示候补开关" />
       <item value="其他服务说明" />
       <item value="候补成功条件退" />
@@ -142,15 +143,14 @@
       <item value="Presale session order distribution link must be same" />
       <item value="分销链路" />
       <item value="Presale session order must be same" />
-      <item value="下游自建自产选座预售下单,上游也必须是自建自产选座预售下单" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="305" />
+        <entry key="CHINESE" value="306" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
