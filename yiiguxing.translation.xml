@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1715051018460" />
+    <option name="lastTrimTime" value="1715655041504" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -93,6 +93,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Backoff Thread Factory" />
+      <item value="Backoff T" />
       <item value="SHOW SALE REMIND SET FAIL" />
       <item value="不展示候补开关" />
       <item value="其他服务说明" />
@@ -141,16 +143,14 @@
       <item value="You cannot select seats in the standing ticket area" />
       <item value="站票区下不能包含座位信息" />
       <item value="Presale session order distribution link must be same" />
-      <item value="分销链路" />
-      <item value="Presale session order must be same" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="306" />
+        <entry key="CHINESE" value="308" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="ENGLISH" value="304" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
