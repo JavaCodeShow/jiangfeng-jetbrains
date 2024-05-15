@@ -301,9 +301,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080/" />
+    <option name="domain" value="http://localhost:8911/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="spring-boot-mybatis-study" />
+    <option name="enableProject" value="jf-common-test" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -312,12 +312,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.redis.RedisRateLimitController" />
-        <option name="method" value="testRedissonRateLimiter" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.jf.test.controller.redis.ProtectedCacheTestController" />
+        <option name="method" value="get" />
+        <option name="methodDescription" value="受保护的并发缓存" />
         <option name="methodType" value="GET" />
         <option name="module" value="common-test" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/protectedCacheGet" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="name">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/protectedCacheGet" />
       </ParamGroup>
     </option>
     <option name="projectList">
