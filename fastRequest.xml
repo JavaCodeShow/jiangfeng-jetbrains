@@ -312,22 +312,21 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.jf.test.controller.redis.ProtectedCacheTestController" />
-        <option name="method" value="get" />
-        <option name="methodDescription" value="受保护的并发缓存" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="common-test" />
-        <option name="originUrl" value="/protectedCacheGet" />
-        <option name="requestParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="name">
+            <entry key="request">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/protectedCacheGet" />
+        <option name="className" value="com.mtl.fhl.customization.endpoint.ActivityApi" />
+        <option name="method" value="createActivity" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="fhl-customization-api" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
