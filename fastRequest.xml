@@ -326,7 +326,8 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="fhl-customization-api" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/endpoint/v1/activity/create" />
+        <option name="url" value="/endpoint/v1/activity/create" />
       </ParamGroup>
     </option>
     <option name="projectList">
