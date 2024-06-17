@@ -94,8 +94,9 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="FOREIGN" />
       <item value="DOMESTIC" />
+      <item value="venue country type" />
+      <item value="FOREIGN" />
       <item value="INTERNATIONAL" />
       <item value="国内" />
       <item value="form Template Has Used" />
@@ -143,15 +144,14 @@
       <item value="Returns {@code true} if all tasks have completed following shut down. Note that {@code isTerminated} is never {@code true} unless either {@code shutdown} or {@code shutdownNow} was called first. @return {@code true} if all tasks have completed following shut down" />
       <item value="Comma" />
       <item value="移除字符串最后一个逗号" />
-      <item value="sql Fragment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="319" />
+        <entry key="CHINESE" value="321" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="ENGLISH" value="317" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
