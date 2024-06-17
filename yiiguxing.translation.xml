@@ -80,10 +80,11 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1717641131987" />
+    <option name="lastTrimTime" value="1718609273881" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
+    <option name="showReplacementAction" value="false" />
     <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
@@ -93,6 +94,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="FOREIGN" />
+      <item value="DOMESTIC" />
+      <item value="INTERNATIONAL" />
+      <item value="国内" />
       <item value="form Template Has Used" />
       <item value="check Session Success Finish Cache" />
       <item value="Check Session Seccess Finish Cache" />
@@ -139,18 +144,14 @@
       <item value="Comma" />
       <item value="移除字符串最后一个逗号" />
       <item value="sql Fragment" />
-      <item value="compute If Absent" />
-      <item value="put If Absent" />
-      <item value="@Documented" />
-      <item value="Retention" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="314" />
+        <entry key="CHINESE" value="319" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="ENGLISH" value="315" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
