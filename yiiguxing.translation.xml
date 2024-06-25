@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1718609273881" />
+    <option name="lastTrimTime" value="1719306267751" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="单次限制" />
       <item value="DOMESTIC" />
       <item value="venue country type" />
       <item value="FOREIGN" />
@@ -143,15 +144,14 @@
       <item value="check Delivery Method Type" />
       <item value="Returns {@code true} if all tasks have completed following shut down. Note that {@code isTerminated} is never {@code true} unless either {@code shutdown} or {@code shutdownNow} was called first. @return {@code true} if all tasks have completed following shut down" />
       <item value="Comma" />
-      <item value="移除字符串最后一个逗号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="321" />
+        <entry key="CHINESE" value="322" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
