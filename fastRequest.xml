@@ -321,13 +321,12 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowApi" />
-        <option name="method" value="findCountByShowType" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.BizShowExtensionApi" />
+        <option name="method" value="updateFavoriteConfig" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/biz_shows/find_count_by_show_type" />
-        <option name="url" value="/endpoint/v1/cyy/biz_shows/find_count_by_show_type" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
