@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Returns an unmodifiable collection backed by the given collection. &lt;p&gt; This method uses the implementation in the decorators subpackage. @param collection the collection to make unmodifiable, must not be null @return an unmodifiable collection backed by the given collection @throws IllegalArgumentException if the collection is null" />
       <item value="单次限制" />
       <item value="DOMESTIC" />
       <item value="venue country type" />
@@ -143,15 +144,14 @@
       <item value="检查减少xxx" />
       <item value="check Delivery Method Type" />
       <item value="Returns {@code true} if all tasks have completed following shut down. Note that {@code isTerminated} is never {@code true} unless either {@code shutdown} or {@code shutdownNow} was called first. @return {@code true} if all tasks have completed following shut down" />
-      <item value="Comma" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="322" />
+        <entry key="CHINESE" value="323" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="ENGLISH" value="319" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
