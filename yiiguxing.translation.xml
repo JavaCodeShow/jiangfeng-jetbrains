@@ -94,6 +94,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="biz type tips" />
+      <item value="Tips" />
+      <item value="操作行为" />
+      <item value="描述" />
+      <item value="biz type tip" />
       <item value="get chinese language open or close" />
       <item value="get chinese open or close word" />
       <item value="TAG BATCH SYNC SESSION TICKET" />
@@ -139,19 +144,14 @@
       <item value="截至时间" />
       <item value="Deferred Result" />
       <item value="wait List Enabled" />
-      <item value="lock Interruptibly" />
-      <item value="Returns a stream consisting of the elements of this stream, sorted according to natural order. If the elements of this stream are not {@code Comparable}, a {@code java.lang.ClassCastException} may be thrown when the terminal operation is executed. &lt;p&gt;For ordered streams, the sort is stable. For unordered streams, no stability guarantees are made. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;stateful intermediate operation&lt;a&gt;. @return the new stream" />
-      <item value="set If Absent" />
-      <item value="影响" />
-      <item value="递归" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="326" />
+        <entry key="CHINESE" value="331" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="ENGLISH" value="327" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
