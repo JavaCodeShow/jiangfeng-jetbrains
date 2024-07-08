@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get chinese language open or close" />
+      <item value="get chinese open or close word" />
       <item value="TAG BATCH SYNC SESSION TICKET" />
       <item value="Returns an unmodifiable collection backed by the given collection. &lt;p&gt; This method uses the implementation in the decorators subpackage. @param collection the collection to make unmodifiable, must not be null @return an unmodifiable collection backed by the given collection @throws IllegalArgumentException if the collection is null" />
       <item value="单次限制" />
@@ -142,16 +144,14 @@
       <item value="set If Absent" />
       <item value="影响" />
       <item value="递归" />
-      <item value="检查减少xxx" />
-      <item value="check Delivery Method Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="324" />
+        <entry key="CHINESE" value="326" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="ENGLISH" value="322" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
