@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="拼接" />
       <item value="Convertor" />
       <item value="converter" />
       <item value="biz type tips" />
@@ -143,15 +144,14 @@
       <item value="WAIT LIST REFUND ANY TIME" />
       <item value="REFUND" />
       <item value="Cancel" />
-      <item value="截至时间" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="333" />
+        <entry key="CHINESE" value="334" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
