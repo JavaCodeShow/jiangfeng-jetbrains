@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1719993521082" />
+    <option name="lastTrimTime" value="1720529442381" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Convertor" />
+      <item value="converter" />
       <item value="biz type tips" />
       <item value="Tips" />
       <item value="操作行为" />
@@ -142,17 +144,16 @@
       <item value="REFUND" />
       <item value="Cancel" />
       <item value="截至时间" />
-      <item value="Deferred Result" />
-      <item value="wait List Enabled" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="331" />
+        <entry key="CHINESE" value="333" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="FINNISH" value="1" />
+        <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
