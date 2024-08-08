@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="offical" />
+      <item value="Confirm" />
       <item value="issue ticket" />
       <item value="hide session" />
       <item value="记录操作日志" />
@@ -142,16 +144,14 @@
       <item value="Create a RingBuffer supporting multiple event publishers to the one RingBuffer" />
       <item value="Create a RingBuffer with a single event publisher to the RingBuffer" />
       <item value="多少分钟查询一次" />
-      <item value="per Minutes" />
-      <item value="job多少分钟查询一次" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="338" />
+        <entry key="CHINESE" value="340" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="ENGLISH" value="335" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
