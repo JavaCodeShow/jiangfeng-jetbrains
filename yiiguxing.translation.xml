@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="lingual" />
+      <item value="multilingual show controller" />
       <item value="offical" />
       <item value="Confirm" />
       <item value="issue ticket" />
@@ -142,16 +144,14 @@
       <item value="get Time Str Of Now" />
       <item value="Contended" />
       <item value="Create a RingBuffer supporting multiple event publishers to the one RingBuffer" />
-      <item value="Create a RingBuffer with a single event publisher to the RingBuffer" />
-      <item value="多少分钟查询一次" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="340" />
+        <entry key="CHINESE" value="342" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="ENGLISH" value="337" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
