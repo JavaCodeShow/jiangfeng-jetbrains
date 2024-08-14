@@ -321,11 +321,11 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.BizShowExtensionApi" />
-        <option name="method" value="updateFavoriteConfig" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.mtl.cyy.show.controller.ProjectShowSessionController" />
+        <option name="method" value="batchSyncSessionStock" />
+        <option name="methodDescription" value="批量库存同步保存接口" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
+        <option name="module" value="cyy-seller-rest-provider" />
         <option name="url" value="" />
       </ParamGroup>
     </option>
