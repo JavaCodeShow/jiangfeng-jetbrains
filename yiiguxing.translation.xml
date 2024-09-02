@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1723534731014" />
+    <option name="lastTrimTime" value="1725261122334" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="occupy stocks" />
       <item value="need match ticket stocks" />
       <item value="need match stocks" />
       <item value="todo match stocks" />
@@ -143,15 +144,14 @@
       <item value="rateLimiter rule has changed, now need to generate new rateLimiter rule" />
       <item value="rateLimiter rule has changed" />
       <item value="seconds" />
-      <item value="秒" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="348" />
+        <entry key="CHINESE" value="349" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
