@@ -112,21 +112,6 @@
             <list>
               <HostGroup>
                 <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:9026/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="mtc-ticket" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
                 <option name="url" value="http://localhost:9031/" />
               </HostGroup>
               <HostGroup>
@@ -227,6 +212,21 @@
           </option>
           <option name="name" value="spring-boot-disruptor-study" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9527/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="cyy-ticket" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -301,9 +301,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011/" />
+    <option name="domain" value="http://localhost:9527/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-show" />
+    <option name="enableProject" value="cyy-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -321,12 +321,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.cyy.show.controller.ProjectShowSessionController" />
-        <option name="method" value="batchSyncSessionStock" />
-        <option name="methodDescription" value="批量库存同步保存接口" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.ReserveStockSessionApi" />
+        <option name="method" value="findById" />
+        <option name="methodDescription" value="根据Id查询" />
         <option name="methodType" value="POST" />
-        <option name="module" value="cyy-seller-rest-provider" />
-        <option name="url" value="" />
+        <option name="module" value="cyy-ticket-api" />
+        <option name="originUrl" value="/endpoint/v1/reserve_stock_session/find_by_id" />
+        <option name="url" value="/endpoint/v1/reserve_stock_session/find_by_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -338,7 +339,6 @@
         <option value="spring-boot-redis-study" />
         <option value="mtc-venue" />
         <option value="spring-boot-mybatis-study" />
-        <option value="mtc-ticket" />
         <option value="mtc-wms" />
         <option value="jf-common-test" />
         <option value="mtc-show-buyer" />
@@ -346,6 +346,7 @@
         <option value="ms-account" />
         <option value="ms-user" />
         <option value="spring-boot-disruptor-study" />
+        <option value="cyy-ticket" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
