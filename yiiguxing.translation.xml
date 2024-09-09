@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1725261122334" />
+    <option name="lastTrimTime" value="1725863209479" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="original delivery method type enum list" />
       <item value="特殊" />
       <item value="特殊的" />
       <item value="get has ticket sync session id list" />
@@ -143,15 +144,14 @@
       <item value="Backoff T" />
       <item value="SHOW SALE REMIND SET FAIL" />
       <item value="不展示候补开关" />
-      <item value="其他服务说明" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="355" />
+        <entry key="CHINESE" value="356" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
