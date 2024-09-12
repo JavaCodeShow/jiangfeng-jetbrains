@@ -82,21 +82,6 @@
             <list>
               <HostGroup>
                 <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:9014/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="mtc-venue" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
                 <option name="url" value="http://localhost:8080/" />
               </HostGroup>
               <HostGroup>
@@ -227,6 +212,21 @@
           </option>
           <option name="name" value="cyy-ticket" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9014/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="cyy-venue" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -301,9 +301,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9527/" />
+    <option name="domain" value="http://localhost:9014/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="cyy-ticket" />
+    <option name="enableProject" value="cyy-venue" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -321,13 +321,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.ReserveStockSessionApi" />
-        <option name="method" value="findById" />
-        <option name="methodDescription" value="根据Id查询" />
+        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.CyyZoneSeatSchemeApi" />
+        <option name="method" value="seatSchemaBindSeatPlanStatistic" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="cyy-ticket-api" />
-        <option name="originUrl" value="/endpoint/v1/reserve_stock_session/find_by_id" />
-        <option name="url" value="/endpoint/v1/reserve_stock_session/find_by_id" />
+        <option name="module" value="mtc-venue-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/zone_seat_schemes/seat_schema_bind_seat_plan_statistic" />
+        <option name="url" value="/endpoint/v1/cyy/zone_seat_schemes/seat_schema_bind_seat_plan_statistic" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -337,7 +337,6 @@
         <option value="mtc-show" />
         <option value="mtc-acs" />
         <option value="spring-boot-redis-study" />
-        <option value="mtc-venue" />
         <option value="spring-boot-mybatis-study" />
         <option value="mtc-wms" />
         <option value="jf-common-test" />
@@ -347,6 +346,7 @@
         <option value="ms-user" />
         <option value="spring-boot-disruptor-study" />
         <option value="cyy-ticket" />
+        <option value="cyy-venue" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
