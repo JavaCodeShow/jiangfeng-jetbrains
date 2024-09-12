@@ -321,13 +321,12 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.CyyZoneSeatSchemeApi" />
-        <option name="method" value="seatSchemaBindSeatPlanStatistic" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.SeatPlanTemplateApi" />
+        <option name="method" value="updateSeatPlanTemplateTotalStocks" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-venue-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/zone_seat_schemes/seat_schema_bind_seat_plan_statistic" />
-        <option name="url" value="/endpoint/v1/cyy/zone_seat_schemes/seat_schema_bind_seat_plan_statistic" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
