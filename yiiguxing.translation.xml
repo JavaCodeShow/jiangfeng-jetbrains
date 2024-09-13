@@ -94,6 +94,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="完成" />
+      <item value="issue ticket stocks" />
+      <item value="已配票" />
       <item value="Performing" />
       <item value="original delivery method type enum list" />
       <item value="特殊" />
@@ -141,17 +144,14 @@
       <item value="安全" />
       <item value="Enroll" />
       <item value="Future" />
-      <item value="Backoff Thread Factory" />
-      <item value="Backoff T" />
-      <item value="SHOW SALE REMIND SET FAIL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="357" />
+        <entry key="CHINESE" value="361" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="ENGLISH" value="356" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
