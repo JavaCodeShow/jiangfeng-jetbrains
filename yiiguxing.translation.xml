@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="allocatable cnt" />
       <item value="compute if absent" />
       <item value="assemble" />
       <item value="match occupy stocks flag" />
@@ -143,7 +144,6 @@
       <item value="国内" />
       <item value="form Template Has Used" />
       <item value="check Session Success Finish Cache" />
-      <item value="Check Session Seccess Finish Cache" />
     </histories>
     <option name="languageScores">
       <map>
