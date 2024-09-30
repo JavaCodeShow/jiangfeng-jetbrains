@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Statics" />
       <item value="allocatable cnt" />
       <item value="compute if absent" />
       <item value="assemble" />
@@ -143,15 +144,14 @@
       <item value="INTERNATIONAL" />
       <item value="国内" />
       <item value="form Template Has Used" />
-      <item value="check Session Success Finish Cache" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="364" />
+        <entry key="CHINESE" value="365" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
