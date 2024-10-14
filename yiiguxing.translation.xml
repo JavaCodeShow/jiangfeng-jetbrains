@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1727333213585" />
+    <option name="lastTrimTime" value="1728901060920" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="冒号" />
+      <item value="COLN" />
       <item value="Statics" />
       <item value="allocatable cnt" />
       <item value="compute if absent" />
@@ -142,16 +144,14 @@
       <item value="venue country type" />
       <item value="FOREIGN" />
       <item value="INTERNATIONAL" />
-      <item value="国内" />
-      <item value="form Template Has Used" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="365" />
+        <entry key="CHINESE" value="367" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="ENGLISH" value="362" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
