@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1729664386366" />
+    <option name="lastTrimTime" value="1730170255698" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="query issue party" />
       <item value="adjust" />
       <item value="reducing" />
       <item value="合规" />
@@ -143,15 +144,14 @@
       <item value="描述" />
       <item value="biz type tip" />
       <item value="get chinese language open or close" />
-      <item value="get chinese open or close word" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="374" />
+        <entry key="CHINESE" value="375" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="ENGLISH" value="370" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
