@@ -301,9 +301,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9014/" />
+    <option name="domain" value="http://localhost:9527/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="cyy-venue" />
+    <option name="enableProject" value="cyy-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -321,12 +321,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.SeatPlanTemplateApi" />
-        <option name="method" value="updateSeatPlanTemplateTotalStocks" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.ShowDistributionApi" />
+        <option name="method" value="queryBySaleMerchantId" />
+        <option name="methodDescription" value="分页查询分销给指定商户的ShowDistribution" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="url" value="" />
+        <option name="module" value="cyy-ticket-api" />
+        <option name="originUrl" value="/endpoint/v1/show_distribution/query_by_sale_merchant_id" />
+        <option name="url" value="/endpoint/v1/show_distribution/query_by_sale_merchant_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
