@@ -321,13 +321,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.ShowDistributionApi" />
-        <option name="method" value="queryBySaleMerchantId" />
-        <option name="methodDescription" value="分页查询分销给指定商户的ShowDistribution" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyTicketApi" />
+        <option name="method" value="updateStocksAndCombinedStocks" />
+        <option name="methodDescription" value="修改库存以及联票仓库存" />
         <option name="methodType" value="POST" />
         <option name="module" value="cyy-ticket-api" />
-        <option name="originUrl" value="/endpoint/v1/show_distribution/query_by_sale_merchant_id" />
-        <option name="url" value="/endpoint/v1/show_distribution/query_by_sale_merchant_id" />
+        <option name="originUrl" value="/endpoint/v1/cyy/ticket/update_stocks_and_combined_stocks" />
+        <option name="url" value="/endpoint/v1/cyy/ticket/update_stocks_and_combined_stocks" />
       </ParamGroup>
     </option>
     <option name="projectList">
