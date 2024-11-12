@@ -321,13 +321,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyTicketApi" />
-        <option name="method" value="updateStocksAndCombinedStocks" />
-        <option name="methodDescription" value="修改库存以及联票仓库存" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyTicketSeatApi" />
+        <option name="method" value="deleteSeatBySeatPlanSchemaId" />
+        <option name="methodDescription" value="删除选座数据" />
         <option name="methodType" value="POST" />
         <option name="module" value="cyy-ticket-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/ticket/update_stocks_and_combined_stocks" />
-        <option name="url" value="/endpoint/v1/cyy/ticket/update_stocks_and_combined_stocks" />
+        <option name="originUrl" value="/endpoint/v1/cyy/ticket/delete_seat_by_seat_plan_schema_id" />
+        <option name="url" value="/endpoint/v1/cyy/ticket/delete_seat_by_seat_plan_schema_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
