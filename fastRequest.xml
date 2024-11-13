@@ -301,9 +301,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9527/" />
+    <option name="domain" value="http://localhost:9014/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="cyy-ticket" />
+    <option name="enableProject" value="cyy-venue" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -321,13 +321,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyTicketSeatApi" />
-        <option name="method" value="deleteSeatBySeatPlanSchemaId" />
-        <option name="methodDescription" value="删除选座数据" />
+        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.CyyVenueSchemaApi" />
+        <option name="method" value="deleteByVenueSchemaId" />
+        <option name="methodDescription" value="删除场馆方案模板" />
         <option name="methodType" value="POST" />
-        <option name="module" value="cyy-ticket-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/ticket/delete_seat_by_seat_plan_schema_id" />
-        <option name="url" value="/endpoint/v1/cyy/ticket/delete_seat_by_seat_plan_schema_id" />
+        <option name="module" value="mtc-venue-cyy-api" />
+        <option name="originUrl" value="/endpoint/cyy/v1/venue_scheme/delete_by_venue_schema_id" />
+        <option name="url" value="/endpoint/cyy/v1/venue_scheme/delete_by_venue_schema_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
