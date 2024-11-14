@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Transaction" />
       <item value="Pure" />
       <item value="Changing" />
       <item value="also query prod show" />
@@ -143,15 +144,14 @@
       <item value="拼接" />
       <item value="Convertor" />
       <item value="converter" />
-      <item value="biz type tips" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="380" />
+        <entry key="CHINESE" value="381" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
