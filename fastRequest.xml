@@ -7,201 +7,6 @@
             <list>
               <HostGroup>
                 <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8080/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="template-ms" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8101/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="springboot-elasticsearch-study" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:9011/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="mtc-show" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:9033/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="mtc-acs" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8099/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="spring-boot-redis-study" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8080/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="spring-boot-mybatis-study" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:9031/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="mtc-wms" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8911/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="jf-common-test" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:9034/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="mtc-show-buyer" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8100/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="spring-boot-apollo-study" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8084/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="ms-account" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8083/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="ms-user" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8102/" />
-              </HostGroup>
-              <HostGroup>
-                <option name="env" value="dev" />
-                <option name="url" value="" />
-              </HostGroup>
-            </list>
-          </option>
-          <option name="name" value="spring-boot-disruptor-study" />
-        </NameGroup>
-        <NameGroup>
-          <option name="hostGroup">
-            <list>
-              <HostGroup>
-                <option name="env" value="localhost" />
                 <option name="url" value="http://localhost:9527/" />
               </HostGroup>
               <HostGroup>
@@ -226,6 +31,21 @@
             </list>
           </option>
           <option name="name" value="cyy-venue" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9011/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="cyy-show" />
         </NameGroup>
       </list>
     </option>
@@ -301,9 +121,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9014/" />
+    <option name="domain" value="http://localhost:9011/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="cyy-venue" />
+    <option name="enableProject" value="cyy-show" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -321,32 +141,20 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.CyyVenueSchemaApi" />
-        <option name="method" value="deleteByVenueSchemaId" />
-        <option name="methodDescription" value="删除场馆方案模板" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.ChannelSeatPlanTemplateApi" />
+        <option name="method" value="findById" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-venue-cyy-api" />
-        <option name="originUrl" value="/endpoint/cyy/v1/venue_scheme/delete_by_venue_schema_id" />
-        <option name="url" value="/endpoint/cyy/v1/venue_scheme/delete_by_venue_schema_id" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/channel_seat_plan_template/find_by_id" />
+        <option name="url" value="/endpoint/v1/channel_seat_plan_template/find_by_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
       <list>
-        <option value="template-ms" />
-        <option value="springboot-elasticsearch-study" />
-        <option value="mtc-show" />
-        <option value="mtc-acs" />
-        <option value="spring-boot-redis-study" />
-        <option value="spring-boot-mybatis-study" />
-        <option value="mtc-wms" />
-        <option value="jf-common-test" />
-        <option value="mtc-show-buyer" />
-        <option value="spring-boot-apollo-study" />
-        <option value="ms-account" />
-        <option value="ms-user" />
-        <option value="spring-boot-disruptor-study" />
         <option value="cyy-ticket" />
         <option value="cyy-venue" />
+        <option value="cyy-show" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
