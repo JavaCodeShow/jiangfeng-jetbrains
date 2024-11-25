@@ -141,13 +141,12 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.ChannelSeatPlanTemplateApi" />
-        <option name="method" value="findById" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/channel_seat_plan_template/find_by_id" />
-        <option name="url" value="/endpoint/v1/channel_seat_plan_template/find_by_id" />
+        <option name="className" value="com.mtl.cyy.show.controller.ChannelShowDistributeController" />
+        <option name="method" value="batchUpdateChannelSeatPlanTemplateStatus" />
+        <option name="methodDescription" value="隐藏或者显示票价模板" />
+        <option name="methodType" value="PUT" />
+        <option name="module" value="cyy-seller-rest-provider" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
