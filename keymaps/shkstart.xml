@@ -71,13 +71,17 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="shift alt l" second-keystroke="shift alt l" />
   </action>
+  <action id="List-selectPreviousRow" />
   <action id="MavenHelper.QuickRunMavenGoal" />
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
+  <action id="NavBar-selectUp" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="PopupMenu-selectNext" />
+  <action id="PopupMenu-selectPrevious" />
   <action id="QuickActionPopup" />
   <action id="RecentFiles" />
   <action id="RevealIn">
@@ -97,6 +101,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Table-selectPreviousRow" />
+  <action id="Tree-selectNext" />
+  <action id="Tree-selectPrevious" />
   <action id="Unwrap" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.ShowMessageHistory" />
