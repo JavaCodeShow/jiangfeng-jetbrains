@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1733296435740" />
+    <option name="lastTrimTime" value="1733801109824" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Duplicated" />
+      <item value="重复" />
+      <item value="重复的" />
       <item value="Returns a {@code Boolean} instance representing the specified {@code boolean} value. If the specified {@code boolean} value is {@code true}, this method returns {@code Boolean.TRUE}; if it is {@code false}, this method returns {@code Boolean.FALSE}. If a new {@code Boolean} instance is not required, this method should generally be used in preference to the constructor {@link Boolean(boolean)}, as this method is likely to yield significantly better space and time performance. @param b a boolean value. @return a {@code Boolean} instance representing {@code b}. @since 1.4" />
       <item value="HIDDEN" />
       <item value="搜索框" />
@@ -141,17 +144,14 @@
       <item value="match ticket" />
       <item value="todo match ticket stocks" />
       <item value="lingual" />
-      <item value="multilingual show controller" />
-      <item value="offical" />
-      <item value="Confirm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="388" />
+        <entry key="CHINESE" value="391" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="ENGLISH" value="386" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
