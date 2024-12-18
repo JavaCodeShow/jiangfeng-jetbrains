@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1733801109824" />
+    <option name="lastTrimTime" value="1734508999574" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="load from remote" />
       <item value="取消" />
       <item value="cancel" />
       <item value="cancle" />
@@ -143,15 +144,14 @@
       <item value="need match ticket stocks" />
       <item value="need match stocks" />
       <item value="todo match stocks" />
-      <item value="match ticket stocks" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="394" />
+        <entry key="CHINESE" value="395" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
