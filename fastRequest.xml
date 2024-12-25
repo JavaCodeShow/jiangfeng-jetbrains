@@ -141,12 +141,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.cyy.show.controller.ChannelShowDistributeController" />
-        <option name="method" value="batchUpdateChannelSeatPlanTemplateStatus" />
-        <option name="methodDescription" value="隐藏或者显示票价模板" />
+        <option name="className" value="com.mtl.cyy.ticket.controller.ReserveOperatorController" />
+        <option name="method" value="saveOperatorAndRole" />
+        <option name="methodDescription" value="保存操作人和角色" />
         <option name="methodType" value="PUT" />
         <option name="module" value="cyy-seller-rest-provider" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/seller/v1/reserve/save_operator_and_role" />
+        <option name="url" value="/seller/v1/reserve/save_operator_and_role" />
       </ParamGroup>
     </option>
     <option name="projectList">
