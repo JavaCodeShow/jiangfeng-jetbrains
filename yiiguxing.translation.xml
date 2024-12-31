@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1735027642943" />
+    <option name="lastTrimTime" value="1735642718106" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="disjoint" />
       <item value="禁用的" />
       <item value="启用的" />
       <item value="follow up stream is put on" />
@@ -143,15 +144,14 @@
       <item value="特殊的" />
       <item value="get has ticket sync session id list" />
       <item value="assign" />
-      <item value="指定为" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="400" />
+        <entry key="CHINESE" value="401" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="ENGLISH" value="396" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
