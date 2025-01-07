@@ -1,6 +1,7 @@
 <application>
   <component name="CosySettings">
     <option name="dedicatedDomainUrl" value="" />
+    <option name="exceptionResolveV2ModeEnum" value="DISABLED" />
     <option name="localStoragePath" value="C:\Users\jiangfeng\.lingma" />
     <option name="manualOpenLocalModel" value="true" />
     <option name="methodQuickSwitchEnum" value="DISABLED" />
@@ -131,6 +132,5 @@
     <option name="showCheckReportUsage" value="false" />
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineTriggerTips" value="false" />
-    <option name="upgradeStrategy" value="forbid" />
   </component>
 </application>
