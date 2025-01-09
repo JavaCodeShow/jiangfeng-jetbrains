@@ -80,10 +80,9 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1735642718106" />
+    <option name="lastTrimTime" value="1736410974070" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="primaryLanguage" value="AUTO" />
     <option name="showReplacementAction" value="false" />
     <option name="translator" value="YOUDAO" />
@@ -95,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="@return the ARGB value in hex string format, eg FF00FF00. Works for both regular and indexed colours." />
       <item value="disjoint" />
       <item value="禁用的" />
       <item value="启用的" />
@@ -144,15 +144,14 @@
       <item value="特殊" />
       <item value="特殊的" />
       <item value="get has ticket sync session id list" />
-      <item value="assign" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="401" />
+        <entry key="CHINESE" value="402" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
