@@ -146,8 +146,7 @@
         <option name="methodDescription" value="保存操作人和角色" />
         <option name="methodType" value="PUT" />
         <option name="module" value="cyy-seller-rest-provider" />
-        <option name="originUrl" value="/seller/v1/reserve/save_operator_and_role" />
-        <option name="url" value="/seller/v1/reserve/save_operator_and_role" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
