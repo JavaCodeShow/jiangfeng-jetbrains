@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="send latency fault enable" />
+      <item value="Math.abs" />
       <item value="Indicate whether to retry another broker on sending failure internally." />
       <item value="retry another broker when not store OK" />
       <item value="presented" />
@@ -142,16 +144,14 @@
       <item value="allocatable cnt" />
       <item value="compute if absent" />
       <item value="assemble" />
-      <item value="match occupy stocks flag" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="409" />
+        <entry key="CHINESE" value="411" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="ENGLISH" value="406" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
