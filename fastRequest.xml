@@ -47,6 +47,21 @@
           </option>
           <option name="name" value="cyy-show" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8911/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="common-test" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -121,9 +136,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9011/" />
+    <option name="domain" value="http://localhost:8911/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="cyy-show" />
+    <option name="enableProject" value="common-test" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -132,21 +147,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="request">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.mtl.cyy.ticket.controller.ReserveOperatorController" />
-        <option name="method" value="saveOperatorAndRole" />
-        <option name="methodDescription" value="保存操作人和角色" />
-        <option name="methodType" value="PUT" />
-        <option name="module" value="cyy-seller-rest-provider" />
-        <option name="url" value="" />
+        <option name="className" value="com.jf.test.controller.mq.MQTestController" />
+        <option name="method" value="testNormalSend" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="common-test" />
+        <option name="originUrl" value="/testNormalSend" />
+        <option name="url" value="/testNormalSend" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -154,6 +161,7 @@
         <option value="cyy-ticket" />
         <option value="cyy-venue" />
         <option value="cyy-show" />
+        <option value="common-test" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
