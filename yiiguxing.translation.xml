@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="mapped file" />
+      <item value="log.warn(&quot;putMessage not in lock eclipse time(ms)={}, bodyLength={}&quot;, eclipseTime, msg.getBody().length);" />
       <item value="send latency fault enable" />
       <item value="Math.abs" />
       <item value="Indicate whether to retry another broker on sending failure internally." />
@@ -142,16 +144,14 @@
       <item value="COLN" />
       <item value="Statics" />
       <item value="allocatable cnt" />
-      <item value="compute if absent" />
-      <item value="assemble" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="411" />
+        <entry key="CHINESE" value="413" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="ENGLISH" value="408" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
