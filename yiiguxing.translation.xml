@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1737012260770" />
+    <option name="lastTrimTime" value="1739255753261" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Indicate whether to retry another broker on sending failure internally." />
+      <item value="retry another broker when not store OK" />
+      <item value="presented" />
+      <item value="virtually" />
+      <item value="Wrapping internal implementations for virtually all methods presented in this class." />
       <item value="目标" />
       <item value="dest reserve stock id list" />
       <item value="@return the ARGB value in hex string format, eg FF00FF00. Works for both regular and indexed colours." />
@@ -139,19 +144,14 @@
       <item value="assemble" />
       <item value="match occupy stocks flag" />
       <item value="完成" />
-      <item value="issue ticket stocks" />
-      <item value="已配票" />
-      <item value="Performing" />
-      <item value="original delivery method type enum list" />
-      <item value="特殊" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="404" />
+        <entry key="CHINESE" value="409" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="ENGLISH" value="404" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
