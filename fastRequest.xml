@@ -152,8 +152,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="common-test" />
-        <option name="originUrl" value="/testNormalSend" />
-        <option name="url" value="/testNormalSend" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
