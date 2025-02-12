@@ -94,6 +94,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Here settings are stored timestamp, in order to ensure an orderly" />
+      <item value="depending on store config" />
+      <item value="Exclusive lock implementation to put message" />
+      <item value="nonfair sync" />
+      <item value="Spin lock Implementation to put message, suggest using this with low race conditions" />
       <item value="is inherited" />
       <item value="Fault" />
       <item value="Latency" />
@@ -139,19 +144,14 @@
       <item value="adjust" />
       <item value="reducing" />
       <item value="合规" />
-      <item value="合法" />
-      <item value="TICKET CABIN HOLDER" />
-      <item value="channel tech type" />
-      <item value="preview" />
-      <item value="冒号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="416" />
+        <entry key="CHINESE" value="421" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="ENGLISH" value="416" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
