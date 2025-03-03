@@ -136,9 +136,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9014/" />
+    <option name="domain" value="http://localhost:9527/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="cyy-venue" />
+    <option name="enableProject" value="cyy-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -156,13 +156,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.CyyZoneSeatConcreteApi" />
-        <option name="method" value="sessionStatisticsPreview" />
-        <option name="methodDescription" value="销售视图效果预览" />
+        <option name="className" value="com.mtl.mtc.ticket.cyy.endpoint.CyyTicketSeatApi" />
+        <option name="method" value="findTicketSeatAndConcreteByZoneV2" />
+        <option name="methodDescription" value="根据区域查询区域下座位示例和分销商户可用座位库存信息" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-venue-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/venue_concretes/session/statistics" />
-        <option name="url" value="/endpoint/v1/venue_concretes/session/statistics" />
+        <option name="module" value="cyy-ticket-api" />
+        <option name="originUrl" value="/endpoint/v2/cyy/ticket_seat/find_seat_and_concrete_by_zone" />
+        <option name="url" value="/endpoint/v2/cyy/ticket_seat/find_seat_and_concrete_by_zone" />
       </ParamGroup>
     </option>
     <option name="projectList">
