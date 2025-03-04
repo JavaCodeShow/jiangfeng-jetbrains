@@ -94,10 +94,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Enable transient commitLog store poll only if transientStorePoolEnable is true and the FlushDiskType is" />
       <item value="遮挡票" />
       <item value="拼接" />
       <item value="订单出票" />
-      <item value="Enable transient commitLog store poll only if transientStorePoolEnable is true and the FlushDiskType is" />
       <item value="Here settings are stored timestamp, in order to ensure an orderly" />
       <item value="depending on store config" />
       <item value="Exclusive lock implementation to put message" />
@@ -148,10 +148,10 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="425" />
+        <entry key="CHINESE" value="426" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
