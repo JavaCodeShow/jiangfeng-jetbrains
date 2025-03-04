@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1740125896393" />
+    <option name="lastTrimTime" value="1741076225525" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="result = false means some data committed." />
+      <item value="now wake up flush thread" />
+      <item value="important field" />
       <item value="Enable transient commitLog store poll only if transientStorePoolEnable is true and the FlushDiskType is" />
       <item value="遮挡票" />
       <item value="拼接" />
@@ -141,17 +144,14 @@
       <item value="Transaction" />
       <item value="Pure" />
       <item value="Changing" />
-      <item value="also query prod show" />
-      <item value="increase stocks" />
-      <item value="decrease stocks" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="426" />
+        <entry key="CHINESE" value="429" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="421" />
+        <entry key="ENGLISH" value="424" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
