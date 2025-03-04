@@ -94,6 +94,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Acquires the lock unless the current thread is interrupted. Acquires the lock if it is available and returns immediately." />
+      <item value="is thrown and the current thread's interrupted status is cleared." />
+      <item value="lock interruptibly" />
       <item value="package conflict detect" />
       <item value="result = false means some data committed." />
       <item value="now wake up flush thread" />
@@ -141,17 +144,14 @@
       <item value="Display" />
       <item value="下拉列表" />
       <item value="display seat plan template VO" />
-      <item value="显示" />
-      <item value="Transaction" />
-      <item value="Pure" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="430" />
+        <entry key="CHINESE" value="433" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="ENGLISH" value="428" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
