@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Move object to another database @param database - Redis database number @return &lt;code&gt;true&lt;code&gt; if key was moved else &lt;code&gt;false&lt;code&gt;" />
       <item value="Delay Delivery" />
       <item value="Illegal offset,may be too big or too small" />
       <item value="OFFSET ILLEGAL" />
@@ -143,15 +144,14 @@
       <item value="重复" />
       <item value="重复的" />
       <item value="Returns a {@code Boolean} instance representing the specified {@code boolean} value. If the specified {@code boolean} value is {@code true}, this method returns {@code Boolean.TRUE}; if it is {@code false}, this method returns {@code Boolean.FALSE}. If a new {@code Boolean} instance is not required, this method should generally be used in preference to the constructor {@link Boolean(boolean)}, as this method is likely to yield significantly better space and time performance. @param b a boolean value. @return a {@code Boolean} instance representing {@code b}. @since 1.4" />
-      <item value="HIDDEN" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="437" />
+        <entry key="CHINESE" value="438" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
