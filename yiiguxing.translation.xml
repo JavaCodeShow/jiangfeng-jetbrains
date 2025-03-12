@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="唯一的" />
+      <item value="唯一" />
       <item value="SECTOR" />
       <item value="TRADITIONAL CHINESE" />
       <item value="TRANSACTION NOT TYPE" />
@@ -142,16 +144,14 @@
       <item value="follow up stream is put on" />
       <item value="跟随上游" />
       <item value="follow up stream" />
-      <item value="load from remote" />
-      <item value="取消" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="444" />
+        <entry key="CHINESE" value="446" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="ENGLISH" value="441" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
