@@ -156,12 +156,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.VenueI18nApi" />
-        <option name="method" value="findByParamV2" />
+        <option name="className" value="com.mtl.mtc.show.cyy.job.TestController" />
+        <option name="method" value="findCityByIdList" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-venue-cyy-api" />
-        <option name="url" value="" />
+        <option name="module" value="mtc-show-cyy-rpc-provider" />
+        <option name="originUrl" value="/findCityByIdList" />
+        <option name="url" value="/findCityByIdList" />
       </ParamGroup>
     </option>
     <option name="projectList">
