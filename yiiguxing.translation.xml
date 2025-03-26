@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1742266584086" />
+    <option name="lastTrimTime" value="1742960356451" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Optional.ofNullable(cityI18nInfo.getDisplayName()).filter(StringUtils::isNotEmpty).ifPresent(cyyVenueInfo::setCityName);" />
       <item value="re process" />
       <item value="二次处理" />
       <item value="唯一的" />
@@ -143,7 +144,6 @@
       <item value="disjoint" />
       <item value="禁用的" />
       <item value="启用的" />
-      <item value="follow up stream is put on" />
     </histories>
     <option name="languageScores">
       <map>
