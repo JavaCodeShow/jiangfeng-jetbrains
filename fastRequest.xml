@@ -7,7 +7,7 @@
             <list>
               <HostGroup>
                 <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:9527/" />
+                <option name="url" value="http://localhost:9528/" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="dev" />
@@ -136,9 +136,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9014/" />
+    <option name="domain" value="http://localhost:9528/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="cyy-venue" />
+    <option name="enableProject" value="cyy-ticket" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -156,13 +156,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.venue.cyy.endpoint.TestController" />
-        <option name="method" value="findById" />
+        <option name="className" value="com.mtl.mtc.ticket.buyer.endpoint.CyyBuyerCacheBuildApi" />
+        <option name="method" value="buildCacheByBizShowId" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-venue-cyy-rpc-provider" />
-        <option name="originUrl" value="/find_city_by_id_list" />
-        <option name="url" value="/find_city_by_id_list" />
+        <option name="module" value="cyy-ticket-buyer-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/buyer/cache/build_by_biz_show_id" />
+        <option name="url" value="/endpoint/v1/cyy/buyer/cache/build_by_biz_show_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
