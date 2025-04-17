@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="bs location scene api" />
       <item value="Mon" />
       <item value="original lang" />
       <item value="Optional.ofNullable(cityI18nInfo.getDisplayName()).filter(StringUtils::isNotEmpty).ifPresent(cyyVenueInfo::setCityName);" />
@@ -143,15 +144,14 @@
       <item value="目标" />
       <item value="dest reserve stock id list" />
       <item value="@return the ARGB value in hex string format, eg FF00FF00. Works for both regular and indexed colours." />
-      <item value="disjoint" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="450" />
+        <entry key="CHINESE" value="451" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
