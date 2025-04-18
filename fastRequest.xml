@@ -62,6 +62,21 @@
           </option>
           <option name="name" value="common-test" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:9024/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mtc-operation" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -136,9 +151,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9528/" />
+    <option name="domain" value="http://localhost:9024/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="cyy-ticket" />
+    <option name="enableProject" value="mtc-operation" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -156,12 +171,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.cyy.shop.controller.ShopSeatPlanController" />
-        <option name="method" value="batchUpdateSeatPlanSaleStatus" />
-        <option name="methodDescription" value="批量启停售票价" />
-        <option name="methodType" value="PUT" />
-        <option name="module" value="cyy-seller-rest-provider" />
-        <option name="url" value="" />
+        <option name="className" value="com.mtl.mtc.operation.api.bslocation.BsLocationRecommendApi" />
+        <option name="method" value="findRecommendLocationsByIds" />
+        <option name="methodDescription" value="根据 locationId 获取建议层级数据" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="mtc-operation-api" />
+        <option name="originUrl" value="/endpoint/v1/bslocation/find_recommend_locations_by_ids" />
+        <option name="url" value="/endpoint/v1/bslocation/find_recommend_locations_by_ids" />
       </ParamGroup>
     </option>
     <option name="projectList">
@@ -170,6 +186,7 @@
         <option value="cyy-venue" />
         <option value="cyy-show" />
         <option value="common-test" />
+        <option value="mtc-operation" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
