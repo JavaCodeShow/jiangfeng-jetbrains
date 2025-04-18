@@ -156,13 +156,12 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.ticket.buyer.endpoint.CyyBuyerCacheBuildApi" />
-        <option name="method" value="buildCacheByBizShowId" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="cyy-ticket-buyer-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/buyer/cache/build_by_biz_show_id" />
-        <option name="url" value="/endpoint/v1/cyy/buyer/cache/build_by_biz_show_id" />
+        <option name="className" value="com.mtl.cyy.shop.controller.ShopSeatPlanController" />
+        <option name="method" value="batchUpdateSeatPlanSaleStatus" />
+        <option name="methodDescription" value="批量启停售票价" />
+        <option name="methodType" value="PUT" />
+        <option name="module" value="cyy-seller-rest-provider" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
