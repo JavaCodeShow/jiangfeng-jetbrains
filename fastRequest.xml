@@ -151,9 +151,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9024/" />
+    <option name="domain" value="http://localhost:9011/" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="mtc-operation" />
+    <option name="enableProject" value="cyy-show" />
     <option name="envList">
       <list>
         <option value="localhost" />
@@ -171,13 +171,13 @@
             </entry>
           </map>
         </option>
-        <option name="className" value="com.mtl.mtc.operation.api.bslocation.BsLocationRecommendApi" />
-        <option name="method" value="findRecommendLocationsByIds" />
-        <option name="methodDescription" value="根据 locationId 获取建议层级数据" />
+        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowApi" />
+        <option name="method" value="findById" />
+        <option name="methodDescription" value="根据ID查询BizShow" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-operation-api" />
-        <option name="originUrl" value="/endpoint/v1/bslocation/find_recommend_locations_by_ids" />
-        <option name="url" value="/endpoint/v1/bslocation/find_recommend_locations_by_ids" />
+        <option name="module" value="mtc-show-cyy-api" />
+        <option name="originUrl" value="/endpoint/v1/cyy/biz_shows/find_by_id" />
+        <option name="url" value="/endpoint/v1/cyy/biz_shows/find_by_id" />
       </ParamGroup>
     </option>
     <option name="projectList">
