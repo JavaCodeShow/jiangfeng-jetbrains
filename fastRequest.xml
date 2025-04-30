@@ -162,22 +162,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="request">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.mtl.mtc.show.cyy.endpoint.CyyBizShowApi" />
-        <option name="method" value="findById" />
-        <option name="methodDescription" value="根据ID查询BizShow" />
+        <option name="className" value="com.mtl.mtc.show.cyy.job.TestController" />
+        <option name="method" value="CyyCloseSessionJob" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="mtc-show-cyy-api" />
-        <option name="originUrl" value="/endpoint/v1/cyy/biz_shows/find_by_id" />
-        <option name="url" value="/endpoint/v1/cyy/biz_shows/find_by_id" />
+        <option name="module" value="mtc-show-cyy-rpc-provider" />
+        <option name="originUrl" value="/CyyCloseSessionJob" />
+        <option name="url" value="/CyyCloseSessionJob" />
       </ParamGroup>
     </option>
     <option name="projectList">
