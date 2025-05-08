@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1746003113998" />
+    <option name="lastTrimTime" value="1746675894857" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="local" />
       <item value="逻辑" />
       <item value="bs location scene api" />
       <item value="Mon" />
@@ -143,15 +144,14 @@
       <item value="virtually" />
       <item value="Wrapping internal implementations for virtually all methods presented in this class." />
       <item value="目标" />
-      <item value="dest reserve stock id list" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="452" />
+        <entry key="CHINESE" value="453" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="FINNISH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
