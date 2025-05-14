@@ -14,6 +14,7 @@
         <entry key="developer" value="default" />
       </map>
     </option>
+    <option name="commandAllowList" value="" />
     <option name="dedicatedDomainUrl" value="" />
     <option name="localStoragePath" value="C:\Users\jiangfeng\.lingma" />
     <option name="manualOpenLocalModel" value="true" />
