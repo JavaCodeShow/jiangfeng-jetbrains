@@ -1,8 +1,15 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModeSelected">
+      <map>
+        <entry key="G:/morefungroup/cyy-show" value="agent" />
+      </map>
+    </option>
     <option name="chatModelSelected">
       <map>
+        <entry key="G:/morefungroup/cyy-show-assistant" value="default" />
         <entry key="G:/morefungroup/cyy-show-chat" value="default" />
+        <entry key="G:/morefungroup/cyy-show-developer" value="default" />
         <entry key="chat" value="default" />
         <entry key="developer" value="default" />
       </map>
@@ -491,6 +498,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="show_group在我们项目里面已经生成了" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="CREATE TABLE `task` (&#10;  `id` char(24) NOT NULL COMMENT '主键',&#10;  `biz_show_id` char(24) NOT NULL DEFAULT '' COMMENT '端节目id',&#10;  `std_show_id` char(24) NOT NULL DEFAULT '' COMMENT '中心节目id',&#10;  `task_type` varchar(40) NOT NULL COMMENT '任务类型，TRANSFORM_OFFICIAL;APPLY_SEAT_PLAN_SCHEMA',&#10;  `task_status` varchar(20) NOT NULL COMMENT '任务状态，DOING,DONE',&#10;  `operator_id` char(24) NOT NULL COMMENT '操作员id',&#10;  `operator_name` varchar(64) NOT NULL COMMENT '操作员名称',&#10;  `attach_props` mediumtext COMMENT '附加字段，比如节目转正的目标场次状态',&#10;  `is_deleted` tinyint(1) NOT NULL DEFAULT '0' COMMENT '逻辑删除标记',&#10;  `create_time` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',&#10;  `update_time` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',&#10;  PRIMARY KEY (`id`),&#10;  KEY ` idx_biz_show` (`biz_show_id`) USING BTREE,&#10;  KEY `idx_std_show` (`std_show_id`) USING BTREE,&#10;  KEY `idx_update_time` (`update_time`) USING BTREE&#10;) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='调度任务表'&#10;&#10;&#10;&#10;&#10;比如说现在新加了一个表，基于我现在的项目结构，帮我生产这个表的基本CRUD所有的文件&#10;&#10;好的，我来帮你参考 ShowGroup 的目录结构重新生成 Task 相关的文件。让我先查找一下 ShowGroup 相关的文件结构。" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
