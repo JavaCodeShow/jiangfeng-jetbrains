@@ -961,6 +961,25 @@
             </list>
           </value>
         </entry>
+        <entry key="mtc-venue|201185213769535128|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="我现在有三个表venue,std_show、theatre表都有city_id字段。我需要把这三个表中所有的city_id去重找出来。怎么写sql&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="mtc-venue|201185213769535128|AiDeveloper">
           <value>
             <list>
